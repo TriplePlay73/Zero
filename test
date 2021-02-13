@@ -1,1 +1,9 @@
-test
+#EXTM3U
+
+#EXTINF:-60, U 1
+http://192.166.246.122/hls/ovostreamss1.m3u8
+
+#EXTINF:-60, U 2
+http://185.53.88.39:8081/abr_hls/abr_S-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDk6Mzk6MzMgUE0maGFzaF92YWx1ZT1URVhUVUMyb3dxUFArKzM2S1dWeU1RPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTE1
+
+
