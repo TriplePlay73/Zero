@@ -44,7 +44,7 @@ http://185.53.88.39:8081/abr_hls/abr_S-1/hls/S-1_720p/chunks.m3u8
 https://cdn.elitegol.me/live/tv1.m3u8
 
 #EXTINF:-60, U 15
-https://ok.ru/videoembed/2403899874929
+https://vigor.angelthump.com/hls/holydiver.m3u8
 
 #EXTINF:-60, U 16
 https://lon-haproxy.angelthump.com/hls/holydiver/index.m3u8?stream=holydiver
