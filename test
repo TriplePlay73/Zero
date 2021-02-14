@@ -6,16 +6,6 @@ http://192.166.246.122/hls/ovostreamss1.m3u8
 #EXTINF:-60, U 2
 http://185.53.88.39:8081/abr_hls/abr_S-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDk6Mzk6MzMgUE0maGFzaF92YWx1ZT1URVhUVUMyb3dxUFArKzM2S1dWeU1RPT0mdmFsaWRtaW51dGVzPTMwJnN0cm1fbGVuPTE1
 
-#EXTINF:-60, U 3
-http://cdn4.hhdstreams.club/live/abr_ch1/live/ch1/chunks.m3u8?nimblesessionid=41460&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDExOjMyOjE4IFBNJmhhc2hfdmFsdWU9encwT25UNEo4OG5KWWJuTGQrU0l0UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA4LjE2Mi4yMTYuMjQyJnN0cm1fbGVuPTU=
-
-
-#EXTINF:-60, U 4
-http://185.53.88.39:8081/abr_hls/abr_S-1/hls/S-1_720p/chunks.m3u8?nimblesessionid=2694704&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDExOjM0OjUwIFBNJmhhc2hfdmFsdWU9OHRRMnp0TkpUcERVS0pmZlJWMktRZz09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xNQ==
-
-#EXTINF:-60, U 5
-http://maruadiana.azureedge.net/hls/ufcstream/chunks.m3u8
-
 #EXTINF:-60, U 6
 https://cdn.elitegol.me/live/tv1.m3u8
 
@@ -24,12 +14,6 @@ https://hls.myvideocontent.ru/hls/user73651/index.m3u8
 
 #EXTINF:-60, U 8
 https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/0989aec4245d41f592dafdc1a40e5a46/index.m3u8
-
-#EXTINF:-60, U 9
-http://77.247.109.94/hls/F1.m3u8
-
-#EXTINF:-60, U 10
-http://d5x6jgu1cawua.cloudfront.net/edge/BTS1/chunks.m3u8
 
 #EXTINF:-60, U 11
 http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
@@ -43,12 +27,5 @@ http://185.53.88.39:8081/abr_hls/abr_S-1/hls/S-1_720p/chunks.m3u8
 #EXTINF:-60, U 14
 https://cdn.elitegol.me/live/tv1.m3u8
 
-#EXTINF:-60, U 15
-https://vigor.angelthump.com/hls/holydiver.m3u8
 
-#EXTINF:-60, U 16
-https://lon-haproxy.angelthump.com/hls/holydiver/index.m3u8?stream=holydiver
-
-#EXTINF:-60, U 17
-https://singlemusic.akamaized.net/edge-en/ngrp:live_ab35d690629a11eb88acc1ba190ab94d_all/tracks-v1a1/mono.m3u8
 
