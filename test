@@ -43,4 +43,12 @@ http://185.53.88.39:8081/abr_hls/abr_S-1/hls/S-1_720p/chunks.m3u8
 #EXTINF:-60, U 14
 https://cdn.elitegol.me/live/tv1.m3u8
 
+#EXTINF:-60, U 15
+https://ok.ru/videoembed/2403899874929
+
+#EXTINF:-60, U 16
+https://lon-haproxy.angelthump.com/hls/holydiver/index.m3u8?stream=holydiver
+
+#EXTINF:-60, U 17
+https://singlemusic.akamaized.net/edge-en/ngrp:live_ab35d690629a11eb88acc1ba190ab94d_all/tracks-v1a1/mono.m3u8
 
