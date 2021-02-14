@@ -12,3 +12,14 @@ http://cdn4.hhdstreams.club/live/abr_ch1/live/ch1/chunks.m3u8?nimblesessionid=41
 
 #EXTINF:-60, U 4
 http://185.53.88.39:8081/abr_hls/abr_S-1/hls/S-1_720p/chunks.m3u8?nimblesessionid=2694704&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDExOjM0OjUwIFBNJmhhc2hfdmFsdWU9OHRRMnp0TkpUcERVS0pmZlJWMktRZz09JnZhbGlkbWludXRlcz0zMCZzdHJtX2xlbj0xNQ==
+
+#EXTINF:-60, U 5
+http://maruadiana.azureedge.net/hls/ufcstream/chunks.m3u8
+
+#EXTINF:-60, U 6
+https://cdn.elitegol.me/live/tv1.m3u8
+
+#EXTINF:-60, U 7
+https://hls.myvideocontent.ru/hls/user73651/index.m3u8
+
+
