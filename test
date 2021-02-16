@@ -1,6 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1, Folk
-Folk HQM
+#EXTINF:-1, Folk HQM
 https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/index-f4-v1-a1.m3u8
+
+
+#EXTINF:-1, POP *VEVO
+https://dai2.xumo.com/xumocdn/p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
