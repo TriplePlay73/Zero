@@ -2,8 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1, CPAC 2021
-https://live-ak.vimeocdn.com/exp=1614457809~acl=%2Fe57eb07a-2502-4602-9d7d-90174aba8afa%2F%2A~hmac=eb9bb1f462fb0bef2c1a6c7632dae9994fc00ae465a5d7245ffd7296c224663a/e57eb07a-2502-4602-9d7d-90174aba8afa/hls.m3u8
-
+https://live-ak.vimeocdn.com/exp=1614461527~acl=%2Fe57eb07a-2502-4602-9d7d-90174aba8afa%2F%2A~hmac=0ea33d882c9897b38b094ba797c5b3a427f890c8e06e66996301d8dee9e30094/e57eb07a-2502-4602-9d7d-90174aba8afa/hls.m3u8?min_seconds=30
 #EXTINF:-1, CPAC-Room 1
 https://play.boxcast.com/p/nrhpcbukihjuuzc1yaus/v/all-byteranges-ext.m3u8?Expires=1614544896&Signature=dmZW70R2to~8UuPkv~eo5-sbudxodtWNVywA6O93UO~-3IAHz0bxVXXgClN1Snw1KHWmnyCjG25OWMrz6Ll5D5Ouwn0jJ17TOEQTlFw2~eBLa4IMNSmWFELMkiQVCgkixVWxeIXrY9-UqLiL5xuSHDCNPSdwB3MIhtZjH09oaTeEPbtFzkHXwnxSII6zu5pcLWhjTkbf23McR~WDTU66-w1phtTpNbee9VYl1g8WWElGgkY277SK20-KeEj5TTwahYFqteTCqvJzEB2kdKqCiDjyvgoNu79TzeGlHnB9JpcLs3KzL6qPWw8k9MYNFNWtD-gxSpD-rpkors5tiQFGDw__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 
