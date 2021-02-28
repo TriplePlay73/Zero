@@ -36,6 +36,26 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://45.153.33.134:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=
 
 
+#EXTINF:-1, B 1
+
+http://45.86.190.115/hls/s1.m3u8
+
+
+
+#EXTINF:-1, B 2
+https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/apibss.m3u8?s=ItM-NqwRuKac-wQbvx423g&e=1614495280
+
+
+
+
+#EXTINF:-1,  B 3
+http://77.247.109.94/hls/A2.m3u8
+
+
+
+#EXTINF:-1, B 4
+https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/0ca08k.m3u8?s=EqQDyDH8eBBL9A2uFXhVoQ&e=1614496859
+
 
 
 
