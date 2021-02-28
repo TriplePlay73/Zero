@@ -1,6 +1,10 @@
 
 #EXTM3U
 
+#EXTINF:-1, Day - 3 * CPAC
+https://live-fd164e1.rmbl.ws/cpac-7JBM/ngrp:general_all/playlist.m3u8?
+
+
 #EXTINF:-1, U 1
 http://crack.azzcrackstream.xyz/streams/ufc/chunks.m3u8
 
