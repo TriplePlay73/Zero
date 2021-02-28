@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1, U 1
+http://crack.azzcrackstream.xyz/streams/ufc/chunks.m3u8
+
 #EXTINF:-1, CPAC 2021
 https://live-ak.vimeocdn.com/exp=1614461527~acl=%2Fe57eb07a-2502-4602-9d7d-90174aba8afa%2F%2A~hmac=0ea33d882c9897b38b094ba797c5b3a427f890c8e06e66996301d8dee9e30094/e57eb07a-2502-4602-9d7d-90174aba8afa/hls.m3u8?min_seconds=30
 #EXTINF:-1, CPAC-Room 1
