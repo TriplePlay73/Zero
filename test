@@ -8,6 +8,9 @@ https://live-fd164e1.rmbl.ws/cpac-7JBM/ngrp:general_all/playlist.m3u8?
 https://live-fd164e1.rmbl.ws/cpac-7JBM/ngrp:general_all/chunklist_b2831072.m3u8
 
 
+#EXTINF:-1, Day - 3 * CPAC 2021 * ALT * YOUTUBE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614566719/ei/3wA8YKqrOMPXhwaNjI7IBw/ip/75.188.185.189/id/XwimtTaM2n4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMf0_4xWPo2dSJfa55-S7FKn6Dp_Bt_b8LU-ufjAzdDdAiEA67oSh8wbt1xlmWg6vJQkEAQNjI15qPLHKiNVz59UD6E%3D/file/index.m3u8
+
 #EXTINF:-1, U 1
 http://crack.azzcrackstream.xyz/streams/ufc/chunks.m3u8
 
