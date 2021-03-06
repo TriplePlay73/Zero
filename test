@@ -2,9 +2,6 @@
 #EXTM3U
 
 
-#EXTINF:-1, U 0
-http://g.crackstream.gq/oufc.m3u8
-
 #EXTINF:-1, U 1
 http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 
@@ -13,4 +10,25 @@ http://ddj9u6p75hbce.cloudfront.net/hls/ovostreamss1.m3u8
 
 #EXTINF:-1, U 3
 http://crack1.azzcrackstream.xyz/streams/MMA/chunks.m3u8
+
+
+
+#EXTINF:-1, U 4
+http://d14et2f7wpylwd.cloudfront.net/stream/prelims_1080p30.m3u8
+
+
+
+#EXTINF:-1, U 5
+http://stream.nbaweb.xyz/hls/F1.m3u8
+
+
+#EXTINF:-1, U 6
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+
+
+#EXTINF:-1, U 7
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/55c9fec1dea0724.m3u8
+
+
+
 
