@@ -9,17 +9,14 @@ http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 #EXTINF:-1, U 2
 http://crack1.azzcrackstream.xyz/streams/MMA/chunks.m3u8
 
-#EXTINF:-1, U 3
-http://d14et2f7wpylwd.cloudfront.net/stream/prelims_1080p30.m3u8
 
-#EXTINF:-1, U 4
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+
+
 
 #EXTINF:-1, U 5
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idh7zq2id42h/b/bucket-20210227-1637/o/ufcux.m3u8
 
-#EXTINF:-1, U 6
-https://rwyzjmd8vxbgug4d.ezcdn383.net:8443/hls/wz4u4h8u.m3u8?s=N19HTAH5BzTb7Yx_87uDFQ&e=1615098777
+
 
 #EXTINF:-1, U 7
 https://lon-haproxy.angelthump.com/hls/chihayalove72/index.m3u8?stream=chihayalove72
@@ -27,8 +24,7 @@ https://lon-haproxy.angelthump.com/hls/chihayalove72/index.m3u8?stream=chihayalo
 #EXTINF:-1, U 8
 https://d3r2monjhh5xm3.cloudfront.net/hls/sportek-live.m3u8
 
-#EXTINF:-1, U 9
-http://c5.catchystream.com:8080/hls/ch2_1/index.m3u8
+
 
 #EXTINF:-1, U 10
 https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_2c6U14oz/wixmp-3dbd5cb16bb136182e099f78_2c6U14oz_res720p/index.m3u8
