@@ -6,6 +6,8 @@
 #EXTINF:-60, U 0001
 https://e16.dotice.me/plyvivo/hlz1Sev9DT6dIQrpBZfP/chunklist.m3u8
 
+#EXTINF:-60, U 0002
+https://d1sa6qvuy1xfqm.cloudfront.net/edge/NBA2/chunks.m3u8
 
 #EXTINF:-1, U 1
 http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
