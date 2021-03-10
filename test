@@ -1,2 +1,63 @@
 
-9999
+#EXTM3U
+
+#EXTINF:-1, CH 3 *WKYC
+https://hls.locastnet.org/proxy/cle/master/704TG0oATUz0JaMLJSqLqOjUOBOZm8GBeWpHZxTXIDGZclKZamLnLNg8sQQSo0NtFjhg4y73AyyLlBMt9mFAdzvuYXNJBiIE4ZakkFjyUABD.m3u8
+
+#EXTINF:-1, Crime *WKYC
+https://hls.locastnet.org/proxy/cle/variant/4fy4a4kZOf7icGAPhnnP21QSWzvNGWfEbC1i6UdeZV41f31RIHPPRGywqujItX4aQRF3icqwociWx2MjW18OTCKHx5eoSrCKwU88NzQLpEh4.m3u8
+
+
+#EXTINF:-1, COZI *WKYC
+https://hls.locastnet.org/proxy/cle/variant/iOQQ2Hicl1RO0y5Mrkwc5aTR3LKZ5cZxfsulgycwTWbo0Jw3OSaFbrhINXv19Pu5nrf5W6FMlshLxbGMGVRH595DWh6px6ZxRRXjhVXr5X4.m3u8
+
+#EXTINF:-1, QUEST *WKYC
+https://hls.locastnet.org/proxy/cle/variant/vPbyUujOb471WpFWOb5qDLw21jN1rpyrpqWr0rc9HieX8fduDXBMQGFmsTu18XXkaAIwNz0wBDN42HxtznBd2oULHbFyIesdseEaBE2XQYY.m3u8
+
+#EXTINF:-1, CH 5 *WEWS
+https://hls.locastnet.org/proxy/cle/master/Jria5D3BGKoQVYGFGs2FOMFq49Ake8HG3uITNxJkSMfkIGLfLtXVSnOG3l2NcUK5pk0neXIGYuD2aejTxpZVPjJZBbHmK76Vk8h6vJSTiQR.m3u8
+
+
+#EXTINF:-1, Grit *WEWS
+https://hls.locastnet.org/proxy/cle/variant/5LgzYMm7v9HtaNE40r2dQwBdvXM8HJrlBW5xXIj1xn7LEPvHLMtTeL3a2XjtNEm4goOiOtQrxF9YJ5wjhjHku6qIiQ9UvEBubhmSrWaup7aY.m3u8
+
+#EXTINF:-1, Laff *WEWS
+https://hls.locastnet.org/proxy/cle/variant/FAO3VvumrNAQoBJ4i2iA9RT54Ds6tvzzZytRLragvV693v1C6NPcbknnvEP2AAr0QycNwSofhjRzusQOEht3ee0RPFGhfu3cCKMXwzsQOIo.m3u8
+
+#EXTINF:-1, Court TV *WEWS
+https://hls.locastnet.org/proxy/cle/variant/5yVaZ2uVgQWFC7GVIDToyHEq9JkE5YdAUKJpATNiNXHDXv8iYfu6dp4uib03KWSbWQ2kvFc8O7FX64q6rhqDKiBUauKKYtVJPIH4RHTjiDny.m3u8
+
+#EXTINF:-1, CH 8 *WJW
+https://hls.locastnet.org/proxy/cle/master/680dpMeD405dq6MoUdMuQRUmaCX4rlDEcwLAfL7e1CQppNQJ3niTC0W0n0kC6xN0q9Cu1EMH8mbIskWwvrGG7Ea8ysCme3SdLcf4GfdeLXTD.m3u8
+
+#EXTINF:-1, Antenna TV *WJW
+https://hls.locastnet.org/proxy/cle/variant/3oYHsDPcdfdTImrrY2dMdh5csSUeybMoLHggixE0MS1i5EI4qIAy47eZlZuQJwWiZeJzYnKNg6h7kMrWaWtCBiCy1h6A5UgiAzj6dFSws7nq.m3u8
+
+#EXTINF:-1, Comet *WJW
+https://hls.locastnet.org/proxy/cle/variant/3xq7AsPt9Q4jO7pafpeG3WaKDb6KFNVcS2syUqSiSC16KWOAKQ845xrSFC0k3bQJHsi16TPfiqKx5VmZNAlyLEvCx1IgFZ1P0E7YjBrkoBFW.m3u8
+
+
+#EXTINF:-1, Charge *WJW
+https://hls.locastnet.org/proxy/cle/variant/4Cu59RPrBTfjZRQwXQGYSZUUwLETr8vityv6bPId8IyV0UtnFdnf3NQtNLQy1TUsPQ5BvqYum6ijYh9xdoYKl8kQnA6NZ5AdnWRhEXHkxOko.m3u8
+
+#EXTINF:-1, CH 19 *WOIO
+https://hls.locastnet.org/proxy/cle/master/EExX7qVUGPjjKH9mXY8OLWRyrlXAQRJZCL0DnNJTQCvoomRBPvVsvpprXULzA1va48ODp9q4SncuEzEiZTvV8AcqODjruLu98AeN69Rshwt.m3u8
+
+#EXTINF:-1, METV *WOIO
+https://hls.locastnet.org/proxy/cle/variant/5aIVCmOgk3N8m79EJT5KD5wNCnuKxOGcIwTP13ZhODzQQH1DyKY9IaNsBf8BMLGiWykdsJkUW1AhwWbZxAcZCnzVUNjDAmFCFTYAw90hI21u.m3u8
+
+#EXTINF:-1, Dabl *WIOI
+https://hls.locastnet.org/proxy/cle/variant/4qf4MG14Twf1sv9SEmEAnecA1g9n4XHc2SxaxR09lVweu3hxEocYo6r4VOGfm3Dwh9ucvOjt1aqlnhUQsLs0vOLS5NIB6wy9zAz6O9gWh7PC.m3u8
+
+#EXTINF:-1, MMN *
+https://hls.locastnet.org/proxy/cle/variant/obFOMquRRJX1FtyYH03bFKPGQ6VCBbrYeH4QPnzX2Ob9v23rlbSnMM5DzOrcRVdn86L5Jez772fsVltxlAchcSl2RzMPS0LdGdubCnbNcoo.m3u8
+
+#EXTINF:-1, Cheddar 
+https://hls.locastnet.org/proxy/cle/variant/6JvlBsGVe1b5P7aRpWz1XNZmJta5UwjtoavRVK3GhHElv6uxAbVyL1Z69EutJfjrCbfMU1k1pZji7dO7kBWL7ma9ugQ3StS3dOzjP9Ck2Fpu.m3u8
+
+#EXTINF:-1, ???
+https://hls.locastnet.org/proxy/cle/variant/5alrgmklB1bEfh2tbg60lGsjGvoZKCdTyRi51yA9D1UJ5Y9piAVhssCmAZAotPs6symLsjrt8xP0gxjtOY6TmzVi6BkKcp9hKYBSIxs4dCZi.m3u8
+
+#EXTINF:-1, ION *WVPX
+https://hls.locastnet.org/proxy/cle/master/5eP2J6dJZnfTweUIERV6XSyGjvePoUkadASuSCxWx6IUQdMcrAwP1x32swC6CAB2mjefiwp7kTVbrxVqThAJGUNZcCTzLw3pM6awq8P6BFuR.m3u8
+
