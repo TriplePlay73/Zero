@@ -1,8 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,F 1
-http://o.crackstreams.gq/show/box/chunks.m3u8
 
+
+#EXTINF:-1, U 1
+http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
+
+
+#EXTINF:-1, U 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 
 
