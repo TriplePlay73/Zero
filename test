@@ -2,24 +2,8 @@
 
 
 
-#EXTINF:-1, U 1
-http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
-
-
-#EXTINF:-1, U 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
-#EXTINF:-1, U 3
-https://6q4cp33931zknrh.ezcdn462.net:8443/hls/5ub3rtx.m3u8?s=fnvL3mY4FmJ8pYFfuZW3Hg&e=1615701122
 
 
 
-
-#EXTINF:-1, U 4
-https://telerium.digital/ingest013/46550.m3u8?sf=ZldHNDc0cXZHUQ==&token=4L-eE27AoHXmjeCX6LKn2g&expires=1615679912&rnd=46550
-
-
-
-#EXTINF:-1, U 5
-https://6q4cp33931zknrh.ezcdn462.net:8443/hls/5ub3rtx.m3u8?s=H-6MOWBs0D3m7KnQ11F-Cg&e=1615701306
+#EXTINF:-1,Cleveland, Ohio - Dr. Sherri Tenpenny - Why You MUST Refuse The Vaccine
+https://sp.rmbl.ws/s8/2/v/T/0/D/vT0Db.caa.1.mp4?u=0&b=0
