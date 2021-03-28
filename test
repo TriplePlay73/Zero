@@ -1,4 +1,3 @@
-#EXTM3U
 
 #EXTM3U
 
@@ -16,8 +15,7 @@ http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 
 http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
 
-#EXTINF:-1, U 4
-https://repackager.wixmp.com/wixmp-vod/d3a52694-1db7-49fb-947a-d8ee167bfc28/video/e8a1e60d97724270a0d381aabde51c19/720p/mp4/file.mp4/index-v1-a1.m3u8
+
 
 #EXTINF:-1, U 5
 https://hls.myvideocontent.ru/hls/user73651/index.m3u8
@@ -28,8 +26,9 @@ http://crack.azzcrackstream.xyz/streams/UFC/chunks.m3u8
 #EXTINF:-1, U 7
 http://crack.azzcrackstream.xyz/streams/UFC/playlist.m3u8
 
+
 #EXTINF:-1, U 8
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_3qyQzIAf/wixmp-3dbd5cb16bb136182e099f78_3qyQzIAf_.m3u8
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_ZKXSL06e/wixmp-3dbd5cb16bb136182e099f78_ZKXSL06e_res720p/index.m3u8
 
 
 
