@@ -1,6 +1,18 @@
 
+
+
 #EXTM3U
 
+#EXTINF:-1, U 1
+http://77.247.109.92/hls/W1.m3u8
+
+
+#EXTINF:-1, U 2
+http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
+
+
+#EXTINF:-1, U 3
+http://77.247.109.111/hls/A3.m3u8
 
 
 
