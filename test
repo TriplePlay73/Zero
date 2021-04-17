@@ -4,6 +4,49 @@
 #EXTM3U
 
 
+#EXTINF:-1, MAIN 1
+
+https://hls.myvideocontent.ru/hls/user73651/index.m3u8
+
+
+
+
+#EXTINF:-1, MAIN 2
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1, MAIN 3
+https://lon-haproxy.angelthump.com/hls/gl777/index.m3u8?stream=gl777
+
+
+
+
+
+#EXTINF:-1, MAIN 4
+http://bilasport.net/ch/espnplus.m3u8
+
+
+
+#EXTINF:-1, MAIN 5
+http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
+
+#EXTINF:-1, MAIN 6
+http://crack1.azzcrackstream.xyz/streams/MMA/chunks.m3u8
+
+
+#EXTINF:-1, MAIN 7
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1, P 1
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1, P 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+
+
+
 
 #EXTINF:-1, B-1
 http://o.crackstreams.is/show/box2/playlist.m3u8
