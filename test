@@ -4,7 +4,11 @@
 #EXTM3U
 
 
+#EXTINF:-1, aka 1
+http://k.crackstreams.gq/show/mma2/chunks.m3u8
 
+#EXTINF:-1, lfa 1
+http://1.crackstreams.gq/show/mma3/chunks.m3u8
 
 #EXTINF:-1, BX 1
 https://dbdmyz5fdbx4o.cloudfront.net/out/v1/ce177e1bc81f4e3ea879a2d3aac24afe/index_5.m3u8
