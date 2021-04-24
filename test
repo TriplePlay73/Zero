@@ -3,62 +3,8 @@
 
 #EXTM3U
 
-
-#EXTINF:-1, aka 1
-http://k.crackstreams.gq/show/mma2/chunks.m3u8
-
-#EXTINF:-1, lfa 1
-http://1.crackstreams.gq/show/mma3/chunks.m3u8
-
-#EXTINF:-1, BX 1
-https://dbdmyz5fdbx4o.cloudfront.net/out/v1/ce177e1bc81f4e3ea879a2d3aac24afe/index_5.m3u8
-
-
-#EXTINF:-1, BX 2
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/4075af4ea2954867bdfddeb999093ee6/index3_3.m3u8
-
-
-
-#EXTINF:-1, BX 3
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/4f222579c08c4f949ece7d10477ea603/index_1.m3u8
-
-
-
-
-
-
-#EXTINF:-1, MAIN 1
-
-https://hls.myvideocontent.ru/hls/user73651/index.m3u8
-
-
-
-
 #EXTINF:-1, MAIN 2
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-
-#EXTINF:-1, MAIN 3
-https://lon-haproxy.angelthump.com/hls/gl777/index.m3u8?stream=gl777
-
-
-
-
-
-#EXTINF:-1, MAIN 4
-http://bilasport.net/ch/espnplus.m3u8
-
-
-
-#EXTINF:-1, MAIN 5
-http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
-
-#EXTINF:-1, MAIN 6
-http://crack1.azzcrackstream.xyz/streams/MMA/chunks.m3u8
-
-
-#EXTINF:-1, MAIN 7
-https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1, P 1
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
@@ -69,49 +15,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 
 
-
-
-#EXTINF:-1, B-1
-http://o.crackstreams.is/show/box2/playlist.m3u8
-
 #EXTINF:-1, U 1
 http://77.247.109.92/hls/W1.m3u8
-
-
-#EXTINF:-1, U 2
-http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
-
-
-#EXTINF:-1, U 3
-http://77.247.109.111/hls/A3.m3u8
-
-
-
-#EXTINF:-1, U 2
-http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
-
-#EXTM3U
-
-
-#EXTINF:-1, U 3
-
-
-http://cdn.maskamr.xyz/live/MMA/chunks.m3u8
-
-
-
-#EXTINF:-1, U 5
-https://hls.myvideocontent.ru/hls/user73651/index.m3u8
-
-#EXTINF:-1, U 6
-http://crack.azzcrackstream.xyz/streams/UFC/chunks.m3u8
-
-#EXTINF:-1, U 7
-http://crack.azzcrackstream.xyz/streams/UFC/playlist.m3u8
-
-
-#EXTINF:-1, U 8
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_ZKXSL06e/wixmp-3dbd5cb16bb136182e099f78_ZKXSL06e_res720p/index.m3u8
 
 
 
