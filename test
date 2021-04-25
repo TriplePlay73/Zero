@@ -3,32 +3,9 @@
 
 #EXTM3U
 
-#EXTINF:-1, Navarette VS Diaz 
-http://nbo.crackstreams.gq/show/box/chunks.m3u8
-
-#EXTINF:-1, EARLY PRELIMS @ 6PM
-https://gma2.blab.email/espn2.m3u8
 
 
-#EXTINF:-1, PRELIMS @ 8PM
-https://gma2.blab.email/fs2.m3u8 
-
-
-
-#EXTINF-1, A **TONIGHTS LINKS** 
-https://frnksocial.mmdlive.lldns.net/frnksocial/0bae63f27d8944e3b4dc516a75e457f8/manifest.m3u8
-
-
-
-#EXTINF-1, B (PRELIMS)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
-#EXTINF-1, C (PRELIMS)
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-
-
-#EXTINF-1, D (MAIN CARD) D through Z
+#EXTINF-1, D 
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 
