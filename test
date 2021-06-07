@@ -3,6 +3,29 @@
 
 #EXTM3U
 
+
+#EXTINF:-1, #1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1, #2
+http://77.247.109.95/hls/F1.m3u8
+
+#EXTINF:-1, #3
+http://jkansm.azureedge.net/streams/BOX1/chunks.m3u8
+
+
+
+#EXTINF:-1, #4
+https://vkvsd20.mycdn.me/hls/1374178576909.m3u8/sig/u9aJqrUXi9s/srcIp/154.6.20.119/expires/1623483288498/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3056867814157/id/1374178576909/1374178576909_high/index.m3u8
+
+
+#EXTINF:-1, #5
+https://r9uxprta46.azcdn107.net:8443/hls/c2kxuno.m3u8?s=xVXCTqoIIPb4ZuOLXTgvHA&e=1623045958
+
+
+
+
+
 #EXTINF:-1, PRELIMS @ 8PM
 https://gma2.blab.email/fs2.m3u8 
 
