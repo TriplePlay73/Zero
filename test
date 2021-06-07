@@ -23,7 +23,12 @@ https://vkvsd20.mycdn.me/hls/1374178576909.m3u8/sig/u9aJqrUXi9s/srcIp/154.6.20.1
 https://r9uxprta46.azcdn107.net:8443/hls/c2kxuno.m3u8?s=xVXCTqoIIPb4ZuOLXTgvHA&e=1623045958
 
 
+#EXTINF:-1, #6
+https://dvo8ml907i163.cloudfront.net/out/v1/2a7f7e0c939a4659a33a98984d0d0044/index_5.m3u8
 
+
+#EXTINF:-1, #7
+https://stream.funcontent.ru/hls/user73651/index.m3u8
 
 
 #EXTINF:-1, PRELIMS @ 8PM
