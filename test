@@ -8,5 +8,56 @@
 #EXTINF:-1 group-title="6/12/2021", ESPN - Prelims @ 6pm & 8pm
 https://gma2.blab.email/fs2.m3u8 
 
-#EXTINF:-1 group-title="6/12/2021", 1
+
+#EXTINF:-1 group-title="6/12/2021",  P5
+https://d2emgtvzrlw9dp.cloudfront.net/out/v1/eeb8228d2bd54615ab7426700e08ac1a/index_5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIxIDEwOjQ1OjQxIFBNJmhhc2hfdmFsdWU9MW0zYytPWW9QRzZ6V1NVZmk3NUhvdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xODYuMjAyJnN0cm1fbGVuPTU=
+
+
+
+#EXTINF:-1 group-title="6/12/2021", p6
+http://bhauik.azureedge.net/edge/NBA1/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="6/12/2021", p7
+https://d1egqd0t1i1w9u.cloudfront.net/out/v1/f44038f4884643c7ba5c5e7e0b63b037/index.m3u8
+
+
+
+#EXTINF:-1 group-title="6/12/2021", p8
+http://45.148.26.173/hls/S1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIxIDExOjI0Cjo0NQogUE0maGFzaF92YWx1ZT1kK0tvbzNCZUZKSVV2YVJtdjg0QlZRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDEuOTguMTc4LjIxNyZzdHJtX2xlbj00
+
+
+#EXTINF:-1 group-title="6/12/2021", p9
+http://cdn1.cyclingstreams.xyz/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDIxIDExOjI3CjowOAogUE0maGFzaF92YWx1ZT01eGF3cVRaeGU4ck1GSmI3ZkdYclBBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzMuMjQ1LjU0LjIzNyZzdHJtX2xlbj00
+
+
+#EXTINF:-1 group-title="6/12/2021", p10
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="6/12/2021", p11
+https://teleriumtv.com/ingest05/46550.m3u8?sf=ZldHNDc0cXZHUQ==&token=RAvAhRfwPKNoIU0VA5AEiQ&expires=1623541234&rnd=46550
+
+
+#EXTINF:-1 group-title="6/12/2021", p12
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
+
+
+#EXTINF:-1 group-title="6/12/2021", p13
+http://www.topbestvideos.com/images/look79/index.m3u8
+
+
+#EXTINF:-1 group-title="6/12/2021", p14
+http://www.topbestvideos.com/images/look201/index.m3u8
+
+
+
+#EXTINF:-1 group-title="6/12/2021", P15
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="6/12/2021", P16
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
 
