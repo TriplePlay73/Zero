@@ -34,10 +34,14 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="6/12/2021",  P8
 http://67.207.90.166/live/ovo1/playlist.m3u8
 
+
 #EXTINF:-1 group-title="6/12/2021", p9
-http://d2i3l9irjhsoz6.cloudfront.net/hls/ufc/playlist.m3u8
+https://d12i16l0nunxj.cloudfront.net/out/v1/ea6574557cd14ead97fcab9faf3cf04f/index_5.m3u8
+
 
 #EXTINF:-1 group-title="6/12/2021", p10
-https://sonydai.akamaized.net/hls/live/2005444/DAI3MENNN/master.m3u8?hdnea=exp=1623591165~acl=/*~id=2105300115184403457~hmac=8e2cb04a082d1a3fd22e6b34a6783a7091e303e89bba289c3de7325ec63f0d97
+http://157.245.85.26/live/ovo1/chunks.m3u8?nimblesessionid=120284
 
+#EXTINF:-1 group-title="6/12/2021", p11
+https://d1oz1xnm1d2nlj.cloudfront.net/out/v1/cff0045499ef4cf08c0611fb21d7b801/index_4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDI6Mzk6MTMgQU0maGFzaF92YWx1ZT1jMHNlenp6Wm9RNm9xWUR1Q24zd3FnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNzIuNzAuMTEwLjE4NiZzdHJtX2xlbj01
 
