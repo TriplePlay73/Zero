@@ -60,4 +60,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="6/12/2021", P16
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
+#EXTINF:-1 group-title="6/12/2021", p17
+https://e10.cdnfoxtv.me/ingestnb4s/espn_usa/master.m3u8
+
+#EXTINF:-1 group-title="6/12/2021", p18
+https://x.wmsxx.com:30443/live/31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDEyOjA2OjE0IEFNJmhhc2hfdmFsdWU9OEVWMVVJVHROQWF3bURxWHcrRlozZz09JnZhbGlkbWludXRlcz0xMjA=
+
 
