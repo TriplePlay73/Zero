@@ -34,5 +34,10 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="6/12/2021",  P8
 http://67.207.90.166/live/ovo1/playlist.m3u8
 
-#EXTINF:-1 group-title="6/12/2021", ESPN - Prelims @ 6pm & 8pm
-https://gma2.blab.email/fs2.m3u8 
+#EXTINF:-1 group-title="6/12/2021", p9
+http://d2i3l9irjhsoz6.cloudfront.net/hls/ufc/playlist.m3u8
+
+#EXTINF:-1 group-title="6/12/2021", p10
+https://sonydai.akamaized.net/hls/live/2005444/DAI3MENNN/master.m3u8?hdnea=exp=1623591165~acl=/*~id=2105300115184403457~hmac=8e2cb04a082d1a3fd22e6b34a6783a7091e303e89bba289c3de7325ec63f0d97
+
+
