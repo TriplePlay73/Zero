@@ -4,4 +4,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="6/12/2021", p1
+#EXTINF:-1 group-title="", p1
+http://157.230.186.248/live/ovo1/chunks.m3u8?nimblesessionid=203692
+
+#EXTINF:-1 group-title="", p2
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="", p3
+http://weakshahs.azureedge.net/edge/MMA/chunks.m3u8
+
+
+#EXTINF:-1 group-title="", p4
+http://g.givemenbastreams.com/hls/ufc/playlist.m3u8
+
+
+#EXTINF:-1 group-title="", p5
+https://ustvnowmsl2.akamaized.net/hls/live/2010524/espntwomsl1/espntwomsl1/playlist.m3u8?hdnts=st=1624131815~exp=1624146215~acl=!*/2010524/espntwomsl1/*!/payload/yupptvott_5_325845_bdec9964-642e-aa51-645f-3e50110850b5_US_45.130.83.154_ustvnow_3_channel_67_-1/*~data=yupptvott_5_325845_bdec9964-642e-aa51-645f-3e50110850b5_US_45.130.83.154_ustvnow_3_channel_67_-1~hmac=fa1a203abdd8688380b03844d44fb78f1db754bc6756d98c2538ca8688af42c8
+
+
+
