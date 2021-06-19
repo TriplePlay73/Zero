@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 group-title="", p1
-http://157.230.186.248/live/ovo1/chunks.m3u8?nimblesessionid=203692
+http://167.99.226.111/live/ovo1/playlist.m3u8
 
 #EXTINF:-1 group-title="", p2
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
