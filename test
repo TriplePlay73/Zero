@@ -11,9 +11,11 @@ http://167.99.226.111/live/ovo1/playlist.m3u8
 http://live.nonsavefiles.xyz/live/espn2.m3u8
 
 #EXTINF:-1 group-title="", p3
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.ok.ru/videoembed/3351336984178?nochat=1
 
 #EXTINF:-1 group-title="", p4
-https://x.wmsxx.com:30443/live/31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDEyOjEyOjU5IEFNJmhhc2hfdmFsdWU9Myt1c3ZzWEFmUjNZaVo4L214UXRCUT09JnZhbGlkbWludXRlcz0xMjA=
+http://77.247.109.111/hls/A1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDI6MDcKOjMyCiBBTSZoYXNoX3ZhbHVlPVhnYnBTT0Z6UDlUbU51SmxvVW9VZWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTY0LjE0NS45NC4xMTcmc3RybV9sZW49NA==
+
+
 
 
