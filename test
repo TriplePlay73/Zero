@@ -15,7 +15,7 @@ https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445
 #EXTINF:-1 group-title="", Frank *1080
 https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/chunklist_b4192000.m3u8
 
-#EXTINF:-1  group-title="News",Newsmax TV *Direct Link
+#EXTINF:-1  group-title="",Newsmax TV *Direct Link
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 
