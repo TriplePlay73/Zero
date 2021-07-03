@@ -12,6 +12,11 @@ https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
 #EXTINF:-1 group-title="", Frank *1080
 https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/chunklist_b4192000.m3u8
 
+#EXTINF:-1  group-title="News",Newsmax TV *Direct Link
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+
+
 #EXTINF:-1 group-title="", Youtube
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624772650/ei/yrvXYIelN8Pn8gTo7pCIBQ/ip/75.188.185.189/id/-l561c_BR-w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgaBnxzhHGHrOLTHFtbSvEWCeyJ4rUE3B2q5qu28M5SAYCIQCgxYPYgEXb6gGmPm8RAONzLQtd2okaMRp1SWci_9vCNQ%3D%3D/file/index.m3u8
 
