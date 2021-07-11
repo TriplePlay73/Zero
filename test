@@ -5,15 +5,9 @@
 
 
 
-#EXTINF:-1 group-title="",1
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_XTg3VGTb/wixmp-3dbd5cb16bb136182e099f78_XTg3VGTb_res720p/index.m3u8
-
-
 #EXTINF:-1 group-title="",2
 https://stream.funcontent.ru/hls/user73651/index.m3u8
 
-#EXTINF:-1 group-title="",3
-https://nusxdb2k9p.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=8Ou09OmB3Mfv6QsXwPFnWA&e=1625981153
 
 #EXTINF:-1 group-title="",4
 https://dlrwqcuy4t7rf.cloudfront.net/out/v1/2e9d08e6483c4f3fafb905baf3bfcb18/index_4.m3u8
@@ -22,14 +16,6 @@ https://dlrwqcuy4t7rf.cloudfront.net/out/v1/2e9d08e6483c4f3fafb905baf3bfcb18/ind
 #EXTINF:-1 group-title="",5
 http://stream2.grandma.fit/fs2.m3u8
 
-#EXTINF:-1 group-title="",6
-https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/25d71f9dc46945b3bcd4eabf6e0cb2f8/sk_2.m3u8
-
-#EXTINF:-1 group-title="",7
-https://nusxdb2k9p.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=SMd-kSMx5sNeAka5hhDaiA&e=1625985058
-
-#EXTINF:-1 group-title="",8
-https://nusxdb2k9p.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=LeTR4bP0JRpTOJDVDojGbA&e=1625984941
 
 #EXTINF:-1 group-title="",9
 https://live-c348a30.rmbl.ws/slot-34/ngrp:1fd8-jvta_all/playlist.m3u8
@@ -40,29 +26,10 @@ https://dlrwqcuy4t7rf.cloudfront.net/out/v1/2e9d08e6483c4f3fafb905baf3bfcb18/ind
 #EXTINF:-1 group-title="",11
 https://nusxdb2k9p.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=V6DWTh70dhlGn8Tn2GPMlA&e=1625980028
 
-#EXTINF:-1 group-title="",12
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_y0UegDou/wixmp-3dbd5cb16bb136182e099f78_y0UegDou_.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="",13 PRE
-http://77.247.109.117/hls/F1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDEwOjE5CjoxNAogUE0maGFzaF92YWx1ZT0yYVpTN0Q0OS9TNkJrRG5kTzBmUE9nPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDMuMjExLjE4LjE5NiZzdHJtX2xlbj00
-
-#EXTINF:-1 group-title="",14
-https://nusxdb2k9p.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=SVPKGO3WoOHo-7NzwCFU5A&e=1625975779
 
 #EXTINF:-1 group-title="",15
 http://tghvjsdghfyrs.ntgdhsgfs.re/lv1/2.m3u8
 
-#EXTINF:-1 group-title="",16
-https://gma2.blab.email/fs2.m3u8
-
-#EXTINF:-1 group-title="",17
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 group-title="",18
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
