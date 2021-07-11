@@ -5,42 +5,20 @@
 
 
 
-#EXTINF:-1 group-title="",2
-https://stream.funcontent.ru/hls/user73651/index.m3u8
+#EXTINF:-1 group-title="", Trump's Save America Rally  *Rumble Live*RSBN
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
 
+#EXTINF:-1 group-title="", RSBN *1080 
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
 
+#EXTINF:-1 group-title="", Frank
+https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/manifest.m3u8
 
+#EXTINF:-1 group-title="", Frank *1080
+https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/chunklist_b4192000.m3u8
 
-#EXTINF:-1 group-title="",9
-https://live-c348a30.rmbl.ws/slot-34/ngrp:1fd8-jvta_all/playlist.m3u8
-
-
-#EXTINF:-1 group-title="",15
-http://tghvjsdghfyrs.ntgdhsgfs.re/lv1/2.m3u8
-
-
-#EXTINF:-1 group-title="",21
-https://wowzaprodhd48-lh.akamaihd.net/i/e1482d19_1@351654/index_2560000_av-p.m3u8?sd=10&rebase=on
-
-
-
-
-
-#EXTINF:-1 group-title="",25
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_y0UegDou/wixmp-3dbd5cb16bb136182e099f78_y0UegDou_.m3u8
-
-
-
-#EXTINF:-1 group-title="",26
-https://d3d6ep65jy78d0.cloudfront.net/out/v1/2aa5468cf799416aa86daf8d7d1628ea/index_4.m3u8
-
-
-
-#EXTINF:-1 group-title="",27
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=2900000.m3u8
-
-
-
+#EXTINF:-1  group-title="",Newsmax TV *Direct Link
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 
 
