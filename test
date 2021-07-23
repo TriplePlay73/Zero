@@ -28,31 +28,18 @@ https://ustvgo.tv/big-ten-network|autowebzoom=120scroll=50,100
 https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", WWE Network
 https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", ESPN
-https://ustvgo.tv/espn-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", ESPN2
 https://ustvgo.tv/espn2-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", ESPNU
 https://ustvgo.tv/espnu|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", ESPNEWS
 https://ustvgo.tv/espnews|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", Fox Sports 1
-https://ustvgo.tv/fox-sports-1|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", FOX Sports 2
 https://ustvgo.tv/fox-sports-2|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", NBC Sports 
-https://ustvgo.tv/nbcsn|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", NBA TV
-https://ustvgo.tv/nba-tv|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", MLB Network
 https://ustvgo.tv/mlb-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", TBS
 https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", Tennis Channel
-https://ustvgo.tv/tennis-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", Golf Channel
-https://ustvgo.tv/golf-channel|autowebzoom=120scroll=50,100
-
 
 
 
