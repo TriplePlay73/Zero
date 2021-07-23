@@ -3,8 +3,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="",  BKFC
+#EXTINF:-1 group-title="",  BKFC 1
 http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDExOjE5Cjo0MAogUE0maGFzaF92YWx1ZT1qc1V5NUZZN1Nvc0dNeW1SNjF3OS9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNjkuNjMuNjUmc3RybV9sZW49NA==
+
+#EXTINF:-1 group-title="",  BKFC 2
+http://allsportsmedia.live/novo/footy/bkfc-19/?sport=boxing|autowebzoom=120scroll=50,100
+
+
 
 
 
