@@ -11,6 +11,23 @@ https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 
 
 
+#EXTINF:-1 group-title="USTVGO KIDS", Boomerang
+https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="USTVGO KIDS",Disney Jr
+https://ustvgo.tv/disneyjr/
+#EXTINF:-1 group-title="USTVGO KIDS",Nicktoons
+https://ustvgo.tv/nicktoons/
+#EXTINF:-1 group-title="USTVGO KIDS",Disney XD
+https://ustvgo.tv/disneyxd/
+#EXTINF:-1 group-title="USTVGO KIDS",Disney Channel
+https://ustvgo.tv/disney-channel-live-streaming-free/
+#EXTINF:-1 group-title="USTVGO KIDS",Nickelodeon
+https://ustvgo.tv/nickelodeon-live-streaming-free/
+#EXTINF:-1 group-title="USTVGO KIDS",Cartoon Network
+https://ustvgo.tv/cartoon-network/
+
+
+
 
 #EXTINF:-1 group-title="USTVGO Sports", Oylmpic Channel
 https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
