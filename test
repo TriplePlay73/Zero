@@ -4,12 +4,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="",  BKFC
-http://liveonscore.tv/mma-boxing/paige-vanzant-vs-rachael-ostovich/29230/?sport=boxing|autowebzoom=120scroll=50,100
+http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDExOjE5Cjo0MAogUE0maGFzaF92YWx1ZT1qc1V5NUZZN1Nvc0dNeW1SNjF3OS9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNjkuNjMuNjUmc3RybV9sZW49NA==
 
 
-
-#EXTINF:-1 group-title="",  BKFC
-http://pro.freestreams-live1.com/bare-knuckle-live-stream|weballgig
 
 
 #EXTINF:-1 group-title="", Olympic *USTVGO
