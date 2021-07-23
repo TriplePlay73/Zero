@@ -26,8 +26,13 @@ https://ustvgo.tv/cbs-sports-network|autowebzoom=120scroll=50,100
 https://ustvgo.tv/big-ten-network|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", YES Network
 https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
+
 #EXTINF:-1 group-title="USTVGO Sports", WWE Network
 https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTVGO Sports", WWE Network
+https://ustvgo.tv/wwe-network|webviewzoom=100scroll=50,100
+
 #EXTINF:-1 group-title="USTVGO Sports", ESPN2
 https://ustvgo.tv/espn2-live|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="USTVGO Sports", ESPNU
