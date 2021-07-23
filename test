@@ -3,6 +3,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="", Olympic *USTVGO
+https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
+
 
 #EXTINF:-1 group-title="", T1
 https://ustvgo.tv/olympic-channel|weballgig
@@ -10,7 +13,7 @@ https://ustvgo.tv/olympic-channel|weballgig
 #EXTINF:-1 group-title="",  T2
 https://ustvgo.tv/olympic-channel|webviewzoom=100scroll=50,100
 
-#EXTINF:-1 group-title="",  T3
+#EXTINF:-1 group-title="", Olympic *USTVGO
 https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 
 
