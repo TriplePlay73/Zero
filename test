@@ -4,6 +4,22 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="", T1
+https://ustvgo.tv/olympic-channel|weballgig
+
+#EXTINF:-1 group-title="",  T2
+https://ustvgo.tv/olympic-channel|webviewzoom=100scroll=50,100
+
+#EXTINF:-1 group-title="",  T3
+https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="", Trump's Save America Rally  *Rumble Live*RSBN
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
