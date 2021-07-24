@@ -20,7 +20,14 @@ https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="", Olympic *Free2View
 https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 
+#EXTINF:-1 group-title="123",Showtime
+http://123tv.live/watch/showtime|webviewzoom=100scroll=50,100
 
+#EXTINF:-1 group-title="123",Showtime
+http://123tv.live/watch/showtime|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="123",Showtime
+http://123tv.live/watch/showtime|weballgig
 
 
 #EXTINF:-1 group-title="USTVGO", ABC
