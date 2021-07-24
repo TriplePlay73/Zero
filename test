@@ -52,16 +52,6 @@ https://www.ustream.to/live/hbo-usa/fa72c88150f2d15174aa5ecaf82d927d|autowebzoom
 #EXTINF:-1 group-title="USTREAM",History
 https://www.ustream.to/live/history-channel/18acc3c77b5b3f44db92d4361b73a255|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="USTREAM",ID (Investigation Discovery)
-https://www.ustream.to/live/investigation-discovery/512e5c7cea1c6afad90ca4335bc2d9fb|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",Me TV
-https://www.ustream.to/live/metv/d96917f5cc84a807bb85f90bacb2d9af|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",National Geographic
-https://www.ustream.to/live/national-geographic/6e766f3d19701b81e199f05a04f82e43|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="USTREAM",NBA
 https://www.ustream.to/live/nba-tv/0b8ff3c7b78f7d77aa5550714582fa26|autowebzoom=120scroll=50,100
@@ -76,16 +66,7 @@ https://www.ustream.to/live/usa-network/9048bf05b791446c12b11bd830a386c9|autoweb
 https://www.ustream.to/live/showtime/85c9b7f801fd750874ce52bf4e38439d|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="USTREAM",Spike TV
-https://www.ustream.to/live/spike-tv-usa/ad5c07363a79e3d945b4c5ea17ce03de|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="USTREAM",Tennis Channel
-https://www.ustream.to/live/tennis-channel/0c493d20a11930e4980725d94b0203ec|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="USTREAM",UFC Fight Pass
-https://www.ustream.to/live/ufc-fight-pass/ebf1e2a58191a5a17065ef2b64e3ec17|autowebzoom=120scroll=50,100
 
 
 
