@@ -7,6 +7,38 @@
 #EXTINF:-1 group-title="", BT- ESPN
 https://www.ustream.to/live/espn-gb-uk/0af2a09596a851869de0b72375f5c320|autowebzoom=120scroll=50,100#EXTINF:-1 group-title="", 
 
+#EXTINF:-1 group-title="", BT1
+https://www.ustream.to/live/bt-sport-1/189ea2fffffc9df81f78467edbe2ffe6|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="", BT2
+https://www.ustream.to/live/bt-sport-2/096e6a757148a366974d7a29aea6a70d|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="", BT3
+https://www.ustream.to/live/bt-sport-3-b/85f2e751bdaf2be7006b1138f56579d1|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="", HBO
+https://www.ustream.to/live/hbo-usa/fa72c88150f2d15174aa5ecaf82d927d|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="",History
+https://www.ustream.to/live/history-channel/18acc3c77b5b3f44db92d4361b73a255|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="",Showtime
+https://www.ustream.to/live/showtime/85c9b7f801fd750874ce52bf4e38439d|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="",ESPN
+https://www.ustream.to/live/espn/52cb7f78814214edf45ba9eea659b525|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="",UFC Fight Pass
+https://www.ustream.to/live/ufc-fight-pass/ebf1e2a58191a5a17065ef2b64e3ec17|autowebzoom=120scroll=50,100
+
 
 
 
