@@ -3,6 +3,8 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="AIRY TV",Fite
+https://webapp.airy.tv/Live_Streams/31_Fite_24_7|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="OLWEB", TNT
 https://olweb.tv/tnt-usa-hd|autowebzoom=120scroll=50,100
