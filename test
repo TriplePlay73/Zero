@@ -21,7 +21,8 @@ https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
 https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
 
 
-
+#EXTINF:-1 group-title="", Test
+https://direct.stream2watch.sx/streaming-television/espn-live-stream|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="USTVGO", ABC
 https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
