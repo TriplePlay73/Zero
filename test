@@ -4,64 +4,87 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="", BT- ESPN
-https://www.ustream.to/live/espn-gb-uk/0af2a09596a851869de0b72375f5c320|autowebzoom=120scroll=50,100#EXTINF:-1 group-title="", 
+#EXTINF:-1 group-title="USTREAM",A&E
+https://www.ustream.to/live/ae-tv-usa/a172205026ae92d95046de6f28a2da89|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="", BT1
+
+
+
+#EXTINF:-1 group-title="USTREAM", BT- ESPN
+https://www.ustream.to/live/espn-gb-uk/0af2a09596a851869de0b72375f5c320|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="USTREAM", BT1
 https://www.ustream.to/live/bt-sport-1/189ea2fffffc9df81f78467edbe2ffe6|autowebzoom=120scroll=50,100
 
-
-#EXTINF:-1 group-title="", BT2
+#EXTINF:-1 group-title="USTREAM", BT2
 https://www.ustream.to/live/bt-sport-2/096e6a757148a366974d7a29aea6a70d|autowebzoom=120scroll=50,100
 
-
-#EXTINF:-1 group-title="", BT3
+#EXTINF:-1 group-title="USTREAM", BT3
 https://www.ustream.to/live/bt-sport-3-b/85f2e751bdaf2be7006b1138f56579d1|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="", HBO
+
+
+#EXTINF:-1 group-title="USTREAM",ESPN
+https://www.ustream.to/live/espn/52cb7f78814214edf45ba9eea659b525|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTREAM",FS1
+https://www.ustream.to/live/fox-sports-1-b/1d0c454a70ac3aef01bb1baad94c8753|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTREAM",Golf Channel
+https://www.ustream.to/live/golf-us/267c67f5207aa1d8bdf12e54653c7d7c|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTREAM",HBO
 https://www.ustream.to/live/hbo-usa/fa72c88150f2d15174aa5ecaf82d927d|autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1 group-title="",History
+
+#EXTINF:-1 group-title="USTREAM",History
 https://www.ustream.to/live/history-channel/18acc3c77b5b3f44db92d4361b73a255|autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="USTREAM",ID (Investigation Discovery)
+https://www.ustream.to/live/investigation-discovery/512e5c7cea1c6afad90ca4335bc2d9fb|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",Showtime
+
+#EXTINF:-1 group-title="USTREAM",Me TV
+https://www.ustream.to/live/metv/d96917f5cc84a807bb85f90bacb2d9af|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTREAM",National Geographic
+https://www.ustream.to/live/national-geographic/6e766f3d19701b81e199f05a04f82e43|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="USTREAM",NBA
+https://www.ustream.to/live/nba-tv/0b8ff3c7b78f7d77aa5550714582fa26|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="USTREAM",USA
+https://www.ustream.to/live/usa-network/9048bf05b791446c12b11bd830a386c9|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="USTREAM",Showtime
 https://www.ustream.to/live/showtime/85c9b7f801fd750874ce52bf4e38439d|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="USTREAM",Spike TV
+https://www.ustream.to/live/spike-tv-usa/ad5c07363a79e3d945b4c5ea17ce03de|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-https://www.ustream.to/live/espn/52cb7f78814214edf45ba9eea659b525|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="USTREAM",Tennis Channel
+https://www.ustream.to/live/tennis-channel/0c493d20a11930e4980725d94b0203ec|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="",UFC Fight Pass
+
+#EXTINF:-1 group-title="USTREAM",UFC Fight Pass
 https://www.ustream.to/live/ufc-fight-pass/ebf1e2a58191a5a17065ef2b64e3ec17|autowebzoom=120scroll=50,100
 
 
 
 
-#EXTINF:-1 group-title="",  BKFC 1
-http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDIxIDExOjE5Cjo0MAogUE0maGFzaF92YWx1ZT1qc1V5NUZZN1Nvc0dNeW1SNjF3OS9RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNjkuNjMuNjUmc3RybV9sZW49NA==
 
-#EXTINF:-1 group-title="",  BKFC 2 MX Player
-http://allsportsmedia.live/novo/footy/bkfc-19/?sport=boxing|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="",  BKFC 3
-https://www.givemevibes.com/paige-vanzant/?sport=boxing|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="", Olympic *USTVGO
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="", Olympic *Free2View
-https://dai.google.com/linear/hls/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8
-
-
-#EXTINF:-1 group-title="", Test
-https://direct.stream2watch.sx/streaming-television/espn-live-stream|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="USTVGO", ABC
 https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
@@ -216,62 +239,13 @@ https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1 group-title="USTVGO KIDS", Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Disney Jr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Disney XD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO KIDS",Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
 
 
 
 
 
 
-#EXTINF:-1 group-title="USTVGO Sports", Oylmpic Channel
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", ACCN
-https://ustvgo.tv/acc-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", REDZONE
-https://ustvgo.tv/nfl-redzone|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports",SEC Network
-https://ustvgo.tv/sec-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", CBS SPORTS NETWORK
-https://ustvgo.tv/cbs-sports-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", BIG TEN NETWORK
-https://ustvgo.tv/big-ten-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", YES Network
-https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO Sports", WWE Network
-https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO Sports", WWE Network
-https://ustvgo.tv/wwe-network|webviewzoom=100scroll=50,100
-
-#EXTINF:-1 group-title="USTVGO Sports", WWE Network
-https://ustvgo.tv/wwe-networ|weballgig
-
-#EXTINF:-1 group-title="USTVGO Sports", ESPN2
-https://ustvgo.tv/espn2-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", ESPNU
-https://ustvgo.tv/espnu|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", ESPNEWS
-https://ustvgo.tv/espnews|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", FOX Sports 2
-https://ustvgo.tv/fox-sports-2|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", MLB Network
-https://ustvgo.tv/mlb-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO Sports", TBS
-https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
+#
 
 
 
@@ -293,39 +267,6 @@ https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
 
 
 
-
-
-#EXTINF:-1 group-title="", T1
-https://ustvgo.tv/olympic-channel|weballgig
-
-#EXTINF:-1 group-title="",  T2
-https://ustvgo.tv/olympic-channel|webviewzoom=100scroll=50,100
-
-#EXTINF:-1 group-title="", Olympic *USTVGO
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="", Trump's Save America Rally  *Rumble Live*RSBN
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
-
-#EXTINF:-1 group-title="", RSBN *1080 
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/chunklist_b4196608.m3u8
-
-#EXTINF:-1 group-title="", Frank
-https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/manifest.m3u8
-
-#EXTINF:-1 group-title="", Frank *1080
-https://frnksocial.mmdlive.lldns.net/frnksocial/25726d76f12b4564a75c888191e26445/chunklist_b4192000.m3u8
-
-#EXTINF:-1  group-title="",Newsmax TV *Direct Link
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 
 
