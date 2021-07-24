@@ -4,12 +4,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="",USA OLYMPICS USA
-http://sportsbuzz.co/usa-today/|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="",USA OLYMPICS NBC
-http://sportsbuzz.co/nbc-today/|autowebzoom=120scroll=50,100
-
 
 
 
