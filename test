@@ -4,6 +4,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="OLWEB", TNT
+https://olweb.tv/tnt-usa-hd|autowebzoom=120scroll=50,100
+
+
+
+
 #EXTINF:-1 group-title="USTREAM",A&E
 https://www.ustream.to/live/ae-tv-usa/a172205026ae92d95046de6f28a2da89|autowebzoom=120scroll=50,100
 
