@@ -3,24 +3,17 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="",House Floor *Direct
-https://live.house.gov|weballgig
-
-
-
 #EXTINF:-1 group-title="",
-https://live.house.gov|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="",
-https://live.house.gov|webviewzoom=100scroll=50,100
+https://live.house.gov/
 
 
 
 
 
 
-
-
+|autowebzoom=120scroll=50,100
+|webviewzoom=100scroll=50,100
+|weballgig
 
 
 
