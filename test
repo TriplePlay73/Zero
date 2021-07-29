@@ -3,26 +3,20 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="",House Floor *Direct
+https://live.house.gov|weballgig
 
 
 
-#EXTINF:-1 group-title="",Fight Night
-https://c6.ufczone.live/StormGuard/002/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDIxIDk6MjI6MzMgUE0maXA9NzUuMTg4LjE4NS4xODkmaGFzaF92YWx1ZT01RFFMcXBRek5WN2h6ZU9YWjRLcVNnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 group-title="",
+https://live.house.gov|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-http://nflsportz.com/streams/mma.php?sport=mma|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="",
+https://live.house.gov|webviewzoom=100scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-https://www.viprow.me/ufc-fight-night-prelims-online-stream-2|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-https://www.viprow.me/ufc-fight-night-cory-sandhagen-vs-tyler-jeffrey-dillashaw-online-stream-2|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-http://uhdstreams.club/hd/ch2.php?sport=mma|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="",ESPN
-https://p2pstreams.live/stream-ufc/?sport=mma|autowebzoom=120scroll=50,100
 
 
 
@@ -31,238 +25,12 @@ https://p2pstreams.live/stream-ufc/?sport=mma|autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1 group-title="AIRY TV",Fite
-https://webapp.airy.tv/Live_Streams/31_Fite_24_7|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="OLWEB", TNT
-https://olweb.tv/tnt-usa-hd|autowebzoom=120scroll=50,100
 
 
 
 
-#EXTINF:-1 group-title="USTREAM",A&E
-https://www.ustream.to/live/ae-tv-usa/a172205026ae92d95046de6f28a2da89|autowebzoom=120scroll=50,100
 
-
-
-
-#EXTINF:-1 group-title="USTREAM", BT- ESPN
-https://www.ustream.to/live/espn-gb-uk/0af2a09596a851869de0b72375f5c320|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="USTREAM", BT1
-https://www.ustream.to/live/bt-sport-1/189ea2fffffc9df81f78467edbe2ffe6|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTREAM", BT2
-https://www.ustream.to/live/bt-sport-2/096e6a757148a366974d7a29aea6a70d|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTREAM", BT3
-https://www.ustream.to/live/bt-sport-3-b/85f2e751bdaf2be7006b1138f56579d1|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="USTREAM",ESPN
-https://www.ustream.to/live/espn/52cb7f78814214edf45ba9eea659b525|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="USTREAM",FS1
-https://www.ustream.to/live/fox-sports-1-b/1d0c454a70ac3aef01bb1baad94c8753|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",Golf Channel
-https://www.ustream.to/live/golf-us/267c67f5207aa1d8bdf12e54653c7d7c|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",HBO
-https://www.ustream.to/live/hbo-usa/fa72c88150f2d15174aa5ecaf82d927d|autowebzoom=120scroll=50,100
-
-
-
-
-#EXTINF:-1 group-title="USTREAM",History
-https://www.ustream.to/live/history-channel/18acc3c77b5b3f44db92d4361b73a255|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",NBA
-https://www.ustream.to/live/nba-tv/0b8ff3c7b78f7d77aa5550714582fa26|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="USTREAM",USA
-https://www.ustream.to/live/usa-network/9048bf05b791446c12b11bd830a386c9|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="USTREAM",Showtime
-https://www.ustream.to/live/showtime/85c9b7f801fd750874ce52bf4e38439d|autowebzoom=120scroll=50,100
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="USTVGO", ABC
-https://ustvgo.tv/abc-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ACC Network
-https://ustvgo.tv/acc-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", AMC
-https://ustvgo.tv/amc-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Animal Planet
-https://ustvgo.tv/animal-planet-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", BBC America
-https://ustvgo.tv/bbc-america-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Big Ten Network
-https://ustvgo.tv/big-ten-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Boomerang
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Bravo
-https://ustvgo.tv/bravo-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", C-SPAN
-https://ustvgo.tv/c-span|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CBS
-https://ustvgo.tv/cbs-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CBS SPORTS
-https://ustvgo.tv/cbs-sports-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Cinemax
-https://ustvgo.tv/cinemax|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", CMT
-https://ustvgo.tv/cmt|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Cartoon Network
-https://ustvgo.tv/cartoon-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Comedy Central
-https://ustvgo.tv/comedy-central-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", The CW
-https://ustvgo.tv/the-cw-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Destination America
-https://ustvgo.tv/destination-america|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Disney Channel
-https://ustvgo.tv/disney-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DisneyJr
-https://ustvgo.tv/disneyjr|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DisneyXD
-https://ustvgo.tv/disneyxd|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", DIY
-https://ustvgo.tv/diy|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", E!
-https://ustvgo.tv/eonline|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPN2
-https://ustvgo.tv/espn2-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPNU
-https://ustvgo.tv/espnu|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", ESPNews
-https://ustvgo.tv/espnews|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Food Network
-https://ustvgo.tv/food-network-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FOX
-https://ustvgo.tv/fox-hd-live-streaming|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Fox Business
-https://ustvgo.tv/fox-business-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Fox News
-https://ustvgo.tv/fox-news-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Freeform
-https://ustvgo.tv/freeform-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Fox Sports 2
-https://ustvgo.tv/fox-sports-2|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FX
-https://ustvgo.tv/fx-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FXM
-https://ustvgo.tv/fxm|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", FXX
-https://ustvgo.tv/fxx|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", GSN
-https://ustvgo.tv/gsn|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Hallmark Channel
-https://ustvgo.tv/hallmark-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", HGTV
-https://ustvgo.tv/hgtv-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", HLN
-https://ustvgo.tv/hln|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Hallmark Movies & Mysteries
-https://ustvgo.tv/hallmark-movies-mysteries-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Lifetime
-https://ustvgo.tv/lifetime-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Lifetime Movies
-https://ustvgo.tv/lifetime-movies|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", MLB Network
-https://ustvgo.tv/mlb-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", MotorTrend
-https://ustvgo.tv/motortrend|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", MTV
-https://ustvgo.tv/mtv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", NAT GEO WILD
-https://ustvgo.tv/nat-geo-wild-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", NFL Network
-https://ustvgo.tv/nfl-network-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", NFL RedZone
-https://ustvgo.tv/nfl-redzone|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Nickelodeon
-https://ustvgo.tv/nickelodeon-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Nicktoons
-https://ustvgo.tv/nicktoons|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", One America News Network
-https://ustvgo.tv/one-america-news-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", OWN
-https://ustvgo.tv/own|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Olympic Channel
-https://ustvgo.tv/olympic-channel|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Oxygen
-https://ustvgo.tv/oxygen|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", PBS
-https://ustvgo.tv/pbs-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", POP
-https://ustvgo.tv/pop|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Science
-https://ustvgo.tv/science|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", SEC Network
-https://ustvgo.tv/sec-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Starz
-https://ustvgo.tv/starz-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Sundance TV
-https://ustvgo.tv/sundance-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Syfy
-https://ustvgo.tv/syfy-channel-live|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TBS
-https://ustvgo.tv/tbs-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TLC
-https://ustvgo.tv/tlc-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", Travel
-https://ustvgo.tv/travel-channel-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TruTV
-https://ustvgo.tv/trutv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", TV Land
-https://ustvgo.tv/tv-land-live-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", The Weather Channel
-https://ustvgo.tv/the-weather-channel-live-streaming-free|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", We TV
-https://ustvgo.tv/we-tv|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", WWE Network
-https://ustvgo.tv/wwe-network|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="USTVGO", YES Network
-https://ustvgo.tv/yes-network|autowebzoom=120scroll=50,100
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
 
 
 
