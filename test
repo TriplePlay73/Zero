@@ -3,6 +3,28 @@
 
 #EXTM3U
 
+
+UFC 8-7-21
+
+
+
+#EXTINF:-1 group-title="", 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="", 2
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="", 3
+https://stream.funcontent.ru/hls/user73651/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="",Making The Perfect Hot Dog Completely from Scratch (Chili Cheese)
 https://www.youtube.com/watch?v=G4LVN0zcKU8
 
