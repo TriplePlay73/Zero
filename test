@@ -20,7 +20,7 @@ http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 https://stream.funcontent.ru/hls/user73651/index.m3u8
 
 
-#EXTINF:-1 group-title="", 4
+#EXTINF:-1 group-title="", 4 OVO
 http://134.122.16.14/live/ovochannel1/playlist.m3u8
 
 
@@ -40,15 +40,15 @@ https://d2sgeoucfw19a3.cloudfront.net/out/v1/88f7b3034dac403e9fd6f1c240e6c2f3/in
 
 
 
-#EXTINF:-1 group-title="", 9
+#EXTINF:-1 group-title="", 9 OVO
 http://157.245.245.243/live/ovochannel1/playlist.m3u8
 
 
+#EXTINF:-1 group-title="", 10
+https://deruysx0s78uw.cloudfront.net/out/v1/3e4d190c4c334bce88dede429216d289/index_1.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="", 11 OVO
+http://134.122.31.95/live/ovochannel1/playlist.m3u8
 
 #EXTINF:-1 group-title="",Making The Perfect Hot Dog Completely from Scratch (Chili Cheese)
 https://www.youtube.com/watch?v=G4LVN0zcKU8
