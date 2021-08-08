@@ -21,14 +21,14 @@ https://stream.funcontent.ru/hls/user73651/index.m3u8
 
 
 #EXTINF:-1 group-title="", 4
-https://d1rri4i1e5508u.cloudfront.net/out/v1/2fc12cbe601d4393bf0279a6f9ab85c8/index_2.m3u8
+http://134.122.16.14/live/ovochannel1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="", 5
-http://64.227.6.69/live/ovochannel1/chunks.m3u8?nimblesessionid=2351
+http://my.streamerstv.com:25461/live/darien/darien/305.m3u8
 
 #EXTINF:-1 group-title="", 6
-http://my.streamerstv.com:25461/live/darien/darien/305.m3u8
+
 
 
 
