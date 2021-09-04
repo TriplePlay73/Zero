@@ -13,4 +13,9 @@ http://zonasports.xyz/cc/h2.php|autowebzoom=120scroll=50,100
 http://www.dubzstreams.com/hub/2021/09/boxing2/warrington-vs-lara-2-4sept|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="" , 1
+https://hls.raino.xyz/mma/stream1.m3u8
 
+
+#EXTINF:-1 group-title="" , 1
+https://hls.raino.xyz/mma/stream1-version1/rainostream.m3u8
