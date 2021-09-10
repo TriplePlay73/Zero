@@ -1,29 +1,34 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="" , Test
+https://sp.rmbl.ws/s8/2/d/e/q/o/deqoc.caa.mp4?u=4&b=0
+
+
+
 #EXTINF:-1 group-title="" , WEB 1
-http://thecyclingentertainment.com/novo/events/till/?sport=mma|autowebzoom=120scroll=50,100
+|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" ,WEB 2 down
-http://zonasports.xyz/cc/h2.php|autowebzoom=120scroll=50,100
+autowebzoom=120scroll=50,100
 
 
 
 #EXTINF:-1 group-title="" ,WEB 3 B
-http://www.dubzstreams.com/hub/2021/09/boxing2/warrington-vs-lara-2-4sept|autowebzoom=120scroll=50,100
+|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" , A
-https://hls.raino.xyz/mma/stream1.m3u8
+
 
 
 #EXTINF:-1 group-title="" , A chuncks
-https://hls.raino.xyz/mma/stream1-version1/rainostream.m3u8
+
 
 
 #EXTINF:-1 group-title="" , A Web
-http://bdnewszh.com/mma/stream1/?sport=mma|autowebzoom=120scroll=50,100
+|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" ,WEB 4
-http://nflsportz.com/streams/mma.php?sport=mma|autowebzoom=120scroll=50,100
+autowebzoom=120scroll=50,100
