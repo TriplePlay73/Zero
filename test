@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" , 1    *9-11-21
-
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDEwOjM1CjoxNAogUE0maGFzaF92YWx1ZT1XbUwrQnNSQ0dJNGcyQzNySHNYcmNRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNTQuNi4yMC4xMTgmc3RybV9sZW49NA==|referer=http://thecyclingentertainment.com/novo/events/09-holy/?sport=boxing
 
 #EXTINF:-1 group-title="" , WEB 1
