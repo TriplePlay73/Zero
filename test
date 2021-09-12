@@ -1,36 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" , 1    *9-11-21
-http://cdn1.cyclingstreams.xyz/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDEwOjM1CjoxNAogUE0maGFzaF92YWx1ZT1XbUwrQnNSQ0dJNGcyQzNySHNYcmNRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNTQuNi4yMC4xMTgmc3RybV9sZW49NA==|referer=http://thecyclingentertainment.com/novo/events/09-holy/?sport=boxing
-
-#EXTINF:-1 group-title="" , 2
-https://2-fss-2.streamhoster.com/pl_118/205632-2174448-1/chunklist.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="" , 3   *9-11-21WEB 1
-https://www.ok.ru/videoembed/3356358811155?nochat=1|autowebzoom=120scroll=50,100
 
 
 
 
-#EXTINF:-1 group-title="" ,WEB 3 B
-http://uhdstreams.club/hd/ch8.php?sport=boxing|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" , A
 |autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="" , A chuncks
+#EXTINF:-1 group-title="" , B
 |autowebzoom=120scroll=50,100
 
-
-#EXTINF:-1 group-title="" , A Web
-https://hot.freelive365.com/?listing_type=playboy-tv-latino|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="" ,WEB 4
-https://hot.freelive365.com/?listing_type=venus-tv-latino|autowebzoom=120scroll=50,100
