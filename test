@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" , 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1633761695/ei/P-VgYe-JA8m48wSw35KoBA/ip/45.130.83.132/id/5mVOnAwsATI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-ab5szn7r.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/37910/mh/wp/mm/44/mn/sn-ab5szn7r/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20211008.01.00/ptk/youtube_single/oid/wOHjLwW_hFTs9EC2lyKfkg/ptchn/pA-cpQ4WbpgRwwDk2Q6osg/pltype/contentlive/mt/1633739798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANYCy1TCiLkAaDFwfE-cxtp6bs2xQQjOsgbjmDDdElweAiEA6Gg3u0dgQhnwYauFE_5KsWZmwp3dQETOH1PnkLfRzhc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAO6nArBjoPz8CaT98JideedfolcHIcAQGKoH2GJSCcRUAiEAoCpjXolBSadZyCy8ICwLiBlX7lA3f04pXuyVfTkg4hk%3D/playlist/index.m3u8?cpn=lNrbzdrtkTSuAwwn|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="" , 2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1633748797/ei/3bJgYcvdJYLahwafy6aoBw/ip/154.6.17.26/id/RpqQfFQzHmo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr6---sn-ab5l6n6e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16370/mh/vf/mm/44/mn/sn-ab5l6n6e/ms/lva/mv/m/mvi/6/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20211008.01.00/ptk/youtube_single/oid/5CyIfdCGBxbqz1IYAORe4A/ptchn/-hWvVvE-crFl5vg5G8QbqA/pltype/contentlive/mt/1633726840/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgVmt_rPI5M13MEpp_4MDY4MIXOrnWYfl3jHd4uHQL-agCICf52Dk8TMTSk6tAsVCTstAhn4zWb3JHdd8Bf22UHIyg/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgb2Kfq-3lb3XQdxCAjZ_H9SEIxARH0dFzrtg11rFheVQCIQDXaYtrPaOXFAUw1uVHjPb8fGGwkcFiwfbhdJFDjLEjuA%3D%3D/playlist/index.m3u8?cpn=lRYWza-4wFL4JaJv|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
+http://dudestream.com/2021/10/09/ufc-fight-night-mackenzie-dern-vs-marina-rodriguez|autowebzoom=120scroll=50,100
 
-
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1633761695/ei/P-VgYe-JA8m48wSw35KoBA/ip/45.130.83.132/id/5mVOnAwsATI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-ab5szn7r.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/37910/mh/wp/mm/44/mn/sn-ab5szn7r/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20211008.01.00/ptk/youtube_single/oid/wOHjLwW_hFTs9EC2lyKfkg/ptchn/pA-cpQ4WbpgRwwDk2Q6osg/pltype/contentlive/mt/1633739798/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANYCy1TCiLkAaDFwfE-cxtp6bs2xQQjOsgbjmDDdElweAiEA6Gg3u0dgQhnwYauFE_5KsWZmwp3dQETOH1PnkLfRzhc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAO6nArBjoPz8CaT98JideedfolcHIcAQGKoH2GJSCcRUAiEAoCpjXolBSadZyCy8ICwLiBlX7lA3f04pXuyVfTkg4hk%3D/playlist/index.m3u8?cpn=lNrbzdrtkTSuAwwn|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="" , 2  |autowebzoom=120scroll=50,100
 
 
 
@@ -15,11 +12,11 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1633761695/ei/
 
 
 
-#EXTINF:-1 group-title="" , A
+#EXTINF:-1 group-title="" , A   |autowebzoom=120scroll=50,100
 
 
 
-#EXTINF:-1 group-title="" , B
+#EXTINF:-1 group-title="" , B   |autowebzoom=120scroll=50,100
 
 
 
