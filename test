@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
-https://live-41ac4fe.rmbl.ws/slot-36/ngrp:vxje-xduz_all/chunklist_b2513840.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1634457152/ei/4IFrYb2AJtXjigTo4p2ICQ/ip/136.144.43.97/id/kb00mEHbLJM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4flrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/21460/mh/Nh/mm/44/mn/sn-q4flrnek/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20211014.07.00/ptk/youtube_single/oid/anmzc5Xb73Ak0qUwQ_OPGg/ptchn/nkMTsKYqhHm6l6GQzg4szg/pltype/contentlive/mt/1634435076/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAP01LLg5mULTdWbkq8GaEdSefy6kKqn9Hv7ZpI-RaMabAiEA6Y5G0Jh5TBvYDe2hVhO4cV8PliEszfQqumnG6sIGMjo%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgM8_5dsN0eUgH7PkMu-zTB1qA9tvLd2OydlrUXHWTNJACIQD7CkdAV5C7nVNZtsu4Sh8occu0_8tOb2NUnHXbP4N-EA%3D%3D/playlist/index.m3u8?cpn=FSvl0jlXnzm9mWWB
+
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
 https://live-41ac4fe.rmbl.ws/slot-8/ngrp:0b65-zvmz_all/chunklist_b2513840.m3u8
