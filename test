@@ -14,11 +14,11 @@ http://143.198.43.227/live/abr_ch2/live/ch2_480p/chunks.m3u8?nimblesessionid=385
 
 
 #EXTINF:-1 group-title="" , 4  |autowebzoom=120scroll=50,100
-
+https://studio.youtube.com/youtubei/v1/live_chat/get_live_chat?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
 
 
 #EXTINF:-1 group-title="" , B   |webview zoom=100 scroll=50,100
-
+https://studio.youtube.com/youtubei/v1/live_chat/get_live_chat?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8|webview zoom=100 scroll=50,100
 
 
 
