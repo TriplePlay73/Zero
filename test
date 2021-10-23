@@ -1,24 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1635027986/ei/sjd0YenwHZrlkgaisa-wDA/ip/192.109.205.150/id/ZlaiHIbn3LA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-a5msen7l.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/initcwndbps/49430/mh/Uh/mm/44/mn/sn-a5msen7l/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20211020.07.00/ptk/youtube_single/oid/anmzc5Xb73Ak0qUwQ_OPGg/ptchn/nkMTsKYqhHm6l6GQzg4szg/pltype/contentlive/mt/1635006032/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgF6r1s93GPG9kuCZhwTPDPXg-2Hq9ajMEnAHyC6BxepMCIQDf-43cUUxhTJSH7tMMQITCjpYU1cFqhbVulWBlVk7dRw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALggVGkeIALuGjn1i9tGciFVDUNAOvrDF9TJtgq9cx_yAiA2rC-B52oA4hJ7AUyK4LiQQp7Q_mfANpyGZavyGTBEcQ%3D%3D/playlist/index.m3u8?cpn=bth8HYIcbssf54M9
+http://198.144.159.43/pnlNnGg1jppcrL4OkepxqQ/1635049568/322e3130302e31372e3439/ff16/playlist.m3u8
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-http://weakstreams.com/mma-boxing/ufc-vegas-41-costa-vs-vettori/41688/?sport=mma|webview zoom=100 scroll=50,100
+https://d1qvpqo0dyehx9.cloudfront.net/live/bt2/chunks.m3u8
 
 #EXTINF:-1 group-title="" , 3  |webview zoom=100 scroll=50,100
-http://143.198.43.227/live/abr_ch2/live/ch2_480p/chunks.m3u8?nimblesessionid=38519&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA2OjQ0OjI1IFBNJmhhc2hfdmFsdWU9UVZWQlhCdHZHMW4xcjIvdEt0K2RSUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjM0Ljc2JnN0cm1fbGVuPTU=
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiTGludXgiLCJ1c2VyX3VpZCI6ImFub255bW91c181ZTVlZTk1ZS01YTM4LTQyYjItOTUyOC1mNzFmN2FiYjU2NjIiLCJwcm90b2NvbCI6ImhscyIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImE1ZjVjZGFjLTgxNTItNGVhNS05MjEzLTA0OTBhNmE1NjhmMiIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLWlwdHYudm9rYS50diIsImlwX2FkZHJlc3MiOiIxNzguNDYuMjcuMjEzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMS0xMC0yNFQwMzo1NDoyOFoiLCJzdHJlYW1fbmFtZSI6IjIxNjgiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQifQ%3D%3D/MCwCFEi1mBuRcGGdveZwOHIDC1UNDBvqAhQ3Wa3w-cdnoyNqmoB4IqOf2oHLhg%3D%3D/ip_v5/2168-inadv-qidx-3k_v3.m3u8
+
 
 
 
 
 #EXTINF:-1 group-title="" , 4  |autowebzoom=120scroll=50,100
-http://air.freestreams-live1.com/bare-knuckle-live-stream/
+
 
 
 #EXTINF:-1 group-title="" , B   |webview zoom=100 scroll=50,100
-http://air.freestreams-live1.com/bare-knuckle-live-stream/|webview zoom=100 scroll=50,100
+
 
 
 
