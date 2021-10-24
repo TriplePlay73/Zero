@@ -1,14 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
-http://198.144.159.43/pnlNnGg1jppcrL4OkepxqQ/1635049568/322e3130302e31372e3439/ff16/playlist.m3u8
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-https://d1qvpqo0dyehx9.cloudfront.net/live/bt2/chunks.m3u8
 
 #EXTINF:-1 group-title="" , 3  |webview zoom=100 scroll=50,100
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiTGludXgiLCJ1c2VyX3VpZCI6ImFub255bW91c181ZTVlZTk1ZS01YTM4LTQyYjItOTUyOC1mNzFmN2FiYjU2NjIiLCJwcm90b2NvbCI6ImhscyIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImE1ZjVjZGFjLTgxNTItNGVhNS05MjEzLTA0OTBhNmE1NjhmMiIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLWlwdHYudm9rYS50diIsImlwX2FkZHJlc3MiOiIxNzguNDYuMjcuMjEzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMS0xMC0yNFQwMzo1NDoyOFoiLCJzdHJlYW1fbmFtZSI6IjIxNjgiLCJzdHJlYW1fcGF0aCI6Ii9pcF92NSIsImRhdGFjZW50ZXIiOiJpbnQifQ%3D%3D/MCwCFEi1mBuRcGGdveZwOHIDC1UNDBvqAhQ3Wa3w-cdnoyNqmoB4IqOf2oHLhg%3D%3D/ip_v5/2168-inadv-qidx-3k_v3.m3u8
 
 
 
