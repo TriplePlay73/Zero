@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:1 ,Weather Gone Viral  (Documentary)
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:1 ,Weather Nation (720p)  (Weather)
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy  (Weather)
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+#EXTINF:1 ,WeatherSpy (720p)  (Weather)
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy (Australia)  (Weather)
+https://jukin-weatherspy-2-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy (Brazil)  (Weather)
+https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy (India)  (Weather)
+https://jukin-weatherspy-2-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy (Mexico)  (Weather)
+https://jukin-weatherspy-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,WeatherSpy (UK)  (Weather)
+https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:1 ,West Virginia: Charleston - Huntington (STIRR) (720p)  (Local)
+https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
 
 
