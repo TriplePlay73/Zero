@@ -1,71 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:1 ,Super Simple Songs  (Kids)
-https://janson-supersimplesongs-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:1 ,Pinkfong Baby Shark  (Kids)
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
-#EXTINF:1 ,HappyKids  (Kids)
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:1 ,HappyKids Junior  (Kids)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:1 ,Kartoon Circus  (Kids)
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-
-#EXTINF:1 ,KidsFlix  (Kids)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
-
-
-#EXTINF:1 ,Master Builder (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-
-
-
-
-#EXTINF:1 ,Lego Channel (1080p)  (Kids)
-https://legochannel-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:1 ,Lego Looney Tunes (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:1 ,The Official LEGO Channel  (Kids)
-https://legochannel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:1 ,Lets Play Minecraft (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-
-#EXTINF:1 ,Toy Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids",  Fun Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Kids", FGTV (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Kids", Cute Zone (Bumblebee)  (Kids)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Kids", Camp Spoopy  (Kids)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-
-#EXTINF:-1 group-title="Kids", Brat TV (1080p)  (Kids)
-https://brat-rakuten.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Kids", TVS Family Channel (360p)  (Family)
-https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 
 
 
