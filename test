@@ -7,13 +7,13 @@ http://185.93.1.39/mylive/mme/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" , 2 *
 https://bit.ly/3w088VU
 
-#EXTINF:-1 group-title="" ?1
-https://hg-t3.dotice.me/plyvivo/9o5uwot0leju7o8ukobo/chunklist.m3u8
+#EXTINF:-1 group-title="" a
+http://solarisjhjsf.azureedge.net/hls/m1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="" ? 2
-http://185.93.1.39/mylive/mme/index.m3u8
+#EXTINF:-1 group-title="" 
+
 
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
