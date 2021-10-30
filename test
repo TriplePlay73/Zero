@@ -6,16 +6,16 @@
 
 
 #EXTINF:-1 group-title="" , 2 *
-https://storage.googleapis.com/jackripple1/hls/p0/index.m3u8
+
 
 
 #EXTINF:-1 group-title="" GG
-http://cdn3.cyclingnews.live/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSA4OjM5CjoxMgogUE0maGFzaF92YWx1ZT1zMkRubnlhLzVqaGx2RWNzOE5zYzV3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMzYuMTQ0LjQzLjE2MyZzdHJtX2xlbj00
+
 
 
 
 #EXTINF:-1 group-title="" 
-http://77.247.109.101/hls/A2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSA4OjQzCjoyMwogUE0maGFzaF92YWx1ZT1tUkZYUWdLakFwL0tEeHplL1EwaEx3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTA1OjRmNDY6NDA4OjYyMDA6ZmRmYjo5N2Q4OjY3NTM6MTI2YSZzdHJtX2xlbj00
+
 
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
