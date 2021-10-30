@@ -2,18 +2,20 @@
 
 
 #EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
-http://185.93.1.39/mylive/mme/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="" , 2 *
-https://bit.ly/3w088VU
+
+
 
 #EXTINF:-1 group-title="" GG
-http://159.89.45.110/live/abr_ch2/live/ch2_source/chunks.m3u8?nimblesessionid=16463&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSA3OjM1OjQ1IFBNJmhhc2hfdmFsdWU9MEFCd1V0NWxiSzQvUkZtK1EwVThMQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjE3NC43OCZzdHJtX2xlbj01
+
 
 
 
 #EXTINF:-1 group-title="" 
-http://sportsurgemma.xyz/ufc-264.php|autowebzoom=120scroll=50,100
+
 
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
