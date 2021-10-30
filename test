@@ -1,32 +1,44 @@
 #EXTM3U
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
-https://stream.funcontent.ru/hls/user73651/index.m3u8
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-
+https://d1q6o3scfuuo92.cloudfront.net/out/v1/cde04cae373f4addb339b786c7eb842f/index_1.m3u8
 
 #EXTINF:-1 group-title="" , 3  |webview zoom=100 scroll=50,100
-
+http://185.93.1.39/mylive/mme/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
-
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_27M7oWXh/wixmp-3dbd5cb16bb136182e099f78_27M7oWXh_res720p/index.m3u8
 
 #EXTINF:-1 group-title="" , 5  |webview zoom=100 scroll=50,100
-
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_UVAaTkkZ/wixmp-3dbd5cb16bb136182e099f78_UVAaTkkZ_.m3u8
 
 #EXTINF:-1 group-title="" , 6  |webview zoom=100 scroll=50,100
+https://stream.funcontent.ru/hls/user73651/index.m3u8
+
+#EXTINF:-1 group-title="" ,7 |webview zoom=100 scroll=50,100
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_Sscpurqz/wixmp-3dbd5cb16bb136182e099f78_Sscpurqz_.m3u8
+
+#EXTINF:-1 group-title="" , 8  |webview zoom=100 scroll=50,100
+
+
+
+#EXTINF:-1 group-title="" , 9  |webview zoom=100 scroll=50,100
+
+
+
+#EXTINF:-1 group-title="" , 10  |webview zoom=100 scroll=50,100
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="" , 
 |autowebzoom=120scroll=50,100
