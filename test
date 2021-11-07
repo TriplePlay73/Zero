@@ -6,11 +6,11 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/9d6ea4e58cd
 
 
 #EXTINF:-1 group-title="" , 2 *
-http://167.71.133.32/live/abr_s-6/playlist.m3u8?wmsAuthSign=
+https://live-ak.vimeocdn.com/exp=1636255290~acl=%2Fd15edace-0271-4068-9f76-35eb24350540%2F%2A~hmac=ce1ccdfb2476e5add1075b5b71894962fbcbed2dc42dc628d1ea4fcfdaa37a95/d15edace-0271-4068-9f76-35eb24350540/chunklist_b2056000.m3u8?max_segments=10
 
 
 #EXTINF:-1 group-title="" GG
-http://167.71.133.32/live/abr_s-6/live/s-6/chunks.m3u8
+https://live-ak.vimeocdn.com/exp=1636255290~acl=%2Fd15edace-0271-4068-9f76-35eb24350540%2F%2A~hmac=ce1ccdfb2476e5add1075b5b71894962fbcbed2dc42dc628d1ea4fcfdaa37a95/d15edace-0271-4068-9f76-35eb24350540/chunklist_b2056000.m3u8?max_segments=10
 
 
 
