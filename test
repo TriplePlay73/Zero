@@ -2,15 +2,13 @@
 
 
 #EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/9d6ea4e58cdb40bdadfc271c359fa35d/index_3.m3u8
-
+http://master101b.uefa-tv.com/live/1/chunks.m3u8
 
 #EXTINF:-1 group-title="" , 2 *
 https://live-ak.vimeocdn.com/exp=1636255290~acl=%2Fd15edace-0271-4068-9f76-35eb24350540%2F%2A~hmac=ce1ccdfb2476e5add1075b5b71894962fbcbed2dc42dc628d1ea4fcfdaa37a95/d15edace-0271-4068-9f76-35eb24350540/chunklist_b2056000.m3u8?max_segments=10
 
 
 #EXTINF:-1 group-title="" GG
-https://live-ak.vimeocdn.com/exp=1636255290~acl=%2Fd15edace-0271-4068-9f76-35eb24350540%2F%2A~hmac=ce1ccdfb2476e5add1075b5b71894962fbcbed2dc42dc628d1ea4fcfdaa37a95/d15edace-0271-4068-9f76-35eb24350540/chunklist_b2056000.m3u8?max_segments=10
 
 
 
