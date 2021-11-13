@@ -2,16 +2,19 @@
 
 
 #EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
-http://45.148.26.176/hls/M6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMjoxOAo6MjUKIEFNJmhhc2hfdmFsdWU9WFFlVWgwY2dzL2VEcTFNbWRtZi94dz09JnZhbGlkbWludXRlcz0xMjAmaWQ9Mi4xMDAuMTcuNDkmc3RybV9sZW49NA==
+http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSA2OjUzCjo1OQogUE0maGFzaF92YWx1ZT1vMFhubmFnUzd0WElpdU5ZaWRaS0J3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMzYuMTQ0LjQzLjk5JnN0cm1fbGVuPTQ=
+
 
 #EXTINF:-1 group-title="" , 2 *
-https://storage.googleapis.com/grogoriev4/hls/p1/index.m3u8
-
-#EXTINF:-1 group-title="" GG
+https://vsd125.mycdn.me/hls/1736743127770.m3u8/sig/evybgmqxcRM/expires/1636918193355/srcIp/136.144.43.99/clientType/0/srcAg/CHROME_ANDROID/mid/2650042539738/1736743127770_high/index.m3u8
 
 
 
-#EXTINF:-1 group-title="" 
+#EXTINF:-1 group-title="" , 3
+
+
+
+#EXTINF:-1 group-title="" , 4
 
 
 #EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
