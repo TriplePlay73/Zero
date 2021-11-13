@@ -16,8 +16,8 @@ http://cdn4.cyclingnews.live/hls/Q1.m3u8
 #EXTINF:-1 group-title="" , 4
 https://vsd125.mycdn.me/hls/1736743127770.m3u8/sig/evybgmqxcRM/expires/1636918193355/srcIp/136.144.43.99/clientType/0/srcAg/CHROME_ANDROID/mid/2650042539738/1736743127770_high/index.m3u8
 
-#EXTINF:-1 group-title="" , 1  |autowebzoom=120scroll=50,100
-
+#EXTINF:-1 group-title="" , 5 |autowebzoom=120scroll=50,100
+https://www.streameast.io/ufc/ufc-fight-night-holloway-vs-rodriguez|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
