@@ -4,26 +4,23 @@
 #EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
 http://init.cheches.info/hls/105.m3u8
 
-#EXTINF:-1 group-title="" , 2 *
+#EXTINF:-1 group-title="" , 2 * 9's
 https://techoreels.com/2021/u1/?sport=mma|autowebzoom=120scroll=50,100
 
 
 
 #EXTINF:-1 group-title="" , 3
-https://dy3j9qentq0g5.cloudfront.net/stream/MTc4OA==/1080p.m3
 
 
 #EXTINF:-1 group-title="" , 4
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="" , 5 |autowebzoom=120scroll=50,100
-https://m.cantholdus.xyz/cdn/ufc1m/playlistbaxi.m3u8
 
 
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-playlistbaxi.m3u8
+
 
 
 
