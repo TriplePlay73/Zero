@@ -2,8 +2,7 @@
 
 
 #EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
-https://jsonp.afeld.me/?url=https://alshukran.s3-accelerate.amazonaws.com/hls/p1/index.m3u8
-
+http://init.cheches.info/hls/105.m3u8
 
 #EXTINF:-1 group-title="" , 2 *
 
