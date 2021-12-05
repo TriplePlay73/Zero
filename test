@@ -5,9 +5,8 @@
 http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEyOjA2CjowMgogQU0maGFzaF92YWx1ZT16a0ErNndoaElxUTVFQm8zU2lwckNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjIxNSZzdHJtX2xlbj00
 
 
-#EXTINF:-1 group-title="" , F2
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R_res720p/index.m3u8
-
+#EXTINF:-1 group-title="" , boxing
+http://77.247.109.111/hls/T3.m3u8
 
 #EXTINF:-1 group-title="" , F3
 http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MjAKOjU5CiBBTSZoYXNoX3ZhbHVlPUZQRm5SMWt6UEJvbkVMYzVBRHJZeWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS42My42NiZzdHJtX2xlbj00
