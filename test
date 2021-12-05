@@ -9,8 +9,8 @@ http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEyOjA
 https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R_res720p/index.m3u8
 
 
-#EXTINF:-1 group-title="" , NWA 1
-https://bit.ly/31mmipB
+#EXTINF:-1 group-title="" , F3
+http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MjAKOjU5CiBBTSZoYXNoX3ZhbHVlPUZQRm5SMWt6UEJvbkVMYzVBRHJZeWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS42My42NiZzdHJtX2xlbj00
 
 
 #EXTINF:-1 group-title="" , 3
