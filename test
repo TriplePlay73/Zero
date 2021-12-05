@@ -12,8 +12,10 @@ http://77.247.109.111/hls/T3.m3u8
 http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MjAKOjU5CiBBTSZoYXNoX3ZhbHVlPUZQRm5SMWt6UEJvbkVMYzVBRHJZeWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS42My42NiZzdHJtX2xlbj00
 
 
-#EXTINF:-1 group-title="" , nwa1
-https://vkvsd50.mycdn.me/hls/1980563917419.m3u8/sig/NPRfBVzxLw0/srcIp/154.6.20.84/expires/1639126209440/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4107856653163/id/1980563917419/1980563917419_high/index.m3u8
+#EXTINF:-1 group-title="" , Haney vs Diaz
+https://techoreels.com/47216/f1/?sport=boxing|autowebzoom=120scroll=50,100
+
+
 
 #EXTINF:-1 group-title="" , nwa2
 https://vkvsd50.mycdn.me/hls/1980563917419.m3u8/sig/mfYCV0Q_LBo/expires/1638753479237/srcIp/185.217.117.205/clientType/13/srcAg/CHROME_ANDROID/mid/4107856653163/1980563917419_high/index.m3u8
