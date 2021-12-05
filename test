@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , Hi ;)
-https://ustvgo.tv/fox-news-live-streaming-free
+#EXTINF:-1 group-title="" , F1
+http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEyOjA2CjowMgogQU0maGFzaF92YWx1ZT16a0ErNndoaElxUTVFQm8zU2lwckNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjIxNSZzdHJtX2xlbj00
 
 
-#EXTINF:-1 group-title="" , 1 * |webview zoom=100 scroll=50,100
-http://init.cheches.info/hls/105.m3u8
+#EXTINF:-1 group-title="" , F2
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R/wixmp-3dbd5cb16bb136182e099f78_lK4GAP7R_res720p/index.m3u8
 
-#EXTINF:-1 group-title="" , 2 * 9's
-https://techoreels.com/2021/u1/?sport=mma|autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="" , NWA 1
+https://bit.ly/31mmipB
 
 
 #EXTINF:-1 group-title="" , 3
