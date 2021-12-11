@@ -2,14 +2,13 @@
 
 
 #EXTINF:-1 group-title="" , F1
-http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEyOjA2CjowMgogQU0maGFzaF92YWx1ZT16a0ErNndoaElxUTVFQm8zU2lwckNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjIxNSZzdHJtX2xlbj00
+https://d385rn79iu063n.cloudfront.net/hls/espn2/chunks.m3u8
 
 
-#EXTINF:-1 group-title="" , boxing
-http://77.247.109.111/hls/T3.m3u8
+#EXTINF:-1 group-title="" , F2
+https://ok.ru/videoembed/3387449941583|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="" , F3
-http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MjAKOjU5CiBBTSZoYXNoX3ZhbHVlPUZQRm5SMWt6UEJvbkVMYzVBRHJZeWc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS42My42NiZzdHJtX2xlbj00
 
 
 #EXTINF:-1 group-title="" , Haney vs Diaz
@@ -18,11 +17,20 @@ https://techoreels.com/47216/f1/?sport=boxing|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1 group-title="" , nwa2
-https://vkvsd50.mycdn.me/hls/1980563917419.m3u8/sig/mfYCV0Q_LBo/expires/1638753479237/srcIp/185.217.117.205/clientType/13/srcAg/CHROME_ANDROID/mid/4107856653163/1980563917419_high/index.m3u8
 
 
 
 #EXTINF:-1 group-title="" , 5 |autowebzoom=120scroll=50,100
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="" , Holiday Movie Favorites *Bt Lifetime
