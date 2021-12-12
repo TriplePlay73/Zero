@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , F 1 *
+#EXTINF:-1 group-title="" , F 1 *cycling
 http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
 
 #EXTINF:-1 group-title="" , F 2 RedSand * http://www.blueflag.ga/ *
@@ -23,8 +23,8 @@ http://45.148.26.176/hls/M11.m3u8
 https://dy3j9qentq0g5.cloudfront.net/stream/MjA3NQ==/1080p.m3u8
 
 
-
-
+#EXTINF:-1 group-title="" , F 9 cycling
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
 
 #EXTINF:-1 group-title="" , F 13 
