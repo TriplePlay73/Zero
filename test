@@ -30,18 +30,34 @@ http://45.148.26.176/hls/M11.m3u8
 
 
 #EXTINF:-1 group-title="" , F9
-
+http://45.94.28.83/hls/S2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjE2CjozNgogQU0maGFzaF92YWx1ZT1WYlJqWFpLbWsrWENsZGVLaW1ZbmpnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNjAxOjU4NjpjMjAwOmQ4MjA6ZmRmOTpkNWE2OjVmNzc6OWU5MyZzdHJtX2xlbj00
 
 #EXTINF:-1 group-title="" , F 10
+http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
 
 
 
+#EXTINF:-1 group-title="" , F 11 1stream.top
+https://dy3j9qentq0g5.cloudfront.net/stream/MjA3NQ==/1080p.m3u8
 
-#EXTINF:-1 group-title="" , F 11
+
+
+#EXTINF:-1 group-title="" , F RedSand * http://www.blueflag.ga/
+http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
+
+
+#EXTINF:-1 group-title="" , F
 
 
 
-#EXTINF:-1 group-title="" , F 12 (RUSSIAN) 
+#EXTINF:-1 group-title="" , F
+
+
+#EXTINF:-1 group-title="" , F
+
+
+
+#EXTINF:-1 group-title="" , F  (RUSSIAN) 
 https://srv19.varcdn1.ru/10tka/tracks-v1a1/mono.m3u8
 
 
