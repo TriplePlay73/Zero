@@ -1,46 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , F 1 *cycling
-http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
-
-#EXTINF:-1 group-title="" , F 2 RedSand * http://www.blueflag.ga/ *
-http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
-
-
-#EXTINF:-1 group-title="" , F 3 *|autowebzoom=120scroll=50,100
-https://techoreels.com/2021/u1|autowebzoom=120scroll=50,100
-
-
-#EXTINF:-1 group-title="" , F 6 *
-https://d385rn79iu063n.cloudfront.net/hls/prelims/playlist.m3u8
-
-#EXTINF:-1 group-title="" , F 7 *
-http://45.148.26.176/hls/M11.m3u8
-
-
-#EXTINF:-1 group-title="" , F 8 1stream.top *
-https://dy3j9qentq0g5.cloudfront.net/stream/MjA3NQ==/1080p.m3u8
-
-
-#EXTINF:-1 group-title="" , F 9 cycling
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-
-
-#EXTINF:-1 group-title="" , F 13 
-
-
-
-#EXTINF:-1 group-title="" , F 14 
-
-
-#EXTINF:-1 group-title="" , F
-
-
-
-#EXTINF:-1 group-title="" , F  (RUSSIAN) 
-https://srv19.varcdn1.ru/10tka/tracks-v1a1/mono.m3u8
-
 
 
 
@@ -94,8 +54,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-
 
 
 
-#EXTINF:-1 group-title="" , F5 x
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 
