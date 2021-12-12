@@ -9,15 +9,15 @@ https://d385rn79iu063n.cloudfront.net/hls/espn2/chunks.m3u8
 https://ok.ru/videoembed/3387449941583|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="" , F3
+https://srv19.varcdn1.ru/10tka/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="" , F4
+https://cdn.wasd.tv/live/1228150/index.m3u8
 
 
-#EXTINF:-1 group-title="" , Haney vs Diaz
+
+#EXTINF:-1 group-title="" , F5
 https://techoreels.com/47216/f1/?sport=boxing|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="" , nwa2
-
 
 
 #EXTINF:-1 group-title="" , 5 |autowebzoom=120scroll=50,100
