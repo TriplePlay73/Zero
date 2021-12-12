@@ -12,14 +12,6 @@ http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
 https://techoreels.com/2021/u1|autowebzoom=120scroll=50,100
 
 
-
-#EXTINF:-1 group-title="" , F4 *
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
-#EXTINF:-1 group-title="" , F 5 *
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 group-title="" , F 6 *
 https://d385rn79iu063n.cloudfront.net/hls/prelims/playlist.m3u8
 
