@@ -1,49 +1,38 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , F1
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
+#EXTINF:-1 group-title="" , F 1 *
+http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
+
+#EXTINF:-1 group-title="" , F 2 RedSand * http://www.blueflag.ga/ *
+http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
 
 
-#EXTINF:-1 group-title="" , F2 *|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="" , F 3 *|autowebzoom=120scroll=50,100
 https://techoreels.com/2021/u1|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="" , F3 
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
 
 #EXTINF:-1 group-title="" , F4 *
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 
-
-#EXTINF:-1 group-title="" , F5 x
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="" , F6 *
+#EXTINF:-1 group-title="" , F 5 *
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="" , F7 *
+#EXTINF:-1 group-title="" , F 6 *
 https://d385rn79iu063n.cloudfront.net/hls/prelims/playlist.m3u8
 
-#EXTINF:-1 group-title="" , F8 *
+#EXTINF:-1 group-title="" , F 7 *
 http://45.148.26.176/hls/M11.m3u8
 
 
-#EXTINF:-1 group-title="" , F9 x
-http://45.94.28.83/hls/S2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjE2CjozNgogQU0maGFzaF92YWx1ZT1WYlJqWFpLbWsrWENsZGVLaW1ZbmpnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNjAxOjU4NjpjMjAwOmQ4MjA6ZmRmOTpkNWE2OjVmNzc6OWU5MyZzdHJtX2xlbj00
-
-#EXTINF:-1 group-title="" , F 10 *
-http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
-
-
-
-#EXTINF:-1 group-title="" , F 11 1stream.top *
+#EXTINF:-1 group-title="" , F 8 1stream.top *
 https://dy3j9qentq0g5.cloudfront.net/stream/MjA3NQ==/1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="" , F 12 RedSand * http://www.blueflag.ga/ *
-http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
+
 
 
 #EXTINF:-1 group-title="" , F 13 
@@ -113,7 +102,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-
 
 
 
-
+#EXTINF:-1 group-title="" , F5 x
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 
