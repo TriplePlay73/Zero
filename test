@@ -16,16 +16,16 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 
 
-#EXTINF:-1 group-title="" , F5
+#EXTINF:-1 group-title="" , F5 x
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="" , F6 *
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="" , F7
+#EXTINF:-1 group-title="" , F7 *
 https://d385rn79iu063n.cloudfront.net/hls/prelims/playlist.m3u8
 
-#EXTINF:-1 group-title="" , F8
+#EXTINF:-1 group-title="" , F8 *
 http://45.148.26.176/hls/M11.m3u8
 
 
