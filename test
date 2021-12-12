@@ -29,29 +29,29 @@ https://d385rn79iu063n.cloudfront.net/hls/prelims/playlist.m3u8
 http://45.148.26.176/hls/M11.m3u8
 
 
-#EXTINF:-1 group-title="" , F9
+#EXTINF:-1 group-title="" , F9 x
 http://45.94.28.83/hls/S2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjE2CjozNgogQU0maGFzaF92YWx1ZT1WYlJqWFpLbWsrWENsZGVLaW1ZbmpnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNjAxOjU4NjpjMjAwOmQ4MjA6ZmRmOTpkNWE2OjVmNzc6OWU5MyZzdHJtX2xlbj00
 
-#EXTINF:-1 group-title="" , F 10
+#EXTINF:-1 group-title="" , F 10 *
 http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyMSAyOjIwCjowOQogQU0maGFzaF92YWx1ZT1PaVBBdVJtWlZJdGVCUWdzQmsyR2RRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMwLjE1MyZzdHJtX2xlbj00
 
 
 
-#EXTINF:-1 group-title="" , F 11 1stream.top
+#EXTINF:-1 group-title="" , F 11 1stream.top *
 https://dy3j9qentq0g5.cloudfront.net/stream/MjA3NQ==/1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="" , F 12 RedSand * http://www.blueflag.ga/
+#EXTINF:-1 group-title="" , F 12 RedSand * http://www.blueflag.ga/ *
 http://iptvvi.com:80/live/Bektash/qNvXcDD98fPC/95052.m3u8
 
 
-#EXTINF:-1 group-title="" , F 13 *OVO
-https://nflarcadia.xyz/hls/m1.m3u8
+#EXTINF:-1 group-title="" , F 13 
 
 
-#EXTINF:-1 group-title="" , F 14 *OVO
-http://109.74.199.195/live/abr_s-5/live/s-5_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="" , F 14 
+
 
 #EXTINF:-1 group-title="" , F
 
