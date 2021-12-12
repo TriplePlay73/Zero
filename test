@@ -2,25 +2,54 @@
 
 
 #EXTINF:-1 group-title="" , F1
-https://d385rn79iu063n.cloudfront.net/hls/espn2/chunks.m3u8
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
 
 #EXTINF:-1 group-title="" , F2 *|autowebzoom=120scroll=50,100
 https://techoreels.com/2021/u1|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="" , F3
-https://srv19.varcdn1.ru/10tka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" , F3 
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
 #EXTINF:-1 group-title="" , F4
-https://cdn.wasd.tv/live/1228150/index.m3u8
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 
 
 #EXTINF:-1 group-title="" , F5
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="" , F6
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 group-title="" , F7
+
+
+#EXTINF:-1 group-title="" , F8
 
 
 
-#EXTINF:-1 group-title="" , 5 |autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="" , F9
+
+
+#EXTINF:-1 group-title="" , F 10
+
+
+
+
+#EXTINF:-1 group-title="" , F 11
+
+
+
+#EXTINF:-1 group-title="" , F 12 (RUSSIAN) 
+https://srv19.varcdn1.ru/10tka/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="" , x |autowebzoom=120scroll=50,100
 
 
 
