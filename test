@@ -1,16 +1,32 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="" , Robertson vs Cachoeira
-https://s-delivery13.mxdcontent.net/v/ac9918462a3f7ff2d7e58491f1730451_0.mp4?s=wDVYxeuw6O54_6lau2ygnw&e=1639374384&_t=1639360368
-
-#EXTINF:-1 group-title="" , Maverick vs Blanchfield
-https://s-delivery11.mxdcontent.net/v/e9289ceb6149bdae5ca16a43ee2539c2_0.mp4?s=YgVRwcY-dofFKogEinaF6w&e=1639371884&_t=1639356520
+#EXTINF:-1 group-title="" , Yule Log
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
 
 
-#EXTINF:-1 group-title="" , Nunez vs Pena
-https://s-delivery27.mxdcontent.net/v/978ce8412387ce6bda284ee490f11b64_0.mp4?s=Ak0wYg4odk-0E83Xr8qT0A&e=1639372186&_t=1639355131
+
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
 
 
 
@@ -58,7 +74,17 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-
 
 
 
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
 
