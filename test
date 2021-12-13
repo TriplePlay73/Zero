@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="" , food net
+https://h4.ustvgo.la/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMSA5OjE2OjI4IFBNJmhhc2hfdmFsdWU9WGsyb3lLc1RKR2ZTOWFMWnlDS01vZz09JnZhbGlkbWludXRlcz0yNDA=
+
 #EXTINF:-1 group-title="" , Yule Log
 https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
 
