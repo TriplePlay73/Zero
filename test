@@ -4,7 +4,8 @@
 #EXTINF:-1 group-title="" , Yule Log
 https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
 
-
+#EXTINF:-1 group-title="" ,  Docubay Live
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 
 
 #EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
