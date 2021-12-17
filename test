@@ -1,6 +1,218 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Music Video",  Updated 12-17-21
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8?rdid=1e8a753d-f784-5410-874f-ef30ac7cf1d4&coppa=false&content=8cb5ff962bed5a41a21699662b0a0237&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=love_nature&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F93.0.4577.63+Mobile+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+
+
+
+#EXTINF:-1 group-title="Music Video",  VH1  (Music)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Vevo Holiday
+https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo Pop
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/e0be8bdf-8fb5-41db-a406-3cd3b9ebe74b-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0e7eed8336ed577b850fb1a69410d745&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo R&B
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=19c5617306ed5122bbb34a7fab11865c&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo Hip-Hop
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=861b55144d585dac9eb7538a9498948f&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo 2K
+https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=9c10a24504a65937a98c87492bef5028&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '90s
+https://na.linear.zype.com/fa0b5352-42cd-4899-ab88-745633e427a3/b6bea188-fb89-4d1e-a82a-be36765c5455-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=fc10a0d717735932a88db28bab1fdfaf&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '80s
+https://na.linear.zype.com/7cb77774-2454-b6c3-d9f4-7aa073c19fec/d5464fb0-08e7-4fab-8dd3-6f9fd4a2217e-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b01bc7f354e95dd7bfcdc550269e78e3&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Vevo '70s
+https://na.linear.zype.com/257c843a-7f56-4b2c-bdcd-63ce5f56e1b7/a3dcf47a-9df4-4254-bce1-0cd569b378c7-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=c0dc91adadea5075bd0ade842dda91ac&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+
+
+#EXTINF:-1 group-title="Music Video",  Loop Hottest
+https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8?ads.wurl_channel=779&ads.wurl_name=LoopHottest&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=43c6f5fd43a15f4493fad5051a49d149&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=43c6f5fd43a15f4493fad5051a49d149&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="Music Video",  Loop 80s
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8?ads.wurl_channel=782&ads.wurl_name=Loop80s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9b3ae6a49fe35d1bb8714fcd36b3e928&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9b3ae6a49fe35d1bb8714fcd36b3e928&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  Loop 90s
+https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8?ads.wurl_channel=783&ads.wurl_name=Loop90s&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=5535a5ff8eb35498a962d6f91c1df0ea&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=5535a5ff8eb35498a962d6f91c1df0ea&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="Music Video",  Loop Hip Hop
+https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8?ads.wurl_channel=781&ads.wurl_name=LoopHipHop&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=045011263e665b64a2b7555477c0306b&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=045011263e665b64a2b7555477c0306b&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="Music Video",  Loop Party
+https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8?ads.wurl_channel=780&ads.wurl_name=LoopParty&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3cd40990b0d55e688323c23604632d89&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3cd40990b0d55e688323c23604632d89&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  #EXTINF:-1 group-title="Music Video",  YO' MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=560a1c6c-758b-11eb-b224-0242ac110002&sid=560a1c6c-758b-11eb-b224-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  Yo! MTV 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=8c49ad00fb2f544f94b7b41e43ab9027&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+EXTINF:-1 group-title="Music Video",   MTV Biggest POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=1c8617fe-758b-11eb-b762-0242ac110002&sid=1c8617fe-758b-11eb-b762-0242ac110002&userId=
+
+
+#EXTINF:-1 group-title="Music Video",  MTV Biggest Pop 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=179fa69997fe5860be326e17384508ad&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=889edc34-758a-11eb-b217-0242ac110002&sid=889edc34-758a-11eb-b217-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Music Video",  MTV Block Party 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=453cd50a-ac65-5a19-857b-5a639c3b629b&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=453cd50a-ac65-5a19-857b-5a639c3b629b&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=cc22deddb2eb526ca02d003e5116d5dc&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="Music Video",  MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=e0ae14c5-758a-11eb-98f7-0242ac110002&sid=e0ae14c5-758a-11eb-98f7-0242ac110002&userId=
+
+
+#EXTINF:-1 group-title="Music Video",  Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=38461c75-7589-11eb-8477-0242ac110002&sid=38461c75-7589-11eb-8477-0242ac110002&userId=
+
+
+#EXTINF:-1 group-title="Music Video",  Circle
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00432-circle-circle-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=740f6b19f38e56b98d54decbaf604348&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=circle&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1 group-title="Music Video",  Vevo Country
+https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0d686f34a8895272bab07d328cd6a31e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="Music Video",  Loop Country
+https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8?ads.wurl_channel=784&ads.wurl_name=LoopCountry&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=3d88322cc29d582b8e45c3c1c9cd7f8e&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=looptv&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&bmodel=bm1&content=3d88322cc29d582b8e45c3c1c9cd7f8e&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=looptv&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="Music Video",  The Country Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-rokuus/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=61afa9a5d60d51afb3d239bc4bfa23f6&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=cinedigm&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+#EXTINF:-1 group-title="Music Video",   CMT MUSIC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=491e9180-5ca7-43e8-86fd-cd15e24321f0&clientModelNumber=na&deviceDNT=false&deviceId=491e9180-5ca7-43e8-86fd-cd15e24321f0&deviceLat=41.4453&deviceLon=-81.6991&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.182&marketingRegion=US&serverSideAds=true&sessionID=24611e70-758a-11eb-a635-0242ac110002&sid=24611e70-758a-11eb-a635-0242ac110002&userId=
+
+
+#EXTINF:-1 group-title="Music Video",  CMC-USA Country
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 group-title="Music Video",  Vivaldi TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=a63a7294876051a4b9247e175b575611&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=G&is_roku_lat=1&studio_id=thematv&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=2f88e2609ff457eea6c56f4ee615699c&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Jazz&Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=cde22d46daf25dbeacdee251099decf3&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+#EXTINF:-1 group-title="Music Video",  QwestTV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=ad750603c5e05201b1e9ac9b3f77abea&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
+
+#EXTINF:-1 group-title="Music Video",  tingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Music Video",  CMC-TV
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="" , Yule Log
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="" ,  Docubay Live
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="" , Holiday Movie Favorites *Bt Lifetime
+https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
+
+#EXTINF:-1 group-title="" , Yule Log
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="" , Antiques Roadshow UK
+https://e38d59024a5f47f088425240fac80d81.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AntiquesRoadshowUK/playlist.m3u8?ads.wurl_channel=905&ads.wurl_name=AntiquesRoadshowUK&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7621860c34c65549ae30e334f355a3d4&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7621860c34c65549ae30e334f355a3d4&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
+
+
+#EXTINF:-1 group-title="" , BBC Home
+https://800abe2fa2ea4e6493cb0e68360fa45d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCHome/playlist.m3u8?ads.wurl_channel=906&ads.wurl_name=BBCHome&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=f8841ab48e6f5ef6afc91874fe6d8822&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=f8841ab48e6f5ef6afc91874fe6d8822&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
+
+
+
+
+
+#EXTINF:-1 group-title="" , BBC Food
+https://7eeb2be418cc4f6fa4b292ab44176623.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCFood/playlist.m3u8?ads.wurl_channel=907&ads.wurl_name=BBCFood&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=0e44160d4f7d57c593952c3b1e4a2936&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=0e44160d4f7d57c593952c3b1e4a2936&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
+
+
+
+#EXTINF:-1 group-title="" , Power Nation
+https://058a64454ed94c49b2afec7aaab9a695.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RTMTVChannel/playlist.m3u8?ads.wurl_channel=483&ads.wurl_name=RTMTVChannel&ads.bmodel=bm1&ads.channelStore=us&ads.content=4b78d64e46215bcd8d80e826c8a9ca96&ads.content_rating=TVG&ads.tags=cat-cars&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=rtm&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=4b78d64e46215bcd8d80e826c8a9ca96&platform=web&tags=cat-cars&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=rtm&channel_id=151908&channelStore=us
+
+
+
+#EXTINF:-1 group-title="" , This Old House Classic
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
+
+
+
+
 #EXTINF:-1 group-title="Music Video",  Vevo Pop
 
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/e0be8bdf-8fb5-41db-a406-3cd3b9ebe74b-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=0e7eed8336ed577b850fb1a69410d745&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
@@ -136,81 +348,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/p
 #EXTINF:-1 group-title="Music Video", QwestTV Mix
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8?rdid=e1346f15-f569-555e-99e3-558574eb0d54&coppa=false&content=ad750603c5e05201b1e9ac9b3f77abea&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1&studio_id=qwest&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.93+Safari%2F537.36&is_lat=1&channel_id=151908
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="" , Yule Log
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="" ,  Docubay Live
-https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
-
-
-#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-
-
-
-
-#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-
-
-
-
-#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
-
-
-
-
-#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="" , Holiday Movie Favorites *Bt Lifetime
-https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesByLifetime&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7987c165a10d5eab96e4146401363607&ads.content_rating=TVPG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=ae&ads.rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7987c165a10d5eab96e4146401363607&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=9e5e37b3-8ca7-58b7-b156-ebe24f8eff61&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=ae&channel_id=151908&channelStore=us
-
-#EXTINF:-1 group-title="" , Yule Log
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00200-rokuinc-theyulelog-rokuus/playlist.m3u8?is_lat=1&bmodel=bm1&content=4f3d3d8021d75002bdbd413e3b3539b6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=roku&channel_id=151908&channelStore=us
-
-
-#EXTINF:-1 group-title="" , Antiques Roadshow UK
-https://e38d59024a5f47f088425240fac80d81.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AntiquesRoadshowUK/playlist.m3u8?ads.wurl_channel=905&ads.wurl_name=AntiquesRoadshowUK&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=7621860c34c65549ae30e334f355a3d4&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=7621860c34c65549ae30e334f355a3d4&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
-
-
-#EXTINF:-1 group-title="" , BBC Home
-https://800abe2fa2ea4e6493cb0e68360fa45d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCHome/playlist.m3u8?ads.wurl_channel=906&ads.wurl_name=BBCHome&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=f8841ab48e6f5ef6afc91874fe6d8822&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=f8841ab48e6f5ef6afc91874fe6d8822&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
-
-
-
-
-
-#EXTINF:-1 group-title="" , BBC Food
-https://7eeb2be418cc4f6fa4b292ab44176623.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCFood/playlist.m3u8?ads.wurl_channel=907&ads.wurl_name=BBCFood&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=0e44160d4f7d57c593952c3b1e4a2936&ads.content_rating=TVG&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=bbc&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=0e44160d4f7d57c593952c3b1e4a2936&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=bbc&channel_id=151908&channelStore=us
-
-
-
-#EXTINF:-1 group-title="" , Power Nation
-https://058a64454ed94c49b2afec7aaab9a695.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RTMTVChannel/playlist.m3u8?ads.wurl_channel=483&ads.wurl_name=RTMTVChannel&ads.bmodel=bm1&ads.channelStore=us&ads.content=4b78d64e46215bcd8d80e826c8a9ca96&ads.content_rating=TVG&ads.tags=cat-cars&ads.content_type=livefeed&ads.coppa=false&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=rtm&ads.rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&bmodel=bm1&content=4b78d64e46215bcd8d80e826c8a9ca96&platform=web&tags=cat-cars&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=rtm&channel_id=151908&channelStore=us
-
-
-
-#EXTINF:-1 group-title="" , This Old House Classic
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8?rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&coppa=false&content=ca60a43022d55533980c1986da56054a&platform=web&content_type=livefeed&content_rating=TVG&is_roku_lat=1&studio_id=toh&bmodel=bm1&channelStore=us&tags=ROKU_CONTENT_TAGS&device_lang=ROKU_ADS_LOCALE&genre=ROKU_ADS_CONTENT_GENRE&unlocked=UNLOCKED&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F96.0.4664.45+Safari%2F537.36&is_lat=1&channel_id=151908
 
 
 
