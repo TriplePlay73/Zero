@@ -9,8 +9,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/play
 
 
 
-#EXTINF:-1 group-title="Music Video",  VH1  (Music)
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
 
 #EXTINF:-1 group-title="Music Video",  Vevo Holiday
 https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/04a9af3f-d2f1-4cf0-a2b5-12e6234d0c08-roku-channel/live.m3u8?is_lat=1&bmodel=bm1&content=b2804f4bff535cf7869da3e225d988e6&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=453cd50a-ac65-5a19-857b-5a639c3b629b&genre=special&content_rating=UNRATED&studio_id=vevo&channel_id=151908&channelStore=us
@@ -132,7 +131,8 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 
 
 
-
+#EXTINF:-1 group-title="Music Video",  VH1  (Music)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 
