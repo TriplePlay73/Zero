@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="" , 1-U
+https://bit.ly/3yFUPv3
+
 #EXTINF:-1 group-title="" , 1-Parker vs Chisora 
 http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA3OjAyCjo1OQogUE0maGFzaF92YWx1ZT14anMvclNWSXBjazNvbEdTTDRpSGx3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDEuMTAxLjk5LjI0NCZzdHJtX2xlbj00
 
