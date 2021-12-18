@@ -16,8 +16,7 @@ http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
 #EXTINF:-1 group-title="" , amniemodel
 
-https://edge117.stream.highwebmedia.com/live-hls/amlst:amniemodel-sd-07fc31664396ddf9341644ebf494afbdcc0b19bf543be6f010ae5a9b0f60cc16_trns_h264/playlist.m3u8
-
+https://edge117.stream.highwebmedia.com/live-hls/amlst:amniemodel-sd-07fc31664396ddf9341644ebf494afbdcc0b19bf543be6f010ae5a9b0f60cc16_trns_h264/chunklist_w827588649_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 group-title="" , 8-Test
 https://edge117.stream.highwebmedia.com/live-hls/amlst:chaturbatable-sd-f2c3ee43c3fac1a104b9a643450bed381b1a7c7a005867dff4fe8293364473ad_trns_h264/playlist.m3u8
 
