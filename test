@@ -13,29 +13,10 @@ http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA5Oj
 #EXTINF:-1 group-title="" ,  Cycling Main
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
-#EXTINF:-1 group-title="" , 1-Parker vs Chisora 
-http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA3OjAyCjo1OQogUE0maGFzaF92YWx1ZT14anMvclNWSXBjazNvbEdTTDRpSGx3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDEuMTAxLjk5LjI0NCZzdHJtX2xlbj00
 
-#EXTINF:-1 group-title="" , 2-Parker vs Chisora
-http://77.247.109.111/hls/T2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA3OjA2CjoyNgogUE0maGFzaF92YWx1ZT11VjM3WnlyV0p4NmJ3MTdBWkMxYTFBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0zNy4xMjAuMjMzLjE0MCZzdHJtX2xlbj00
+#EXTINF:-1 group-title="" , amniemodel
 
-
-#EXTINF:-1 group-title="" , 3-Parker vs Chisora
-http://198.144.159.40/PJnj2J-w5BPH6nuCRqMazA/1639883612/322e3130302e31372e3439/ff126/playlist.m3u8
-
-#EXTINF:-1 group-title="" , 4-Parker vs Chisora
-https://livestreaminglamadya.s3.us-east-2.amazonaws.com/live/live.m3u8
-
-#EXTINF:-1 group-title="" , 5-Parker vs Chisora
-http://77.247.109.111/hls/T2.m3u8
-
-
-#EXTINF:-1 group-title="" , 6-Parker vs Chisora
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-
-
-#EXTINF:-1 group-title="" , 7-Parker vs Chisora
-http://ddddddd-762863935.us-west-1.elb.amazonaws.com/live/GSDVDA/playlist.m3u8
+https://edge117.stream.highwebmedia.com/live-hls/amlst:amniemodel-sd-07fc31664396ddf9341644ebf494afbdcc0b19bf543be6f010ae5a9b0f60cc16_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="" , 8-Test
 https://edge117.stream.highwebmedia.com/live-hls/amlst:chaturbatable-sd-f2c3ee43c3fac1a104b9a643450bed381b1a7c7a005867dff4fe8293364473ad_trns_h264/playlist.m3u8
