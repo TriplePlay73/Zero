@@ -1,10 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" ,WTF
+#EXTINF:-1 group-title="" ,  1-WTF *1stream.top
 https://dy3j9qentq0g5.cloudfront.net/stream/MjE5OA==/MjE5OA==.m3u8
 
-#EXTINF:-1 group-title="" , 3-U
-http://iptvvi.com/live/Bektash/qNvXcDD98fPC/95038.m3u8
+
+#EXTINF:-1 group-title="" ,  2-WTF cycling
+http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMSAzOjI4CjozMAogQU0maGFzaF92YWx1ZT1BaHBQQUN3clI2c0tTY1p0Rjh4N0dRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI3LjE2JnN0cm1fbGVuPTQ=
+
+#EXTINF:-1 group-title="" ,  3-WTF
+http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMSAyOjEwCjoxMwogQU0maGFzaF92YWx1ZT1GNFphVmI1WEQzMkYwSXc3ODk2cWFnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjIxNSZzdHJtX2xlbj00
+
+#EXTINF:-1 group-title="" ,  4-WTF
+https://d20xt6pkpqcef4.cloudfront.net/hls/boxing/chunks.m3u8
+
+#EXTINF:-1 group-title="" ,  5-WTF
+https://dy3j9qentq0g5.cloudfront.net/stream/MjE5OA==/1080p.m3u8
+
+#EXTINF:-1 group-title="" ,  6-WTF
+http://185.53.89.183/hls/box.m3u8
+#EXTINF:-1 group-title="" ,  7-WTF
+https://sel6.varcdn1.ru/setantasport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" ,  8-WTF
+https://bal.varcdn1.ru/lb/setantasport/index.m3u8
+#EXTINF:-1 group-title="" ,  9-WTF
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qmp-iZXROQeOAg1JCh71hkkI5ZObPRU5QqsuAQluHRup6swApGxB8TNOM4F_WWDbB-MalUhng-TUVbSTpsCBhg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_16806865436319001937.m3u8?type=replay
+
 
 #EXTINF:-1 group-title="" , 2-U
 http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA5OjA2CjoxOAogUE0maGFzaF92YWx1ZT1ySFRhVklCdmY2N3VOL1k0NjI5Z1FRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjE0NyZzdHJtX2xlbj00
