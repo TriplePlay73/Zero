@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" ,  1-WTF *1stream.top
-https://d3u3fad1rf287t.cloudfront.net/stream/MjE5OA==/MjE5OA==.m3u8
-
-#EXTINF:-1 group-title="" ,  2-WTF cycling
-http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMSAzOjI4CjozMAogQU0maGFzaF92YWx1ZT1BaHBQQUN3clI2c0tTY1p0Rjh4N0dRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI3LjE2JnN0cm1fbGVuPTQ=
-
-#EXTINF:-1 group-title="" ,  3-WTF
-http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyMSAyOjEwCjoxMwogQU0maGFzaF92YWx1ZT1GNFphVmI1WEQzMkYwSXc3ODk2cWFnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjIxNSZzdHJtX2xlbj00
-
-
-#EXTINF:-1 group-title="" ,  5-WTF
-https://dy3j9qentq0g5.cloudfront.net/stream/MjE5OA==/1080p.m3u8
-
-#EXTINF:-1 group-title="" ,  6-WTF
-http://185.53.89.183/hls/box.m3u8
-
-#EXTINF:-1 group-title="" ,  9-TSN ?
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qmp-iZXROQeOAg1JCh71hkkI5ZObPRU5QqsuAQluHRup6swApGxB8TNOM4F_WWDbB-MalUhng-TUVbSTpsCBhg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_16806865436319001937.m3u8?type=replay
-
-
-#EXTINF:-1 group-title="" , 2-U
-http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMSA5OjA2CjoxOAogUE0maGFzaF92YWx1ZT1ySFRhVklCdmY2N3VOL1k0NjI5Z1FRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTI2LjE0NyZzdHJtX2xlbj00
-
-
-#EXTINF:-1 group-title="" ,  Cycling Main
-http://cdn4.cyclingnews.live/hls/Q1.m3u8
-
-
-#EXTINF:-1 group-title="" ,ana_carrera1
-https://edge213.stream.highwebmedia.com/live-hls/amlst:ana_carrera1-sd-62ce22f658d2adcc5eae23a2bf0ea01810daf94a58260ae7ed9a0d3818d4426a_trns_h264/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="" , 8-Test
-https://edge117.stream.highwebmedia.com/live-hls/amlst:chaturbatable-sd-f2c3ee43c3fac1a104b9a643450bed381b1a7c7a005867dff4fe8293364473ad_trns_h264/playlist.m3u8
-
 
 
 
