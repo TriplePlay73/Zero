@@ -1,6 +1,41 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="" ,xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="" , Fireplace Holiday Edition
+https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
+
+#EXTINF:-1 group-title="" ,Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
+
+
+#EXTINF:-1 group-title="" , distro
+https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="Distro TV",DTV | Fireplace Lounge
+https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="" ,Fireplace
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd8282253ed2c6334ea10fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1 group-title="" ,TVS Western Movie
+https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index-1640127260-now.m3u8?token=1ad6ccd7618c4e4e53c0432ef610c3ad
+
+
+
+#EXTINF:-1 group-title="" ,Fireplace *Stirr
+
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+
 
 
 #EXTINF:-1 group-title="" , Yule Log
