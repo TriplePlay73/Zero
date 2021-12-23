@@ -1,6 +1,35 @@
 #EXTM3U
 
 
+
+
+
+
+#EXTINF:-1 group-title="" , Fox Square Live
+https://www.youtube.com/watch?v=QbGrhRr4Sow
+
+
+
+
+
+
+#EXTINF:-1 group-title="" , 2  |webview zoom=100 scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="" , 4 |autowebzoom=120scroll=50,100
+
+
+
+
+#***********************************************************************************************************
+
+
+
+
+
+
 #EXTINF:-1 group-title="" ,The Price Is Right L1
 https://thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
