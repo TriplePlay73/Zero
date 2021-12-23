@@ -1,31 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" ,Statue of Liberty 
-https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="" ,Liberty Cam
-https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown|autowebzoom=120scroll=50,100
-
-
-
-#EXTINF:-1 group-title="" ,Cleveland 
+#EXTINF:-1 group-title="Live Cam" ,  Cleveland 
 https://www.earthcam.com/usa/ohio/cleveland/?cam=pierw|autowebzoom=120scroll=50,100
 
-#EXTINF:-1 group-title="" , Power Tower Cedar Point East
+#EXTINF:-1 group-title="Live Cam" ,  Power Tower Cedar Point East
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="" , Power Tower Cedar Point West
+#EXTINF:-1 group-title="Live Cam" ,  Power Tower Cedar Point West
 https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Live Cam" ,  Edgewater-Beach
+https://e1-na3.angelcam.com/cameras/82191/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI4MjE5MSIsImRldmljZV9pZCI6IjgyMTkxIiwidGltZSI6MTY0MDMwMTA1NzQ5NzQxOCwidGltZW91dCI6MzYwMH0%3D%2Eb63f01372afdb1fec6fc8ba5dde2e510d4d07294358fb309e55b78028413c898
+
+
+#EXTINF:-1 group-title="Live Cam" ,  Cuyahoga River: The Music Box Supper Club bridge 
+https://stream-ue1-bravo.dropcam.com/nexus_aac/876d724c0ace471aa762157152ce51b5/playlist.m3u8?public=BfqFWour4P
 
 
 
-#EXTINF:-1 group-title="" , Times Square North View
-https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="Live Cam" ,  Avon Lake,OH
+https://5b8462eb3469a.streamlock.net:444/avonlake1/avonlake1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="" , Harbor Cam
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+#EXTINF:-1 group-title="Live Cam" ,  
+
+
+
+
+
+
+
+
+
+#UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+
+
+
+
+#EXTINF:-1 group-title="Live Cam" ,  Statue of Liberty 
+https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="Live Cam" ,  Liberty Cam
+https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="Live Cam" ,   Harbor Cam
 https://www.earthcam.com/usa/newyork/newyorkharbor/?cam=nyharbor|autowebzoom=120scroll=50,100
 
 
