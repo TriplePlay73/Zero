@@ -4,11 +4,45 @@
 #EXTINF:-1 group-title="" ,The Price Is Right L1
 https://thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
-#EXTINF:-1 group-title="" ,The Price Is Right L2
-https://thepriceisright-redbox.amagi.tv/amRdirect/DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="" , Redbox Holiday
+https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
 
 
+#EXTINF:-1 group-title="" , It's Showtimw At The Apollo
+https://dai2.xumo.com/xumocdn/DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="" , Redbox- War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3A%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+#EXTINF:-1 group-title="" , Wu Tang TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+#EXTINF:-1 group-title="" , Hi-YAH!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+#EXTINF:-1 group-title="" , Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+#EXTINF:-1 group-title="" , Outside TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+#EXTINF:-1 group-title="" , Kevin Hart's LOL! Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
+
+
+
+#EXTINF:-1 group-title="" , American Clasics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebLinux&ssai_req=1&subp=RedboxWebLinux&sz=0x0
 
 
 
