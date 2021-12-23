@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="" ,Cleveland 
+https://www.earthcam.com/usa/ohio/cleveland/?cam=pierw|autowebzoom=120scroll=50,100
+
+
 #EXTINF:-1 group-title="" , Times Square North View
 https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd|autowebzoom=120scroll=50,100
 
