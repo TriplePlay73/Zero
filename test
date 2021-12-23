@@ -1,9 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , ny SQ
+#EXTINF:-1 group-title="" , Times Square North View
 https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd|autowebzoom=120scroll=50,100
 
+#EXTINF:-1 group-title="" , Harbor Cam
+https://www.earthcam.com/usa/newyork/newyorkharbor/?cam=nyharbor
+
+
+#EXTINF:-1 group-title="" ,Liberty Cam
+https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown
 
 
 
