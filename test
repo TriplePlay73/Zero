@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="" ,Statue of Liberty 
+https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="" ,Liberty Cam
+https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown|autowebzoom=120scroll=50,100
+
 
 
 #EXTINF:-1 group-title="" ,Cleveland 
@@ -13,8 +20,7 @@ https://www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd|autowebzoom=120sc
 https://www.earthcam.com/usa/newyork/newyorkharbor/?cam=nyharbor|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1 group-title="" ,Liberty Cam
-https://www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown|autowebzoom=120scroll=50,100
+
 
 
 
