@@ -24,7 +24,10 @@ http://www.rockthelake.com/music-box-supper-club-bridge-cam|autowebzoom=120scrol
 https://5b8462eb3469a.streamlock.net:444/avonlake1/avonlake1.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live Cam" ,  
+
+
+#EXTINF:-1 group-title="Live Cam" , Miller Ferries - Put-in-Bay Harbor
+https://56cf3370d8dd3.streamlock.net:1935/live/lesi-miller.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Cam" ,  
 
