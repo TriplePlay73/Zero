@@ -14,8 +14,7 @@ https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/playlist.m3u8
 https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Cam" ,  Edgewater-Beach
-https://e1-na3.angelcam.com/cameras/82191/streams/hls/playlist.m3u8?token=eyJjYW1lcmFfaWQiOiI4MjE5MSIsImRldmljZV9pZCI6IjgyMTkxIiwidGltZSI6MTY0MDMwMTA1NzQ5NzQxOCwidGltZW91dCI6MzYwMH0%3D%2Eb63f01372afdb1fec6fc8ba5dde2e510d4d07294358fb309e55b78028413c898
-
+https://www.clevelandmetroparks.com/parks/visit/parks/lakefront-reservation/edgewater-beach|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="Live Cam" ,  Cuyahoga River: The Music Box Supper Club bridge 
 https://stream-ue1-bravo.dropcam.com/nexus_aac/876d724c0ace471aa762157152ce51b5/playlist.m3u8?public=BfqFWour4P
