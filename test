@@ -10,6 +10,11 @@ https://edge212.stream.highwebmedia.com/live-hls/amlst:janedaniells-sd-ff75a1847
 #EXTINF:-1 group-title="" , twotop
 https://edge179.stream.highwebmedia.com/live-hls/amlst:twotop-sd-72ccb43149d94f6ff2cdc91c55a7a740e381b0868abdbbe954dbf9dd217e922d_trns_h264/playlist.m3u8
 
+#EXTINF:-1 group-title="" , twotop
+https://edge214.stream.highwebmedia.com/live-edge/amlst:twotop-sd-72ccb43149d94f6ff2cdc91c55a7a740e381b0868abdbbe954dbf9dd217e922d_trns_h264/playlist.m3u8?rp=c8d21c85c6ae42ff2747dbc0256775bcc8444cf783ad11dec76bc30d550dfc6d&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640918997%2C%22sig%22%3A%22795d0386657a3494f4bc7760fac3a5796369e011ed371c3473d54440620d9629%22%2C%22room%22%3A%22twotop%22%7D
+
+
+
 #EXTINF:-1 group-title="Live Cam" , i90 - w blvd
 https://itscameras.dot.state.oh.us/images/CLE/CLE118-L.jpg?date=1640306310000|autowebzoom=120scroll=50,100
 
