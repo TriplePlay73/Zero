@@ -7,6 +7,8 @@ https://edge185.stream.highwebmedia.com/live-hls/amlst:chroniclove-sd-8f0426fbdc
 #EXTINF:-1 group-title="" , Janedaniells
 https://edge212.stream.highwebmedia.com/live-hls/amlst:janedaniells-sd-ff75a1847aff7d5771123de700171e7b8393678e483c7225e0ce2e5a7c190ba0_trns_h264/playlist.m3u8
 
+#EXTINF:-1 group-title="" , twotop
+https://edge179.stream.highwebmedia.com/live-hls/amlst:twotop-sd-72ccb43149d94f6ff2cdc91c55a7a740e381b0868abdbbe954dbf9dd217e922d_trns_h264/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Cam" , i90 - w blvd
 https://itscameras.dot.state.oh.us/images/CLE/CLE118-L.jpg?date=1640306310000|autowebzoom=120scroll=50,100
