@@ -2,8 +2,19 @@
 
 
 #EXTINF:-1 group-title="", ?¿?
+http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
 
-http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgMjozMgo6MzgKIEFNJmhhc2hfdmFsdWU9SjQxd3pOVWpBNUZYa29mQjVzK3RJQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjg2LjU2JnN0cm1fbGVuPTQ=
+
+
+
+#EXTINF:-1 group-title="", ?¿?
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+
+
+
+
+
+?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgMjozMgo6MzgKIEFNJmhhc2hfdmFsdWU9SjQxd3pOVWpBNUZYa29mQjVzK3RJQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjg2LjU2JnN0cm1fbGVuPTQ=
 
 
 
