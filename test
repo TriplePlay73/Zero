@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="", F 1
+http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIyIDEyOjAwCjo0MQogQU0maGFzaF92YWx1ZT00TndUbUV3bUN1T2t0T2YrN1BxUUdnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMxLjEwMiZzdHJtX2xlbj00
 
 #EXTINF:-1 group-title="", ?¿?
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
