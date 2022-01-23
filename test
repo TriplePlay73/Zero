@@ -30,11 +30,11 @@ http://185.53.89.183/hls/ppv.m3u8
 
 
 
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="", F G
+https://live-ak.vimeocdn.com/exp=1642902926~acl=%2F32d81ddf-90f3-4d89-9b5c-82899e6097d9%2F%2A~hmac=e3bfd47b873179449fae6eff8b59293a8657d62e5266650d85239f385d11de67/32d81ddf-90f3-4d89-9b5c-82899e6097d9/chunklist_b3256000.m3u8
 
-
-#EXTINF:-1 group-title="",
-
+#EXTINF:-1 group-title="", F H
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/x-discovery-token=Expires=1642919434&KeyName=primary&Signature=aYVsxmfRnQJlrwoAKXbiY9YArkk/start/1642859134/index_3.m3u8
 
 #EXTINF:-1 group-title="",
 
