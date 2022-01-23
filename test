@@ -16,11 +16,6 @@ http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
 
 
-?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgMjozMgo6MzgKIEFNJmhhc2hfdmFsdWU9SjQxd3pOVWpBNUZYa29mQjVzK3RJQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjg2LjU2JnN0cm1fbGVuPTQ=
-
-
-
-
 #EXTINF:-1 group-title="Live Cam" ,  Power Tower Cedar Point East
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/playlist.m3u8
 
@@ -30,53 +25,16 @@ https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/playlist.m3u8
  EXTINF:-1 group-title="" , selly_madelline
 https://edge119.stream.highwebmedia.com/live-edge/amlst:selly_madelline-sd-267089e79576c39fe9a187afa3828cc85a13e10a054fe851918d2727d49c8bc5_trns_h264/playlist.m3u8?rp=4bdea91195ceca8db374dffbee38a4719ca674e8675b1d7120245fe29d0d37e7&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1641166575%2C%22sig%22%3A%221b63b05540812b9b4bed02c89e8f3940a06ec3222c8850ae84a0d9a5b6c72b37%22%2C%22room%22%3A%22selly_madelline%22%7D
 
-#EXTINF:-1 group-title="" , Chroniclove
+#EXTINF:-1 group-title="" ,
+
+
+Chroniclove
 https://edge185.stream.highwebmedia.com/live-hls/amlst:chroniclove-sd-8f0426fbdc1277118481a372603323018528841c257018c9440877023cd23e36_trns_h264/playlist.m3u8
 
-#EXTINF:-1 group-title="" , Janedaniells
-https://edge212.stream.highwebmedia.com/live-hls/amlst:janedaniells-sd-ff75a1847aff7d5771123de700171e7b8393678e483c7225e0ce2e5a7c190ba0_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="" , xoxo4u_/
-https://edge212.stream.highwebmedia.com/live-edge/amlst:xoxo4u_-sd-e9df1724e9c87f7258e24c9f85bc674e3ac0be0bf1f78b343a0c7bb365e7432a_trns_h264/playlist.m3u8?rp=fde9709f2f4a81e14f3dd0749b16dabdc183eac7447b4252f432fd6f3201a910&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640923560%2C%22sig%22%3A%226f5c56aa0f5a69f0cc5f1d5e8e3257edc63e60363aa89f5e116d4e960f95afbf%22%2C%22room%22%3A%22xoxo4u_%22%7D
-
-
-
-#EXTINF:-1 group-title="" , lindabluee
-https://edge209.stream.highwebmedia.com/live-edge/amlst:lindabluee-sd-08dfe68db8c74b3846c1acfd2959b93121e07f4249bda487eea75ea075b8eea1_trns_h264/playlist.m3u8?rp=4c890a6aa11fd2e44f9bbec72543863da356f2fd03fdc82357d40cb65fd20306&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640923130%2C%22sig%22%3A%22444ed0fbe127a59b3fd7dc298b617ec479a02e70c8ed292e9ae482514eb4008b%22%2C%22room%22%3A%22lindabluee%22%7D
-
-#EXTINF:-1 group-title="" , thtqunt
-https://edge211.stream.highwebmedia.com/live-edge/amlst:thtqunt-sd-fc9ec3d639a04987b422d1e093588eef9e77968b6350888cb9fc42700c32a7df_trns_h264/playlist.m3u8?rp=98a79e6c1a7f406f9f998c83f23dc3a7ec5611420b55a980025fe576b8f91583&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640923119%2C%22sig%22%3A%22627b51708eaa95782dc98d1005d267ef09f35dbdc446a6fdc126c1a94a3b283f%22%2C%22room%22%3A%22thtqunt%22%7D
-
-#EXTINF:-1 group-title="" , wantedsugarbaby
-https://edge188.stream.highwebmedia.com/live-edge/amlst:wantedsugarbaby-sd-3a1997e650e28db89fec4d872b646ed4af7d2d9471b508df7d107c8e156624f2_trns_h264/playlist.m3u8?rp=e959ab7db8415b67ccfd0366de9497efe677a6a0e166d7cc7ccffc88967e3a92&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640924156%2C%22sig%22%3A%222750e491ce24e6bd386400145b69f0fa14e063554536ba5b784a22e6e82cc074%22%2C%22room%22%3A%22wantedsugarbaby%22%7D
 
 
 
 
-
-
-#EXTINF:-1 group-title="" , catty190
-https://edge182.stream.highwebmedia.com/live-edge/amlst:catty190-sd-2c70a4de9e0c762d74388af52af6e840718e0fc0181b3b56bd9b43dcfab3f86d_trns_h264/playlist.m3u8?rp=339b2164569aa43505d87b94f212771dff97569c6d6ebd5a60aa763984ebb54d&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640923985%2C%22sig%22%3A%22b1b50d9c4877d3437ea88c8351ebd62fe5a08aadc97596ae80b973c6b3ea7117%22%2C%22room%22%3A%22catty190%22%7D
-
-
-
-
-
-#EXTINF:-1 group-title="" , katybloom_
-https://edge209.stream.highwebmedia.com/live-edge/amlst:katybloom_-sd-f22f7f2398c2178baa9dcd4267293fce5d494e63ee0fd5a93694e3dcf1f960a2_trns_h264/playlist.m3u8?rp=0a9a074ee34857e5e2b951ad8e2e6f9f2b730dd8fd6f4e9fbd4f8f70cdd5b8d6&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640923110%2C%22sig%22%3A%2284c451c8bd533295edf3b6b92c53cc056dbe92898269f7feab620a9c85f38e4e%22%2C%22room%22%3A%22katybloom_%22%7D
-
-
-
-
-
-#EXTINF:-1 group-title="" , twotop
-https://edge179.stream.highwebmedia.com/live-hls/amlst:twotop-sd-72ccb43149d94f6ff2cdc91c55a7a740e381b0868abdbbe954dbf9dd217e922d_trns_h264/playlist.m3u8
-
-#EXTINF:-1 group-title="" , twotop
-https://edge179.stream.highwebmedia.com/live-edge/amlst:twotop-sd-0071d7b232866d247e96cafa31da712830b86b8549951014afdc25601aaa4c85_trns_h264/playlist.m3u8?rp=c8d21c85c6ae42ff2747dbc0256775bcc8444cf783ad11dec76bc30d550dfc6d&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1640922122%2C%22sig%22%3A%226d0538da600e085049309c024f994caf33c0be51e8875ab1fd6e5be19ca8e311%22%2C%22room%22%3A%22twotop%22%7D
-
-#EXTINF:-1 group-title="" , twotop
-https://edge214.stream.highwebmedia.com/live-edge/amlst:twotop-sd-0071d7b232866d247e96cafa31da712830b86b8549951014afdc25601aaa4c85_trns_h264/chunklist_w208339284_b1148000_t64RlBTOjMwLjA=.m3u8
 
 
 #EXTINF:-1 group-title="Live Cam" , i90 - w blvd
