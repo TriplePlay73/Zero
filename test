@@ -3,10 +3,45 @@
 #EXTINF:-1 group-title="", F 1
 http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIyIDEyOjAwCjo0MQogQU0maGFzaF92YWx1ZT00TndUbUV3bUN1T2t0T2YrN1BxUUdnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTMxLjEwMiZzdHJtX2xlbj00
 
-#EXTINF:-1 group-title="", ?¿?
+#EXTINF:-1 group-title="", F 2
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
 
+#EXTINF:-1 group-title="", F A
+http://134.19.182.131:8080/pdg5c05942cf2623d8f.m3u8?m=DurQT1lcdjGbaeYJnc6Grw&c=5c05942cf2623d8f&p=39382e3135372e39322e313132&e=1642928161
 
+#EXTINF:-1 group-title="", F B
+https://d10nbk66ckd93y.cloudfront.net/hls/ufc/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="", F C
+https://srv07.varcdn1.ru/setantasport/tracks-v1a1/mono.m3u8?mob=1
+
+
+
+#EXTINF:-1 group-title="", F D
+http://pllalwls.azureedge.net/live/MMA/playlist.m3u8%7CReferer=http://weakstreams.com/
+
+#EXTINF:-1 group-title="", F E
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 group-title="", F F
+http://185.53.89.183/hls/ppv.m3u8
+
+
+
+#EXTINF:-1 group-title="",
+
+
+#EXTINF:-1 group-title="",
+
+
+#EXTINF:-1 group-title="",
+
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
 
 
 #EXTINF:-1 group-title="", ?¿?
