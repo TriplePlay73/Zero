@@ -6,35 +6,34 @@ http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIyIDEyOjA
 #EXTINF:-1 group-title="", F 2
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
 
-#EXTINF:-1 group-title="", F A
+#EXTINF:-1 group-title="", F 3
 http://134.19.182.131:8080/pdg5c05942cf2623d8f.m3u8?m=DurQT1lcdjGbaeYJnc6Grw&c=5c05942cf2623d8f&p=39382e3135372e39322e313132&e=1642928161
 
-#EXTINF:-1 group-title="", F B
-https://d10nbk66ckd93y.cloudfront.net/hls/ufc/playlist.m3u8
+#EXTINF:-1 group-title="",  F 4
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/x-discovery-token=Expires=1642919434&KeyName=primary&Signature=aYVsxmfRnQJlrwoAKXbiY9YArkk/start/1642859134/index_3.m3u8
 
 
-
-#EXTINF:-1 group-title="", F C
-https://srv07.varcdn1.ru/setantasport/tracks-v1a1/mono.m3u8?mob=1
-
-
-
-#EXTINF:-1 group-title="", F D
-http://pllalwls.azureedge.net/live/MMA/playlist.m3u8%7CReferer=http://weakstreams.com/
-
-#EXTINF:-1 group-title="", F E
+#EXTINF:-1 group-title="",  F 5
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1 group-title="", F F
+
+#EXTINF:-1 group-title="",  F 6
 http://185.53.89.183/hls/ppv.m3u8
 
 
 
-#EXTINF:-1 group-title="", F G
-https://live-ak.vimeocdn.com/exp=1642902926~acl=%2F32d81ddf-90f3-4d89-9b5c-82899e6097d9%2F%2A~hmac=e3bfd47b873179449fae6eff8b59293a8657d62e5266650d85239f385d11de67/32d81ddf-90f3-4d89-9b5c-82899e6097d9/chunklist_b3256000.m3u8
+#EXTINF:-1 group-title="", OVO
+http://172.104.133.247/live/abr_s-6/playlist.m3u8?wmsAuthSign=
 
-#EXTINF:-1 group-title="", F H
-https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/x-discovery-token=Expires=1642919434&KeyName=primary&Signature=aYVsxmfRnQJlrwoAKXbiY9YArkk/start/1642859134/index_3.m3u8
+#EXTINF:-1 group-title="", https://www.streamlive7.com/
+https://live-api.vimeocdn.com/sessions/203f1dd0-4b48-4ddc-b9e4-077ef206d77e/playlist/hls.m3u8?cdn=akamai&json=1&~id=player&~exp=1642914000&~sig=-nQ_Ib3Nu4Uh_f1TMwtVur0zkmwzaT1pPtZOuvqx00Y
+
+
+#EXTINF:-1 group-title="", F7
+https://d10nbk66ckd93y.cloudfront.net/hls/prelims/chunks.m3u8
+
+#EXTINF:-1 group-title="", F 8
+https://dydmzvu3hxa3i.cloudfront.net/stream/MjYyMw==/1080p.m3u8
 
 #EXTINF:-1 group-title="",
 
