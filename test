@@ -28,10 +28,9 @@ http://172.104.133.247/live/abr_s-6/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 group-title="", https://www.streamlive7.com/
 https://live-ak.vimeocdn.com/exp=1642915965~acl=%2F203f1dd0-4b48-4ddc-b9e4-077ef206d77e%2F%2A~hmac=296b7d254a73773e049282c075ca121107f9081c0080d35eb870a1e01986d57a/203f1dd0-4b48-4ddc-b9e4-077ef206d77e/chunklist_b728000.m3u8?max_segments=10
 
-#EXTINF:-1 group-title="", F7
-https://d10nbk66ckd93y.cloudfront.net/hls/prelims/chunks.m3u8
+#EXTINF:-1 group-title="", 
 
-#EXTINF:-1 group-title="", F 8
+#EXTINF:-1 group-title="", F 7
 https://dydmzvu3hxa3i.cloudfront.net/stream/MjYyMw==/1080p.m3u8
 
 #EXTINF:-1 group-title="",
