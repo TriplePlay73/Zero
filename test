@@ -44,8 +44,8 @@ https://dydmzvu3hxa3i.cloudfront.net/stream/MjYyMw==/1080p.m3u8
 #EXTINF:-1 group-title="", ?¿?
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
 
-
-
+#EXTINF:-1 group-title="", RED
+https://edge186.stream.highwebmedia.com/live-edge/amlst:janedaniells-sd-60eb4788cd55e52c539309970d4210c1b74b41a2b6a8d799b2b6e3521036cc4c_trns_h264/playlist.m3u8?rp=7b212e14fa8c177229a353a5e667b3bd432f8cafd3dd521e05828e1603edecc6&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1643480526%2C%22sig%22%3A%221863bc8f8cf4de9e18f7b2043e7311842eb369d794a0acf93f679ff2c64773b6%22%2C%22room%22%3A%22janedaniells%22%7D
 
 
 #EXTINF:-1 group-title="Live Cam" ,  Power Tower Cedar Point East
