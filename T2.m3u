@@ -20,11 +20,11 @@ http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TEST CH" , HBO ***
-https://my.stream2watch.sx/watch/hbo-us-live-stream|webview zoom=100 scroll=50,100
+#EXTINF:-1 group-title="TEST CH" , test1
+https://webapp.airy.tv/Featured/8_Warzonewebview zoom=100 scroll=50,100
 
-#EXTINF:-1 group-title="TEST CH" , HBO //
-https://i-am-so-cool.licenses4.me/cdn/premium44/playlist.m3u8
+#EXTINF:-1 group-title="TEST CH" , test 2
+https://hls.airy.tv/stream/35/airy.m3u8
 
 
 # |autowebzoom=120scroll=50,100
