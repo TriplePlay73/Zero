@@ -51,6 +51,44 @@ https://pluto.tv/en/live-tv/stories-by-amc|autowebzoom=120scroll=50,100
 
 
 
+#EXTINF:-1 group-title="TEST CH" , pluto-tv-comedy
+https://pluto.tv/en/live-tv/pluto-tv-comedy|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="TEST CH" , blaze-live
+https://pluto.tv/en/live-tv/blaze-live|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="TEST CH" , this-old-house
+https://pluto.tv/en/live-tv/this-old-house|autowebzoom=120scroll=50,100
+
+
+
+
+#EXTINF:-1 group-title="TEST CH" , antiques-roadshow-uk
+https://pluto.tv/en/live-tv/antiques-roadshow-uk|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="TEST CH" , antiques-road-trip
+https://pluto.tv/en/live-tv/antiques-road-trip|autowebzoom=120scroll=50,100
+
+
+
+#EXTINF:-1 group-title="TEST CH" , pluto-tv-history
+https://pluto.tv/en/live-tv/pluto-tv-history|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="TEST CH" , smithsonian-channel-selects
+https://pluto.tv/en/live-tv/smithsonian-channel-selects|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="TEST CH" , live-music-replay
+https://pluto.tv/en/live-tv/live-music-replay|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="TEST CH" , vevo-true-school-hip-hop
+https://pluto.tv/en/live-tv/vevo-true-school-hip-hop|autowebzoom=120scroll=50,100
+
 
 
 
