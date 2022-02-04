@@ -2,8 +2,20 @@
 
 #EXTINF:-1 group-title="TEST CH" , 
 
+|autowebzoom=120scroll=50,100
+
+
+|webview zoom=100 scroll=50,100
+
 #EXTINF:-1 group-title="TEST CH" , Showtime
 http://www.freeintertv.com/view/id-3302/USA-1-0-1|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1 group-title="TEST CH" , Showtime
+http://www.freeintertv.com/view/id-3302/USA-1-0-1|webview zoom=100 scroll=50,100
+
+
+|webview zoom=100 scroll=50,100
 
 
 #EXTINF:-1 group-title="TEST CH" , Blaze LIve
