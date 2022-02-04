@@ -13,11 +13,11 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/proxy/5e46fba0c43b0d00096e5ac
 
 
 #EXTINF:-1 group-title="TEST CH" , fs1
-https://livetv.video/stream.php?id=fs1|autowebzoom=120scroll=50,100
+http://fomny.com/Menu2/Pop3/Pop-iframe-m3u8(s=).php?s=http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TEST CH" ,fs1*
-https://livetv.video/stream.php?id=fs1|webview zoom=100 scroll=50,100
+http://fomny.com/Menu2/Pop3/Pop-iframe-m3u8(s=).php?s=http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 
 # |autowebzoom=120scroll=50,100
