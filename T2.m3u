@@ -44,8 +44,8 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61d4c2817a
 
 
 
-
-
+#EXTINF:-1 group-title="TEST CH" , stories by amc *|autowebzoom=120scroll=50,100
+https://pluto.tv/en/live-tv/stories-by-amc|autowebzoom=120scroll=50,100
 
 
 
