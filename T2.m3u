@@ -16,7 +16,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/proxy/5e46fba0c43b0d00096e5ac
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TEST CH" ,fs1*
+#EXTINF:-1 group-title="TEST CH" ,play
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
 
