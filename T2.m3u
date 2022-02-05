@@ -32,8 +32,8 @@ https://hls.airy.tv/stream/23/airy.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST CH" ,  ESPN 
-https://www.ustream.to/espn-live|autowebzoom=120scroll=50,100
+#EXTINF:-1 group-title="TEST CH" ,  hustler
+http://oklivetv.com/hustler-tv-live/|autowebzoom=120scroll=50,100
 
 
 # |autowebzoom=120scroll=50,100
