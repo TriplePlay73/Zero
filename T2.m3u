@@ -22,7 +22,7 @@ https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/193.m3u8
 
 
-#EXTINF:-1 group-title="Airy TV" , OPS TV
+#EXTINF:-1 group-title="Airy TV" , OPS TV *
 https://d3uttqpw4wyvc.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MiddleAmerica-AiryTV/196.m3u8
 
 
