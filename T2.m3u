@@ -42,6 +42,10 @@ https://30a-tv.com/feeds/airytv/nothingscripted.m3u8
 #EXTINF:-1 group-title="Airy TV" , Fishing Offshore
 https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
 
+#EXTINF:-1 group-title="Airy TV" , Fishing Offshore *720
+https://30a-tv.com/feeds/720p/40.m3u8
+
+
 #EXTINF:-1 group-title="Airy TV" , Al Jazeera
 https://hls.airy.tv/stream/resolution/5000/1920x1080/23/airy.m3u8
 
@@ -61,6 +65,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Airy TV" , AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
+
+
 #EXTINF:-1 group-title="Airy TV" , iShe TV
 https://hls.airy.tv/stream/39/airy.m3u8
 
@@ -69,8 +75,7 @@ https://hls.airy.tv/stream/39/airy.m3u8
 #EXTINF:-1 group-title="Airy TV" , Comfy TV
 https://hls.airy.tv/stream/28/airy.m3u8
 
-#EXTINF:-1 group-title="Airy TV" , iCowboy TV
-https://hls.airy.tv/stream/27/airy.m3u8
+
 
 
 #EXTINF:-1 group-title="Airy TV" , Happy Holidays
@@ -82,11 +87,11 @@ https://hls.airy.tv/stream/37/airy.m3u8
 https://hls.airy.tv/stream/38/airy.m3u8
 
 
-#EXTINF:-1 group-title="Airy TV" , Wild America TV
+#EXTINF:-1 group-title="Airy TV" , Wild America TV *nature
 https://hls.airy.tv/stream/19/airy.m3u8
 
 
-#EXTINF:-1 group-title="Airy TV" , Youth Sucess
+#EXTINF:-1 group-title="Airy TV" , Youth Sucess * music
 https://hls.airy.tv/stream/43/airy.m3u8
 
 
@@ -104,33 +109,31 @@ https://hls.airy.tv/stream/29/airy.m3u8
 
 
 
-#EXTINF:-1 group-title="Airy TV" , Exploration and Food
+#EXTINF:-1 group-title="Airy TV" , Exploration and Food *nature
 https://hls.airy.tv/stream/34/airy.m3u8
 
-#EXTINF:-1 group-title="Airy TV" , Giddy Up
-https://hls.airy.tv/stream/36/airy.m3u8
 
 
-#EXTINF:-1 group-title="Airy TV" , Warzone
+
+#EXTINF:-1 group-title="Airy TV" , Warzone *
 https://hls.airy.tv/stream/35/airy.m3u8
 
 
 
-#EXTINF:-1 group-title="Airy TV" , Film Star
+#EXTINF:-1 group-title="Airy TV" , Film Star *music
 https://hls.airy.tv/stream/16/airy.m3u8
 
 
 #EXTINF:-1 group-title="Airy TV" , Horrormax
 https://hls.airy.tv/stream/13/airy.m3u8
 
-#EXTINF:-1 group-title="Airy TV" , Spartan TV
-https://hls-live-linear-media.cdn01.net/LiveChannels/stream_40382/chunklist.m3u8?source=othersites
+#EXTINF:-1 group-title="Airy TV" , Spartan TV *No Link
 
 
 #EXTINF:-1 group-title="Airy TV" ,  Racing America
 https://racingamerica-airytv.amagi.tv/hls/amagi_hls_data_faststudi-racingamerica-airytv/CDN/playlist.m3u8?p=airy
 
-#EXTINF:-1 group-title="Airy TV" , 4 Ace TV
+#EXTINF:-1 group-title="Airy TV" , 4 Ace TV *music
 https://hls.airy.tv/stream/18/airy.m3u8
 
 
@@ -142,7 +145,7 @@ https://hls.airy.tv/stream/41/airy.m3u8
 https://hls.airy.tv/stream/30/airy.m3u8
 
 
-#EXTINF:-1 group-title="Airy TV" , Winnies World TV
+#EXTINF:-1 group-title="Airy TV" , Winnies World TV *kids
 https://hls.airy.tv/stream/20/airy.m3u8
 
 
@@ -184,10 +187,12 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 
 
+#EXTINF:-1 group-title="Airy TV" , Giddy Up
+https://hls.airy.tv/stream/36/airy.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Airy TV" , iCowboy TV
+https://hls.airy.tv/stream/27/airy.m3u8
 
 
 
