@@ -36,6 +36,12 @@ https://hls.airy.tv/stream/23/airy.m3u8
 http://oklivetv.com/hustler-tv-live/|autowebzoom=120scroll=50,100
 
 
+#EXTINF:-1 group-title="TEST CH" ,  Hustler Blur
+http://oklivetv.com/blue-hustler-tv-live|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="TEST CH" ,  Russian Nights
+http://oklivetv.com/russian-night-live|autowebzoom=120scroll=50,100
+
 # |autowebzoom=120scroll=50,100
 
 
