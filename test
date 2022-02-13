@@ -34,6 +34,11 @@ https://d2o261tuuoxp3.cloudfront.net/stream/Mjg1Mg==/1080p.m3u8
 #EXTINF:-1 group-title="", F-11
 https://d2o261tuuoxp3.cloudfront.net/stream/Mjg1Mg==/Mjg1Mg==.m3u8
 
+#EXTINF:-1 group-title="", F -12 *ovo
+http://172.104.232.7/live/abr_s-2/playlist.m3u8?wmsAuthSign=
+
+
+
 
 
 
