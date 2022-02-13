@@ -11,14 +11,9 @@ https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Cam" ,  Power Tower Cedar Point West
 https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/playlist.m3u8
- EXTINF:-1 group-title="" , selly_madelline
-https://edge119.stream.highwebmedia.com/live-edge/amlst:selly_madelline-sd-267089e79576c39fe9a187afa3828cc85a13e10a054fe851918d2727d49c8bc5_trns_h264/playlist.m3u8?rp=4bdea91195ceca8db374dffbee38a4719ca674e8675b1d7120245fe29d0d37e7&u=tripleplay73&t=%7B%22username%22%3A%22tripleplay73%22%2C%22org%22%3A%22A%22%2C%22expire%22%3A1641166575%2C%22sig%22%3A%221b63b05540812b9b4bed02c89e8f3940a06ec3222c8850ae84a0d9a5b6c72b37%22%2C%22room%22%3A%22selly_madelline%22%7D
-
+ 
 #EXTINF:-1 group-title="" ,
 
-
-Chroniclove
-https://edge185.stream.highwebmedia.com/live-hls/amlst:chroniclove-sd-8f0426fbdc1277118481a372603323018528841c257018c9440877023cd23e36_trns_h264/playlist.m3u8
 
 
 
