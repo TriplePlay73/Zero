@@ -6,17 +6,36 @@ http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIyIDEyOjA
 #EXTINF:-1 group-title="", F 2
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
 
-
-
-
 #EXTINF:-1 group-title="", F3
-http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgOToyMQo6MTkKIFBNJmhhc2hfdmFsdWU9TzNKWEZFUG9hQ3ltb3lzSXpWbFNUUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE3NC4xMjcmc3RybV9sZW49NA
+http://38.91.57.12:2082/espn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="", F4
-https://d20gwbs7df9lz6.cloudfront.net/stream/Mjc3MA==/Mjc3MA==.m3u8
+#EXTINF:-1 group-title="", F-4
+https://y.seast.se:443/31/ufc1y/naxi/caxi.m3u8
+
+#EXTINF:-1 group-title="", F-5
+http://45.148.26.176/hls/M1.m3u8
+
+#EXTINF:-1 group-title="", F-6
+http://45.134.21.199/hls/S1.m3u8
+
+#EXTINF:-1 group-title="", F-7
+https://d3fxkq5ndp4ipd.cloudfront.net/hls/prelims/chunks.m3u8
+
+#EXTINF:-1 group-title="", F-8
+https://d3fxkq5ndp4ipd.cloudfront.net/hls/prelims/chunks.m3u8
+
+#EXTINF:-1 group-title="", F-9
+https://bit.ly/3GYSwWJ
 
 
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="", F-10 *1080
+https://d2o261tuuoxp3.cloudfront.net/stream/Mjg1Mg==/1080p.m3u8
+
+#EXTINF:-1 group-title="", F-11
+https://d2o261tuuoxp3.cloudfront.net/stream/Mjg1Mg==/Mjg1Mg==.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="", ?¿?
