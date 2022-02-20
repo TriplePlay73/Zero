@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 group-title="", bkfc
-http://6streams.tv/video/boxing-1/|autowebzoom=120scroll=50,100
+https://vsd113.mycdn.me:443/hls/2272494029327.m3u8/sig/b1y4T9GEnBI/expires/1645411944585/srcIp/154.6.22.228/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3654120578575/2272494029327_high/index.m3u8
+
 
 #EXTINF:-1 group-title="", a1
 http://134.19.182.131:8080/pdgc356a85adc59397b.m3u8?m=WaZJNoMdVd6wkQPiFt90Yw&c=c356a85adc59397b&p=39382e3135372e39322e313132&e=1645338301
