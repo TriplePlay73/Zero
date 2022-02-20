@@ -7,8 +7,9 @@
 #EXTINF:-1 group-title="", a1
 http://134.19.182.131:8080/pdgc356a85adc59397b.m3u8?m=WaZJNoMdVd6wkQPiFt90Yw&c=c356a85adc59397b&p=39382e3135372e39322e313132&e=1645338301
 
-#EXTINF:-1 group-title="",a2
-http://45.148.26.176/hls/M22.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDEwOjI2CjozNQogUE0maGFzaF92YWx1ZT1ZWmRqOWI0dDgvRU0vM3RMYlhFQ2tBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTM1Ljk0JnN0cm1fbGVuPTQ
+#EXTINF:-1 group-title="",BKFC
+https://hg-t4.dotice.me/plyvivo/9inakol0ge4alizum0xu/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="", F 2
 http://cdn1.cyclingstreams.xyz/hls/M1.m3u8
