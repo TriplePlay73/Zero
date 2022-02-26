@@ -9,7 +9,7 @@ https://cpac.conservative.org|autowebzoom=120scroll=50,100
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
 #EXTINF:-1 group-title="", CPAC 2022
-https://live-api.vimeocdn.com/sessions/f95fd25c-1b1c-4b93-87f5-27cefc237e0a/playlist/hls.m3u8?cdn=akamai&json=1&~id=player&~exp=1645920000&~sig=HrFcmhArl6Pi-mr_ow9l1j0Mw1MgX51ManUz6_uWbks
+https://live-ak.vimeocdn.com/exp=1645922627~acl=%2Ff95fd25c-1b1c-4b93-87f5-27cefc237e0a%2F%2A~hmac=09192f09ad29bff5ffc955b1a593de667fce38ce18de5a8cdfa525ed56eb9f7c/f95fd25c-1b1c-4b93-87f5-27cefc237e0a/chunklist_b2056000.m3u8
 
 
 #EXTINF:-1 group-title="", fn 1
