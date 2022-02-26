@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="", CPAC 2022
+https://live-api.vimeocdn.com/sessions/f95fd25c-1b1c-4b93-87f5-27cefc237e0a/playlist/hls.m3u8?cdn=akamai&json=1&~id=player&~exp=1645920000&~sig=HrFcmhArl6Pi-mr_ow9l1j0Mw1MgX51ManUz6_uWbks
+
+#EXTINF:-1 group-title="", CPAC 2022
 https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
 
 
