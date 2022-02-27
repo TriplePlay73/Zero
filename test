@@ -5,18 +5,12 @@
 http://134.19.182.131:8080/pdga77f3b6e943f7c0b.m3u8?m=FHXTuWtup8cr_zS3Y8UOrw&c=a77f3b6e943f7c0b&p=3138352e3133332e3230322e323431&e=1645942098
 
 
-#EXTINF:-1 group-title="", CPAC 2022 *TRUMP LIVE 7PM 2.26.2022
-https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
-
-#EXTINF:-1 group-title="", CPAC 2022  *TRUMP LIVE 7PM 2.26.2022
-https://live-ak.vimeocdn.com/exp=1645922627~acl=%2Ff95fd25c-1b1c-4b93-87f5-27cefc237e0a%2F%2A~hmac=09192f09ad29bff5ffc955b1a593de667fce38ce18de5a8cdfa525ed56eb9f7c/f95fd25c-1b1c-4b93-87f5-27cefc237e0a/chunklist_b2056000.m3u8
-
 
 #EXTINF:-1 group-title="", fn 1
-https://dcisiz1qfkk6q.cloudfront.net/stream/Mjk3OA==/Mjk3OA==.m3u8
+https://dcisiz1qfkk6q.cloudfront.net/stream/MzAyNg==/MzAyNg==.m3u8
 
 #EXTINF:-1 group-title="", fn 2
-http://45.148.26.176/hls/M11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIyIDEwOjUxCjo1NQogUE0maGFzaF92YWx1ZT0yb2VDcGlCQjBLUjlwUlcyK2FmWDBnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMzQuMTM5JnN0cm1fbGVuPTQ
+hhttp://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIyIDM6MDAKOjQwCiBBTSZoYXNoX3ZhbHVlPWhISml5KytoUFZ5aGdNbkhSc3JMNUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNzQuMTY3JnN0cm1fbGVuPTQ
 
 
 #EXTINF:-1 group-title="", a1
