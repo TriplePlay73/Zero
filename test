@@ -10,7 +10,10 @@ http://134.19.182.131:8080/pdga77f3b6e943f7c0b.m3u8?m=FHXTuWtup8cr_zS3Y8UOrw&c=a
 https://dcisiz1qfkk6q.cloudfront.net/stream/MzAyNg==/MzAyNg==.m3u8
 
 #EXTINF:-1 group-title="", fn 2
-hhttp://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIyIDM6MDAKOjQwCiBBTSZoYXNoX3ZhbHVlPWhISml5KytoUFZ5aGdNbkhSc3JMNUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNzQuMTY3JnN0cm1fbGVuPTQ
+http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIyIDM6MDAKOjQwCiBBTSZoYXNoX3ZhbHVlPWhISml5KytoUFZ5aGdNbkhSc3JMNUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNzQuMTY3JnN0cm1fbGVuPTQ
+
+#EXTINF:-1 group-title="", fn 2
+http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIyIDM6MDAKOjQwCiBBTSZoYXNoX3ZhbHVlPWhISml5KytoUFZ5aGdNbkhSc3JMNUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNzQuMTY3JnN0cm1fbGVuPTQ=
 
 
 #EXTINF:-1 group-title="", a1
