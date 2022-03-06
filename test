@@ -44,13 +44,15 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MTLp5ldhVZDcyqgaJx
 
 
 
+#EXTINF:-1 group-title="", STREAMEAST.LIVE **WEB**
+https://www.streameast.live/ufc/ufc-272-covington-vs-masvidal|autowebzoom=120scroll=50,100
 
 
 
 
 
 
-#EXTINF:-1 group-title="", A not ENGLISH
+#EXTINF:-1 group-title="", TONIGHTS LINKS ARE ABOVE THIS LINE---------------------
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 
