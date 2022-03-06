@@ -1,8 +1,39 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="", NASCAR
-http://134.19.182.131:8080/pdga77f3b6e943f7c0b.m3u8?m=FHXTuWtup8cr_zS3Y8UOrw&c=a77f3b6e943f7c0b&p=3138352e3133332e3230322e323431&e=1645942098
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="", u1
+https://vsd105.mycdn.me:443/hls/2329106385460.m3u8/sig/mJvroIDiMZ8/expires/1646607796938/srcIp/45.130.83.67/clientType/0/srcAg/CHROME_ANDROID/mid/3653162638900/2329106385460_high/index.m3u8
+
+
+
+#EXTINF:-1 group-title="", u2
+https://vsd78.mycdn.me:443/hls/2329106385460.m3u8/sig/MMQhQJ1U24Y/expires/1646608499710/srcIp/85.203.36.108/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3653162638900/2329106385460_high/index.m3u8
+
+#EXTINF:-1 group-title="", u3
+https://dnog3rmny3g3p.cloudfront.net/hls/ufc/chunks.m3u8
+
+
+#EXTINF:-1 group-title="", u4
+https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1 group-title="", u5
+https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=5825ff5cdb27478aed62f2b678c61223c6c4761c-0.0010363828794237584-1645946884-1645910884
+
+#EXTINF:-1 group-title="", u6
+https://sl02.varcdn1.ru:443/setantasport/tracks-v1a1/mono.m3u8?mob=1
+
+#EXTINF:-1 group-title="", u7
+https://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_1972000=10002.m3u8
+
+
 
 
 
