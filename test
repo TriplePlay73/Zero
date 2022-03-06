@@ -19,33 +19,35 @@ http://www.ovostreams.com/ufc-272-covington-vs-masvidal-live-stream.php|autowebz
 
 
 
-
-
-
-#EXTINF:-1 group-title="", PAPAHD *web
-http://papahd.club/ufc-272-covington-vs-masvidal-2/?sport=mma|autowebzoom=120scroll=50,100
-
-
 #EXTINF:-1 group-title="", SW 1 English
 https://d3bh6k6cdgaj10.cloudfront.net/hls/main/chunks.m3u8
 
+#EXTINF:-1 group-title="", SW 2 English
+https://z.seast.se:443/eas/ufc1z/naxi/caxi.m3u8
 
-#EXTINF:-1 group-title="", SW 2
+#EXTINF:-1 group-title="", SW 3
 https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=5825ff5cdb27478aed62f2b678c61223c6c4761c-0.0010363828794237584-1645946884-1645910884
 
 
 
-#EXTINF:-1 group-title="", SW 3
+#EXTINF:-1 group-title="", SW 4
 http://77.247.109.116/live/abr_b-2/live/b-2/chunks.m3u8
 
 
-#EXTINF:-1 group-title="", SW 4
+#EXTINF:-1 group-title="", SW 5
 https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=264db35803edb679bcf3388ff2ccbb63ef75a747-0.9943958164759215-1646574139-1646538139
 
 
 
-#EXTINF:-1 group-title="", SW 5
+#EXTINF:-1 group-title="", SW 6
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MTLp5ldhVZDcyqgaJxEXqANV5bbZqZjbdTyuejRHZRblhSdnNoOoIXi2z2s-_Dpc3uz5CAb0nnjcheUQ__zOzQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="", A not ENGLISH
