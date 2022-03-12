@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="", s1
+https://vkvsd79.mycdn.me/hls/2165782481629.m3u8/sig/0n_3Fmlj_bo/expires/1647206986846/srcIp/2.100.29.157/clientType/13/srcAg/CHROME_ANDROID/mid/3201136929757/2165782481629_fullhd/index.m3u8?p
+
+
+#EXTINF:-1 group-title="", s2
+https://vkvsd79.mycdn.me/hls/2165782481629.m3u8/sig/0n_3Fmlj_bo/expires/1647206986846/srcIp/2.100.29.157/clientType/13/srcAg/CHROME_ANDROID/mid/3201136929757/2165782481629_high/index.m3u8?p
+
+#EXTINF:-1 group-title="", s3
+https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=126cbcd5b04071a48a1f76d15daedbf929d28daf-0.08299875591371642-1647156717-1647120717
+
+
 
 #EXTINF:-1 group-title="", WEB 1
 https://techoreels.com/2022/u1|autowebzoom=120scroll=50,100
