@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="", BK *web 1
+http://sw.freestreams-live1.com/bare-knuckle-live-stream|autowebzoom=120scroll=50,100
+
+
+
+
+
 #EXTINF:-1 group-title="", s1
 https://vkvsd79.mycdn.me/hls/2165782481629.m3u8/sig/0n_3Fmlj_bo/expires/1647206986846/srcIp/2.100.29.157/clientType/13/srcAg/CHROME_ANDROID/mid/3201136929757/2165782481629_fullhd/index.m3u8?p
 
