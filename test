@@ -6,8 +6,8 @@
 #EXTINF:-1 group-title="", F NIGHT *web 1
 http://fb.freestreams-live1.com/ufc3/
 
-
-
+#EXTINF:-1 group-title="", F NIGHT
+https://live-204.zxz.su/LIVE/LIVE:132838/HLS/1647727575/pkShaYVeytk_lIJIIfKrAw/live/132838_4/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="", BK *web 1
 http://sw.freestreams-live1.com/bare-knuckle-live-stream|autowebzoom=120scroll=50,100
