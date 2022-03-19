@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 group-title="", F NIGHT *web 1
+http://fb.freestreams-live1.com/ufc3/
+
+
+
+
 #EXTINF:-1 group-title="", BK *web 1
 http://sw.freestreams-live1.com/bare-knuckle-live-stream|autowebzoom=120scroll=50,100
 
