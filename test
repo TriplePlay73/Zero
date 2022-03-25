@@ -2,6 +2,18 @@
 
 
 
+#EXTINF:-1 group-title="",margolori/
+https://edge126.stream.highwebmedia.com/live-edge/amlst:margolori-sd-4d9ad96024d902ee149ceb5bfa25a6fd24a14c8aeb6a154e3a58e90bdc3380dc_trns_h264/playlist.m3u8?t=%7B%22username%22%3A%22tripleplay73%22%2C%22room%22%3A%22margolori%22%2C%22expire%22%3A1648249445%2C%22org%22%3A%22A%22%2C%22sig%22%3A%2237ca0f1d587376ce5419883006af225f9c81cae3dcaf3012c8c0da0a3a7bcf32%22%7D&u=tripleplay73&rp=a5b415bff5514adaffad938b065a0d8b7cfe4374c32486baec727f6ca5ff261b
+
+#EXTINF:-1 group-title="",Joslinmay
+https://edge182.stream.highwebmedia.com/live-edge/amlst:joselinmay-sd-6396a985a6fb671ce60547f3cc4783c7dee4e30c1f4e7e9a63b5a14e433a1e61_trns_h264/playlist.m3u8?t=%7B%22username%22%3A%22tripleplay73%22%2C%22room%22%3A%22joselinmay%22%2C%22expire%22%3A1648249480%2C%22org%22%3A%22A%22%2C%22sig%22%3A%22c7c4ee9c35d41d51405a12f97cef677b9c147db70284a515f0ee2fc61cbd7bf7%22%7D&u=tripleplay73&rp=93b6f1fa9bca9ce0f780750a7908b6ac7af472867ca43e1a167a2e968d97aaed
+
+
+#EXTINF:-1 group-title="",/mollyflwers/
+https://edge126.stream.highwebmedia.com/live-edge/amlst:mollyflwers-sd-3b3bace41cf9c052a8d728234411a4431b9b5a497b62b9a4a4ab2bd521e23d07_trns_h264/playlist.m3u8?t=%7B%22username%22%3A%22tripleplay73%22%2C%22room%22%3A%22mollyflwers%22%2C%22expire%22%3A1648249286%2C%22org%22%3A%22A%22%2C%22sig%22%3A%22db46c40e5f3ec8fea7af3717b1e6708e6612e513db144feaad4e78a5a3872d75%22%7D&u=tripleplay73&rp=4bb71d18a464a12e82d0e2d0d9c1a5bc8dd210c1d8224ecf15b5a52643cee125
+
+
+
 
 #EXTINF:-1 group-title="", F NIGHT *web 1 *************
 http://fb.freestreams-live1.com/ufc3|autowebzoom=120scroll=50,100
