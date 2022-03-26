@@ -2,6 +2,30 @@
 
 
 
+#EXTINF:-1 group-title="" ,A
+https://awshd.mazystreams.xyz/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDg6MTM6NDQgUE0maGFzaF92YWx1ZT1waU1MOHU2RThTUUlTUmZ1Q0I3U25BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02Ny4xOTguOTMuMTQ1JnN0cm1fbGVuPTU=
+
+
+#EXTINF:-1 group-title="" ,B
+http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
+
+
+#EXTINF:-1 group-title="" ,C
+https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
+
+
+#EXTINF:-1 group-title="" ,D
+http://init.cheches.info/hls/104.m3u8
+
+
+#EXTINF:-1 group-title="" ,E
+https://vklive6-2.vkuser.net/hls/2410195126998.m3u8/sig/mYCIY43vuBE/srcIp/88.110.96.176/urls/45.136.22.67/expires/1648788866844/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3811123932118/id/2410195126998/2410195126998_fullhd/index.m3u8?p
+
+
+#EXTINF:-1 group-title="" ,F
+http://77.247.109.116/live/abr_b-3/playlist.m3u8?BONGSTREAMS
+
+
 
 
 
