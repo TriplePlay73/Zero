@@ -12,11 +12,11 @@ https://awshd.mazystreams.xyz/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8
 http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 
 
-#EXTINF:-1 group-title="" ,C
+#EXTINF:-1 group-title="" , ESPN
 https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 
 
-#EXTINF:-1 group-title="" ,D
+#EXTINF:-1 group-title="" ,SK 
 http://init.cheches.info/hls/104.m3u8
 
 
