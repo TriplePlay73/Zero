@@ -1,8 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="" , 111111111111111
-https://bcsecurelivehls-i.akamaihd.net/hls/live/593003/hls/playlist.m3u8
+#EXTINF:-1 group-title="" , TEST
+https://www.filmon.com/tv/sex-ed-3-heterosexual|autowebzoom=120scroll=50,100
+
 
 #EXTINF:-1 group-title="" ,A
 https://awshd.mazystreams.xyz/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDg6MTM6NDQgUE0maGFzaF92YWx1ZT1waU1MOHU2RThTUUlTUmZ1Q0I3U25BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02Ny4xOTguOTMuMTQ1JnN0cm1fbGVuPTU=
