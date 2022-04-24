@@ -1,4 +1,33 @@
+
+
 #EXTM3U
+
+#EXTINF:-1 group-title="", A
+http://cdn1-bongakamai.xyz/live/adaptive_bong-2/live/bong-2/chunks.m3u8
+
+
+#EXTINF:-1 group-title="",B
+https://birutv.com/sport@birutv/live/bt1.m3u8
+
+#EXTINF:-1 group-title="",C
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 group-title="", D
+http://myott.tv/stream/MEITIIUJNS/112.m3u8?mob=1
+
+#EXTINF:-1 group-title="", E
+http://mma-tv.ru:9988/Mat4_Boes/video.m3u8?token=RneFbBl5u_XQv3
+
+#EXTINF:-1 group-title="",F
+https://01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8
+
+#EXTINF:-1 group-title="", G
+http://31.172.87.31:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_XaTwN-omV7BIESNOztaBvw%3D%3D%2C1647725664.9659699029=|User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 group-title="", H
+http://init.cheches.info/hls/108.m3u8pop
+
 
 
 
