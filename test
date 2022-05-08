@@ -2,6 +2,54 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 group-title="", 01
+http://cdn5-bongakamai.xyz:80/live/adaptive_bong-1/live/bong-1/chunks.m3u8
+
+
+#EXTINF:-1 group-title="",02
+https://bfa612661472.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.529707182583.channel.ySu9dhpdfh19.m3u8?SBN
+
+
+#EXTINF:-1 group-title="",03
+https://s@djwjf11yzd2i2.cloudfront.net:443/hls/ufc/chunks.m3u8
+
+
+#EXTINF:-1 group-title="",04
+http://d2tvucs557ov9o.cloudfront.net/stream/NDIxOQ==/1080p.m3u8
+
+
+#EXTINF:-1 group-title="",05
+https://djwjf11yzd2i2.cloudfront.net/hls/ufc/chunks.m3u8
+
+
+#EXTINF:-1 group-title="",06
+https://sll.deplayer.pw:30443/edge/ver54ce66e22bcf26037ce28538f182d09b/chunks.m3u8?nimblesessionid=111715&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjIgMTA6Mjk6MzkgUE0maGFzaF92YWx1ZT0rSDZsSjFrY3RhdmdtaEFqTDc4YkZBPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+
+
+#EXTINF:-1 group-title="",07
+http://50.7.92.90/Match_Boets/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="", A
 http://cdn1-bongakamai.xyz/live/adaptive_bong-2/live/bong-2/chunks.m3u8
 
