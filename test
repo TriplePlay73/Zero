@@ -7,7 +7,7 @@ Ufc
 #EXTM3U
 
 #EXTINF:-1 group-title="", 1
-http://boios.azureedge.net/stream/NDgxMQ==/1080p.m3u8
+https://vsd67.mycdn.me/hls/2998482438735.m3u8/sig/RQ1MZTpP0qo/expires/1661735939750/srcIp/73.81.122.91/clientType/0/srcAg/CHROME_ANDROID/mid/4215112408655/2998482438735_high/index.m3u8?p
 
 #EXTINF:-1 group-title="", 2
 https://dice-live-eu.akamaized.net/hls/live/2001495/221134-223039/exchange221134foivf_221134_6000/chunklist.m3u8?hdntl=exp=1661120135~acl=%2f*~id=d5dfe56b-ec7d-4ae5-ae71-ec46b1935b4d~data=hdntl~hmac=180fcd1a84221db45092ab42050322a71df3ba30a0296a8bd0243bac0ae44076&hdnea=st=1661033725~exp=1661033765~acl=/hls/live/2001495/221134-223039/*~id=d5dfe56b-ec7d-4ae5-ae71-ec46b1935b4d~data=d5dfe56b-ec7d-4ae5-ae71-ec46b1935b4d~hmac=3b2351903a042996dad719cb9ddd49724f5fd367568b9daf14be54a9c0a2d6e3&opId=148&cc=PE&ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2
