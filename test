@@ -2,38 +2,37 @@
 
 #EXTM3U
 
-Ufc
+
 
 #EXTM3U
 
 #EXTINF:-1 group-title="", 1x
-https://ziximedia.gigcasters.com/zixi-live/bkfc31_denver_fullevent/East-ABR-HLS-Transcode/East-ABR-HLS-Transcode-546p-1800kbps-31RVSrJ_live.m3u8?probing=true
 
 #EXTINF:-1 group-title="", 2x
-https://ziximedia.gigcasters.com/zixi-live/bkfc31_denver_fullevent/East-ABR-HLS-Transcode/East-ABR-HLS-Transcode-1080p-3800kbps-2k4DIBD_live.m3u8?probing=true
-
 
 #EXTINF:-1 group-title="", 3x
-https://ziximedia.gigcasters.com/zixi-live/bkfc31_denver_fullevent/East-ABR-HLS-Transcode/East-ABR-HLS-Transcode-1080p-3800kbps-2k4DIBD_live.m3u8
 
 #EXTINF:-1 group-title="", 4x
-https://edge2.lbs.pw/hls/boec/chunks.m3u8
 
 
 
 
 #EXTINF:-1 group-title="", 5
-https://edge2.lbs.pw/hls/boec/chunks.m3u8?nimblesessionid=1933089&token=4038e6792cc28d0d108a0c6fd4e74ae95fafd684-0.6286593103360694-1661070827-1661034827
+
+
 #EXTINF:-1 group-title="", 6
-https://edge2.lbs.pw/hls/boec/chunks.m3u8?nimblesessionid=1933221&token=1a17105582915c0568170e073663d67d9f0e74ca-0.3121992686296069-1661070864-1661034864
+
+
 #EXTINF:-1 group-title="", 7
-http://madein.azureedge.net/hls/ufc/chunks.m3u8
+
+
 #EXTINF:-1 group-title="", 8
-http://boios.azureedge.net/stream/NDgxMQ==/1080p.m3u8
+
+
 #EXTINF:-1 group-title="", 9
-https://vkvsd62.mycdn.me/hls/2965094206192.m3u8/sig/A__7SFC6DkU/expires/1661125200548/srcIp/92.20.156.25/clientType/13/srcAg/CHROME_ANDROID/mid/3969938500592/2965094206192_fullhd/index.m3u8?p
+
+
 #EXTINF:-1 group-title="", 10
-https://vkvsd62.mycdn.me/hls/2965094206192.m3u8/sig/A__7SFC6DkU/expires/1661125200548/srcIp/92.20.156.25/clientType/13/srcAg/CHROME_ANDROID/mid/3969938500592/2965094206192_high/index.m3u8?p
 
 
 
@@ -44,32 +43,27 @@ https://vkvsd62.mycdn.me/hls/2965094206192.m3u8/sig/A__7SFC6DkU/expires/16611252
 
 
 #EXTINF:-1 group-title="", 01
-http://144.126.137.157/fs2.m3u8
+
 
 
 #EXTINF:-1 group-title="",02
-http://144.126.137.157/espn2.m3u8
+
 
 
 #EXTINF:-1 group-title="",03
-https://s@djwjf11yzd2i2.cloudfront.net:443/hls/ufc/chunks.m3u8
 
 
 #EXTINF:-1 group-title="",04
-http://d2tvucs557ov9o.cloudfront.net/stream/NDIxOQ==/1080p.m3u8
 
 
 #EXTINF:-1 group-title="",05
-https://djwjf11yzd2i2.cloudfront.net/hls/ufc/chunks.m3u8
 
 
 #EXTINF:-1 group-title="",06
-https://sll.deplayer.pw:30443/edge/ver54ce66e22bcf26037ce28538f182d09b/chunks.m3u8?nimblesessionid=111715&wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjIgMTA6Mjk6MzkgUE0maGFzaF92YWx1ZT0rSDZsSjFrY3RhdmdtaEFqTDc4YkZBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 
 
 #EXTINF:-1 group-title="",07
-http://50.7.92.90/Match_Boets/mono.m3u8
 
 
 
@@ -91,30 +85,22 @@ http://50.7.92.90/Match_Boets/mono.m3u8
 
 
 #EXTINF:-1 group-title="", A
-http://cdn1-bongakamai.xyz/live/adaptive_bong-2/live/bong-2/chunks.m3u8
 
 
 #EXTINF:-1 group-title="",B
-https://birutv.com/sport@birutv/live/bt1.m3u8
 
 #EXTINF:-1 group-title="",C
-http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 group-title="", D
-http://myott.tv/stream/MEITIIUJNS/112.m3u8?mob=1
 
 #EXTINF:-1 group-title="", E
-http://mma-tv.ru:9988/Mat4_Boes/video.m3u8?token=RneFbBl5u_XQv3
-
+h
 #EXTINF:-1 group-title="",F
-https://01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8
 
 #EXTINF:-1 group-title="", G
-http://31.172.87.31:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_XaTwN-omV7BIESNOztaBvw%3D%3D%2C1647725664.9659699029=|User-agent=REDLINECLIENT
 
 
 #EXTINF:-1 group-title="", H
-http://init.cheches.info/hls/108.m3u8pop
 
 
 
@@ -122,18 +108,15 @@ http://init.cheches.info/hls/108.m3u8pop
 
 
 #EXTINF:-1 group-title="" 4444444444444444444
-http://d13z1lqpfq29ov.cloudfront.net/stream/MzgxMA==/1080p.m3u8
 
 
 #EXTINF:-1 group-title="" ,localnow.com/
-https://du6zwf9bdczcq.cloudfront.net/video/OTT/hls/Global_ThisJustIn_National_5/1648999086/manifest.m3u8
 
 
 
 
 
 #EXTINF:-1 group-title="" , /crazzygirll/
-https://edge188.stream.highwebmedia.com/live-edge/amlst:crazzygirll-sd-44220c90ec63296f2d320116f3b8f7cc67d0c51958c70b236e34cf6cc49af9d2_trns_h264/chunklist_w2105805460_b1148000_t64RlBTOjMwLjA=.m3u8
 
 
 
@@ -142,32 +125,22 @@ https://edge188.stream.highwebmedia.com/live-edge/amlst:crazzygirll-sd-44220c90e
 https://chaturbate.com/stacywaynne|autowebzoom=120scroll=50,100
 
 #EXTINF:-1 group-title="" , TEST
-https://www.filmon.com/tv/sex-ed-3-heterosexual|autowebzoom=120scroll=50,100
-
 
 #EXTINF:-1 group-title="" ,A
-https://awshd.mazystreams.xyz/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDg6MTM6NDQgUE0maGFzaF92YWx1ZT1waU1MOHU2RThTUUlTUmZ1Q0I3U25BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD02Ny4xOTguOTMuMTQ1JnN0cm1fbGVuPTU=
 
 
 #EXTINF:-1 group-title="" ,B
-http://212.29.231.242:8080/btv_67/index.m3u8?token=ku2ohvae0dee3ahrae0oCaexieXaequi
 
 
-#EXTINF:-1 group-title="" , ESPN
-https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1 group-title="" , 
 
 
-#EXTINF:-1 group-title="" ,SK 
-http://init.cheches.info/hls/104.m3u8
+#EXTINF:-1 group-title="" ,
 
 
-#EXTINF:-1 group-title="" ,E
-https://vklive6-2.vkuser.net/hls/2410195126998.m3u8/sig/mYCIY43vuBE/srcIp/88.110.96.176/urls/45.136.22.67/expires/1648788866844/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3811123932118/id/2410195126998/2410195126998_fullhd/index.m3u8?p
-
+#EXTINF:-1 group-title="" ,
 
 #EXTINF:-1 group-title="" ,F
-http://77.247.109.116/live/abr_b-3/playlist.m3u8?BONGSTREAMS
-
 
 
 
