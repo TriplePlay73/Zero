@@ -6,6 +6,20 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="", CH 3 News
+https://www.wkyc.com/watch|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="", CH 5 News
+https://www.cleveland19.com/livestream|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="", CH  8 News
+https://fox8.com/on-air/live-streaming|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="", CH 19 News
+https://www.news5cleveland.com/live|autowebzoom=120scroll=50,100
+
+
+
 #EXTINF:-1 group-title="", 1x
 
 #EXTINF:-1 group-title="", 2x
