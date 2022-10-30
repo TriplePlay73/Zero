@@ -30,6 +30,13 @@ https://vd198.mycdn.me/expires/1667179000958/srcIp/92.20.156.25/srcAg/CHROME_AND
 #EXTINF:-1 group-title="", Box 7
 https://storage.googleapis.com/jakep/boxing/mux_video/index-1.m3u8
 
+#EXTINF:-1 group-title="", Box 8
+https://vsd74.mycdn.me/hls/3106019216023.m3u8/sig/htJhZInNQD0/expires/1667179775757/srcIp/92.20.156.25/urls/45.136.20.46/clientType/0/srcAg/CHROME_ANDROID/mid/4819184131735/3106019216023_fullhd/index.m3u8?p
+
+#EXTINF:-1 group-title="", Box 9
+https://vsd74.mycdn.me/hls/3106019216023.m3u8/sig/htJhZInNQD0/expires/1667179775757/srcIp/92.20.156.25/urls/45.136.20.46/clientType/0/srcAg/CHROME_ANDROID/mid/4819184131735/3106019216023_high/index.m3u8?p
+
+
 
 
 #EXTINF:-1 group-title="", CH 3 News
