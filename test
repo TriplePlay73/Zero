@@ -27,7 +27,8 @@ http://waskteryaj.azureedge.net/live/BX2/chunks.m3u8
 #EXTINF:-1 group-title="", Box 6
 https://vd198.mycdn.me/expires/1667179000958/srcIp/92.20.156.25/srcAg/CHROME_ANDROID/ms/45.136.22.6/type/2/sig/8Nk72Tv1VDo/ct/8/urls/185.226.53.5/clientType/0/id/2086194317972/video/
 
-
+#EXTINF:-1 group-title="", Box 7
+https://storage.googleapis.com/jakep/boxing/mux_video/index-1.m3u8
 
 
 
