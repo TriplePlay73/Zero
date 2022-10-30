@@ -6,6 +6,31 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="", Box 1
+https://hdstreamss.club/live/ch9/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAxOjE0OjE5IEFNJmhhc2hfdmFsdWU9ODBKY2xRMm14VUV3RUY3TWpvS2h0dz09JnZhbGlkbWludXRlcz03MjAmaWQ9OTguMTU3LjkyLjExMiZzdHJtX2xlbj01
+
+#EXTINF:-1 group-title="", Box 2
+https://b.ognbastreams.xyz/sho.m3u8
+
+#EXTINF:-1 group-title="", Box 3
+https://a.ognbastreams.xyz/sho.m3u8
+
+#EXTINF:-1 group-title="", Box 4
+http://gyuunn.azureedge.net/scripts/NTg4Nw==/1080p.m3u8
+
+#EXTINF:-1 group-title="", Box 5
+http://cacskaysk.azureedge.net/streams/BOX1/chunks.m3u8
+
+#EXTINF:-1 group-title="", Box 5
+http://waskteryaj.azureedge.net/live/BX2/chunks.m3u8
+
+#EXTINF:-1 group-title="", Box 6
+https://vd198.mycdn.me/expires/1667179000958/srcIp/92.20.156.25/srcAg/CHROME_ANDROID/ms/45.136.22.6/type/2/sig/8Nk72Tv1VDo/ct/8/urls/185.226.53.5/clientType/0/id/2086194317972/video/
+
+
+
+
+
 #EXTINF:-1 group-title="", CH 3 News
 https://www.wkyc.com/watch|autowebzoom=120scroll=50,100
 
