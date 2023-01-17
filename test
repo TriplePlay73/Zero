@@ -3,30 +3,10 @@
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 group-title="", 1
-https://live.house.gov|weballdig
-
-#EXTINF:-1 group-title="", 2
-https://live.house.gov|webdig
-
-#EXTINF:-1 group-title="", 3
-https://live.house.gov|webproalldig
-
-#EXTINF:-1 group-title="", 4
-https://live.house.gov|webprodig
-
-#EXTINF:-1 group-title="", 5
-https://live.house.gov|webdeskalldig
-
-#EXTINF:-1 group-title="", 6
-https://live.house.gov|webdeskdig
-
-#EXTINF:-1 group-title="", 7
-https://live.house.gov|webdeskproalldig
-
-#EXTINF:-1 group-title="", 8
-https://live.house.gov|webdeskprodig
+#EXTINF:-1 group-title="", 88
+https://123tv.live/watch/fox-news-hd|autowebzoom=120scroll-50,100
+#EXTINF:-1 group-title="",99
+https://123tv.live/watch/fox-news-hd|webviewzoom=100scroll=50,100
 
 
 #EXTINF:-1 group-title="", a
@@ -35,7 +15,7 @@ https://live.house.gov|webdeskprodig
 #EXTINF:-1 group-title="", no spaces
 https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
 #EXTINF:-1 group-title="", with spaces
-https://ustvgo.tv/boomerang|autoweb zoom=120 scroll-50,100
+https://ustvgo.tv/boomerang|autowebzoom=120scroll-50,100
 
 #EXTINF:-1 group-title="",no spaces
 https://live.house.gov|webviewzoom=100scroll=50,100
