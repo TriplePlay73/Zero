@@ -3,6 +3,12 @@
 #EXTM3U
 
 #EXTM3U
+
+
+#EXTINF:-1 group-title="", Modern Marvals
+https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.bmodel=bm7&ads.channelStore=us&ads.content=4f3b4b68a6f45f17ad67903fe6826cbb&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=educational&ads.is_lat=1&ads.platform=web&ads.studio_id=ae_mg&ads.rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F109.0&is_lat=1&bmodel=bm7&content=4f3b4b68a6f45f17ad67903fe6826cbb&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&genre=educational&content_rating=TV14&studio_id=ae_mg&channel_id=151908&channelStore=us
+
+
 #EXTINF:-1 group-title="", 88
 https://123tv.live/watch/fox-news-hd|webviewzoom=100scroll=50,100
 #EXTINF:-1 group-title="", 1
