@@ -5,6 +5,141 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1,Vizio Kick Back (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
+
+#EXTINF:-1,Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojourny/CDN/playlist.m3u8
+
+#EXTINF:-1,Polaris (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioservicesll-polaris-vizious/playlist.m3u8
+
+
+EXTINF:-1,Drone TV (EU)
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Go See Westerns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
+
+#EXTINF:-1,Go Traveler
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3082
+
+
+#EXTINF:-1,People are Awesome (US)
+https://jukin-peopleareawesome-3-us.vidaa.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Popcorn Flix
+https://0a8aab349126402a95e24747b0405861.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa_Popflix/playlist.m3u8?ads.wurl_channel=1068&ads.wurl_name=Popflix&ads.coppa=0&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=%22
+
+#EXTINF:-1,Artflix (EU)
+https://amogonetworx-artflix-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Prisoner
+https://prisoner-10play.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Cowboy Way
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cowboy-Way.m3u8
+
+#EXTINF:-1,WEWS ABC 5 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WEWS2.m3u8
+#EXTINF:-1,WKYC NBC 3 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKYC.m3u8
+
+#EXTINF:-1,Cine Estrella (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+#EXTINF:-1,Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten British Films (GB)
+https://rakuten-british-films-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Comedy Movies (GB)
+https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Family (GB)
+https://rakuten-family-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Guardian (GB)
+https://rakuten-guardian-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten Romance (GB)
+https://rakuten-romance-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten Spotlight (GB)
+https://rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Thriller (GB)
+https://rakuten-thriller-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Top Free (GB)
+https://rakuten-topfree-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten Viki (GB)
+https://newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten Viki (US)
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,Rakuten Huippuelokuvat -Top Movies (EU)
+https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten Actionmovies (GB Subs) LG
+https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Rakuten TV Shows (GB Subs) LG
+https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (GB Subs) LG
+https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Viki (GB) LG
+https://newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="", Modern Marvals
 https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.bmodel=bm7&ads.channelStore=us&ads.content=4f3b4b68a6f45f17ad67903fe6826cbb&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=educational&ads.is_lat=1&ads.platform=web&ads.studio_id=ae_mg&ads.rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F109.0&is_lat=1&bmodel=bm7&content=4f3b4b68a6f45f17ad67903fe6826cbb&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&genre=educational&content_rating=TV14&studio_id=ae_mg&channel_id=151908&channelStore=us
 
