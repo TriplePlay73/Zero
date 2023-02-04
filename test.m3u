@@ -5,7 +5,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 group-title="Westerns", Cinevault Westerns | HD ***removed from main list
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&date0825
 
 #EXTINF:-1,Vizio Kick Back (Geo)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
