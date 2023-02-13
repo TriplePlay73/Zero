@@ -7,19 +7,33 @@
 #EXTM3U
 
 #EXTINF:-1, test 1 
-https://time4tv.stream/news/fox-news.php|autowebzoom=120scroll=50,100
+https://time4tv.stream/news/fox-news.php|webviewzoom=100scroll=50,100
 
 
 #EXTINF:-1, test 2
-https://tv247.us/watch/fox-news-us-free-stream|autowebzoom=120scroll=50,100
+https://tv247.us/watch/fox-news-us-free-stream|webviewzoom=100scroll=50,100
 
 
 
 
-#EXTINF:-1, test 3
+#EXTINF:-1, BT 1
 https://daddylivehd.sx/stream/stream-31.php|autowebzoom=120scroll=50,100
 
+#EXTINF:-1, Fox News
+https://daddylivehd.sx/stream/stream-347.php|autowebzoom=120scroll=50,100
 
+
+
+#EXTINF:-1, ESPN
+https://daddylivehd.sx/stream/stream-45.php|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1, 
+|autowebzoom=120scroll=50,100
+
+
+#EXTINF:-1, 
+|autowebzoom=120scroll=50,100
 
 
 #EXTINF:-1,Now 70's (NZ)
