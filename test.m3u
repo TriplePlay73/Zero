@@ -6,13 +6,18 @@
 
 #EXTM3U
 
-#EXTINF:-1, State Of The Union
-https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ofVhKVMww5GPMVdCHmn2IIYiekGre-sd--LNEWc27lR8x6hrkNa080cCV9LO39vKuCnAnvauY0FdDNn1qrpTpg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1, test 1 
+https://time4tv.stream/news/fox-news.php|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1,State Of The Union
-https://canary-video-us-east-1.pscp.tv/Transcoding/v1/hls/ofVhKVMww5GPMVdCHmn2IIYiekGre-sd--LNEWc27lR8x6hrkNa080cCV9LO39vKuCnAnvauY0FdDNn1qrpTpg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1, test 2
+https://tv247.us/watch/fox-news-us-free-stream|autowebzoom=120scroll=50,100
 
+
+
+
+#EXTINF:-1, test 3
+https://daddylivehd.sx/stream/stream-31.php|autowebzoom=120scroll=50,100
 
 
 
