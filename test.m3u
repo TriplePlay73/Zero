@@ -6,12 +6,340 @@
 
 #EXTM3U
 
-#EXTINF:-1, test 1 
-https://time4tv.stream/news/fox-news.php|webviewzoom=100scroll=50,100
+#EXTINF:-1 group-title="DADDY LIVE TV", ABC USA
+https://daddylivehd.sx/stream/stream-51.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", CBS USA
+https://daddylivehd.sx/stream/stream-52.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", BC USA
+https://daddylivehd.sx/stream/stream-53.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", FOX USA
+https://daddylivehd.sx/stream/stream-54.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", CW USA
+https://daddylivehd.sx/stream/stream-300.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Freeform
+https://daddylivehd.sx/stream/stream-301.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", A&E TV 
+https://daddylivehd.sx/stream/stream-302.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", AMC TV 
+https://daddylivehd.sx/stream/stream-303.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Animal Planet 
+https://daddylivehd.sx/stream/stream-304.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", 5 USA Channel
+https://daddylivehd.sx/stream/stream-360.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", BET Network
+https://daddylivehd.sx/stream/stream-306.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Brovo TV
+https://daddylivehd.sx/stream/stream-307.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", CNBC
+https://daddylivehd.sx/stream/stream-309.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Comedy Central
+https://daddylivehd.sx/stream/stream-310.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Discovery Life
+https://daddylivehd.sx/stream/stream-311.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Disney Channel
+https://daddylivehd.sx/stream/stream-312.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Discovery HD
+https://daddylivehd.sx/stream/stream-313.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Disney XD
+https://daddylivehd.sx/stream/stream-314.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", E! Entertainment
+https://daddylivehd.sx/stream/stream-315.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", FX TV
+https://daddylivehd.sx/stream/stream-317.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Game Show Network
+https://daddylivehd.sx/stream/stream-319.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", The Hallmark Channel
+https://daddylivehd.sx/stream/stream-320.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", HBO USA
+https://daddylivehd.sx/stream/stream-321.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", History TV
+https://daddylivehd.sx/stream/stream-322.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Headline News
+https://daddylivehd.sx/stream/stream-323.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Investigation Descovery
+https://daddylivehd.sx/stream/stream-324.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", ION Telivision
+https://daddylivehd.sx/stream/stream-325.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Lifetime Movie Network
+https://daddylivehd.sx/stream/stream-326.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", MSNBC
+https://daddylivehd.sx/stream/stream-327.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", National Geographic
+https://daddylivehd.sx/stream/stream-328.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Nick JR
+https://daddylivehd.sx/stream/stream-329.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Nick
+https://daddylivehd.sx/stream/stream-330.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Oprah Winfrey Network
+https://daddylivehd.sx/stream/stream-331.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Oxygen TV
+https://daddylivehd.sx/stream/stream-332.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Showtime USA
+https://daddylivehd.sx/stream/stream-333.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Paramont Network
+https://daddylivehd.sx/stream/stream-334.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Starz
+https://daddylivehd.sx/stream/stream-335.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", TBS
+https://daddylivehd.sx/stream/stream-336.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", TLC
+https://daddylivehd.sx/stream/stream-337.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", TNT
+https://daddylivehd.sx/stream/stream-338.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Cartoon Network
+https://daddylivehd.sx/stream/stream-339.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Travel Channel
+https://daddylivehd.sx/stream/stream-340.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", tru TV
+https://daddylivehd.sx/stream/stream-341.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", TVLAND
+https://daddylivehd.sx/stream/stream-342.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", USA Network
+https://daddylivehd.sx/stream/stream-343.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", VH1 USA
+https://daddylivehd.sx/stream/stream-344.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", CNN USA
+https://daddylivehd.sx/stream/stream-345.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", FOX News
+https://daddylivehd.sx/stream/stream-347.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Dave Channel
+https://daddylivehd.sx/stream/stream-348.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", BBC NEWS
+https://daddylivehd.sx/stream/stream-349.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", ITV 1 UK
+https://daddylivehd.sx/stream/stream-350.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", ITV 2 UK
+https://daddylivehd.sx/stream/stream-351.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", TV 3 UK
+https://daddylivehd.sx/stream/stream-352.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", ITV 4 UK
+https://daddylivehd.sx/stream/stream-353.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Channel 4 UK
+https://daddylivehd.sx/stream/stream-354.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Channel 5 UK
+https://daddylivehd.sx/stream/stream-355.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", BBC America   
+https://daddylivehd.sx/stream/stream-305.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Sky Witness HD
+https://daddylivehd.sx/stream/stream-361.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Sky Atlantic
+https://daddylivehd.sx/stream/stream-362.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", E4 Channel
+https://daddylivehd.sx/stream/stream-363.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", RTE 1
+https://daddylivehd.sx/stream/stream-364.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", RTE 2
+https://daddylivehd.sx/stream/stream-365.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", MTV UK
+https://daddylivehd.sx/stream/stream-367.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", MTV USA
+https://daddylivehd.sx/stream/stream-371.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", MUTV
+https://daddylivehd.sx/stream/stream-377.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", The Food Network
+https://daddylivehd.sx/stream/stream-384.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", SEC Network USA
+https://daddylivehd.sx/stream/stream-385.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", Lifetime Movies Network
+https://daddylivehd.sx/stream/stream-389.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE TV", The Weather Channel
+https://daddylivehd.sx/stream/stream-394.php|autowebzoom=120scroll=50,100
 
 
-#EXTINF:-1, test 2
-https://tv247.us/watch/fox-news-us-free-stream|webviewzoom=100scroll=50,100
+##SPORTS
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", 
+
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", ESPN USA
+https://daddylivehd.sx/stream/stream-44.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", ESPN 2 USA
+https://daddylivehd.sx/stream/stream-45.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", ESPNU USA
+https://daddylivehd.sx/stream/stream-316.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", BT Sport 1 HD
+https://daddylivehd.sx/stream/stream-31.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", BT Sport 2 HD
+https://daddylivehd.sx/stream/stream-32.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", BT Sport 3 HD
+https://daddylivehd.sx/stream/stream-33.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", BT Sport ESPN
+https://daddylivehd.sx/stream/stream-34.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", FOX Sports 1 USA
+https://daddylivehd.sx/stream/stream-39.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Tennis Channel
+https://daddylivehd.sx/stream/stream-40.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Astro SuperSport 5
+https://daddylivehd.sx/stream/stream-43.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Golf Channel
+https://daddylivehd.sx/stream/stream-318.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", CBS Sports Network
+https://daddylivehd.sx/stream/stream-308.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", WWE Network
+https://daddylivehd.sx/stream/stream-376.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Sky Sports News UK
+https://daddylivehd.sx/stream/stream-366.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Ziggo Sport Racing
+https://daddylivehd.sx/stream/stream-396.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Big Ten Network
+https://daddylivehd.sx/stream/stream-397.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", MLB Network
+https://daddylivehd.sx/stream/stream-399.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", NBA TV USA
+https://daddylivehd.sx/stream/stream-404.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", NFL Network
+https://daddylivehd.sx/stream/stream-405.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Sportsnet Ontario
+https://daddylivehd.sx/stream/stream-406.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Sportsnet West
+https://daddylivehd.sx/stream/stream-407.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Sportsnet East
+https://daddylivehd.sx/stream/stream-408.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN 1 Bar Germany
+https://daddylivehd.sx/stream/stream-426.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN 2 Bar Germany
+https://daddylivehd.sx/stream/stream-427.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN 1 Spain
+https://daddylivehd.sx/stream/stream-445.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN 2 Spain
+https://daddylivehd.sx/stream/stream-446.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN 3 Spain
+https://daddylivehd.sx/stream/stream-447.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Dazn 4 Spain
+https://daddylivehd.sx/stream/stream-448.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Premier Sports 2 UK
+https://daddylivehd.sx/stream/stream-550.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", DAZN F1 Spain
+https://daddylivehd.sx/stream/stream-537.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", SKY Sports Racing UK
+https://daddylivehd.sx/stream/stream-554.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", Racing UK
+https://daddylivehd.sx/stream/stream-555.php|autowebzoom=120scroll=50,100
+
+#EXTINF:-1 group-title="DADDY LIVE SPORTS", SportDigital Fussball
+https://daddylivehd.sx/stream/stream-571.php|autowebzoom=120scroll=50,100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
