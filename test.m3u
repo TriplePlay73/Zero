@@ -6,11 +6,13 @@
 
 #EXTM3U
 
-#EXTINF:-1, B1
-https://hdrgsg.azureedge.net/live/b1/chunks.m3u8
+#EXTINF:-1, B0 pulled1
+https://chfjhjkji.azureedge.net/streams/BOX/chunks.m3u8
 
-#EXTINF:-1, B2
-https://weakfhsg.azureedge.net/live/BX1/chunks.m3u8
+#EXTINF:-1, B0 pulled2
+https://hdstreamss.club:30443/live/abr_ch9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDc6NTY6MTcgUE0maGFzaF92YWx1ZT1ZaXZyWklncGZDR1JtRFdmNGk3TW1BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05OC4xNTcuOTIuMTEyJnN0cm1fbGVuPTU=
+
+
 
 #EXTINF:-1, B3
 https://storage.googleapis.com/bmhunt7/main/mux_video/index-1.m3u8
@@ -18,6 +20,12 @@ https://storage.googleapis.com/bmhunt7/main/mux_video/index-1.m3u8
 #EXTINF:-1, B4
 https://live.kinescopecdn.net/on-air/0daa6478-3d0b-4b0a-b010-95be80156eb4/3c614323-c0ab-4fa1-924d-0e3a37e2711e/720p/media.m3u8
 
+
+#EXTINF:-1, B9
+https://hdstreamss.club:30443/live/abr_ch9/live/ch9_720p/chunks.m3u8?nimblesessionid=760129&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDc6NDc6NTEgUE0maGFzaF92YWx1ZT1sV25TblAyQ0ttZzk4ZVkrcnQxa0J3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD05Mi40LjIzLjExJnN0cm1fbGVuPTU=
+
+#EXTINF:-1, B10
+https://vsd81.mycdn.me/hls/3554076330717.m3u8/sig/_xAXADPhFNc/expires/1677528446190/srcIp/76.98.207.147/urls/185.226.53.52/clientType/0/srcAg/CHROME_ANDROID/mid/4323288882909/3554076330717_high/index.m3u8?p%5C
 
 
 #EXTINF:-1 group-title="DADDY LIVE TV", ABC USA
