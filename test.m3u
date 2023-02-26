@@ -6,17 +6,14 @@
 
 #EXTM3U
 
-#EXTINF:-1, B4
+#EXTINF:-1, b4
 https://live.kinescopecdn.net/on-air/0daa6478-3d0b-4b0a-b010-95be80156eb4/3c614323-c0ab-4fa1-924d-0e3a37e2711e/720p/media.m3u8
 
+#EXTINF:-1, c5
+https://vkvsd61.mycdn.me/hls/3710907386551.m3u8/sig/wxxVkbQ71Ko/expires/1677536472961/srcIp/92.4.23.11/urls/185.226.53.56/clientType/13/srcAg/CHROME_ANDROID/mid/4672358656951/3710907386551_high/index.m3u8?p
 
-
-#EXTINF:-1, B10
-https://vsd81.mycdn.me/hls/3554076330717.m3u8/sig/_xAXADPhFNc/expires/1677528446190/srcIp/76.98.207.147/urls/185.226.53.52/clientType/0/srcAg/CHROME_ANDROID/mid/4323288882909/3554076330717_high/index.m3u8?p%5C
-
-
-#EXTINF:-1, B-20
-https://bftgbtbt.azureedge.net/live/b1/chunks.m3u8
+#EXTINF:-1, c6
+https://vkvsd61.mycdn.me/hls/3710907386551.m3u8/sig/ig3HolQrAhM/expires/1677536470979/srcIp/92.4.23.11/urls/185.226.53.47/clientType/14/srcAg/CHROME_ANDROID/mid/4672358656951/3710907386551_high/index.m3u8?p
 
 
 
