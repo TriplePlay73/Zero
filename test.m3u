@@ -7,10 +7,18 @@
 #EXTM3U
 
 #EXTINF:-1, B1
-https://ccamcsjka.azureedge.net/streams/BKFC/chunks.m3u8
+https://hdrgsg.azureedge.net/live/b1/chunks.m3u8
 
 #EXTINF:-1, B2
-https://vsd120.mycdn.me/hls/3673354799802.m3u8/sig/IZ9gC6hPxxc/expires/1677374310031/srcIp/76.98.206.130/urls/45.136.22.65/clientType/0/srcAg/CHROME_ANDROID/mid/5365005950650/3673354799802_high/index.m3u8?p
+https://weakfhsg.azureedge.net/live/BX1/chunks.m3u8
+
+#EXTINF:-1, B3
+https://storage.googleapis.com/bmhunt7/main/mux_video/index-1.m3u8
+
+#EXTINF:-1, B4
+https://live.kinescopecdn.net/on-air/0daa6478-3d0b-4b0a-b010-95be80156eb4/3c614323-c0ab-4fa1-924d-0e3a37e2711e/720p/media.m3u8
+
+
 
 #EXTINF:-1 group-title="DADDY LIVE TV", ABC USA
 https://daddylivehd.sx/stream/stream-51.php|autowebzoom=120scroll=50,100
