@@ -9,8 +9,6 @@
 #EXTINF:-1, B0 pulled1 ***
 https://ccaystattg.azureedge.net/streams/BOX/playlist.m3u8
 
-#EXTINF:-1, B0 pulled2 maybe
-https://d3vjx7qhxca77l.cloudfront.net/out/v1/7d134e2a1216407fa63ec47cb42716d6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDg6NDE6MTEgUE0maGFzaF92YWx1ZT1Kb3NER2lsWEpCdTBFSy9jNmRTVHR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD05OC4xNTcuOTIuMTEyJnN0cm1fbGVuPTU=
 
 
 #EXTINF:-1, B4
@@ -21,11 +19,6 @@ https://live.kinescopecdn.net/on-air/0daa6478-3d0b-4b0a-b010-95be80156eb4/3c6143
 #EXTINF:-1, B10
 https://vsd81.mycdn.me/hls/3554076330717.m3u8/sig/_xAXADPhFNc/expires/1677528446190/srcIp/76.98.207.147/urls/185.226.53.52/clientType/0/srcAg/CHROME_ANDROID/mid/4323288882909/3554076330717_high/index.m3u8?p%5C
 
-#EXTINF:-1, B11
-https://wanaty111jukyk.azureedge.net/live/BX1/chunks.m3u8
-
-#EXTINF:-1, B12
-https://d3vjx7qhxca77l.cloudfront.net/out/v1/7d134e2a1216407fa63ec47cb42716d6/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDg6MzA6MjIgUE0maGFzaF92YWx1ZT1rdmtTN3dVaFpndlJubUZxUEF5UWhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05Mi40LjIzLjExJnN0cm1fbGVuPTU
 
 #EXTINF:-1, B13 ***
 https://repliq11.s3.amazonaws.com/game_1280x720_5000k.m3u8
