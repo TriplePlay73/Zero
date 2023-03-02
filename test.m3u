@@ -6,6 +6,9 @@
 
 #EXTM3U
 
+#EXTINF:-1, CPAC
+https://www.conservative.org|autowebzoom=120scroll=50,100
+
 #EXTINF:-1, ??
 https://live.kinescopecdn.net/on-air/0daa6478-3d0b-4b0a-b010-95be80156eb4/3c614323-c0ab-4fa1-924d-0e3a37e2711e/720p/media.m3u8
 
