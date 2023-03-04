@@ -645,46 +645,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8?ads.wurl_channel=1040&ads.wurl_name=ModernMarvels&ads.coppa=0&ads.bmodel=bm7&ads.channelStore=us&ads.content=4f3b4b68a6f45f17ad67903fe6826cbb&ads.content_rating=TV14&ads.tags=ROKU_CONTENT_TAGS&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=educational&ads.is_lat=1&ads.platform=web&ads.studio_id=ae_mg&ads.rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%3B+rv%3A109.0%29+Gecko%2F20100101+Firefox%2F109.0&is_lat=1&bmodel=bm7&content=4f3b4b68a6f45f17ad67903fe6826cbb&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=dcc652f9-a0dd-5f06-a156-e1140c5dd47f&genre=educational&content_rating=TV14&studio_id=ae_mg&channel_id=151908&channelStore=us
 
 
-#EXTINF:-1 group-title="", 88
-https://123tv.live/watch/fox-news-hd|webviewzoom=100scroll=50,100
-#EXTINF:-1 group-title="", 1
-https://123tv.live/watch/fox-news-hd|weballdig
 
-#EXTINF:-1 group-title="", 2
-https://123tv.live/watch/fox-news-hd|webdig
-
-#EXTINF:-1 group-title="", 3
-https://123tv.live/watch/fox-news-hd|webproalldig
-
-#EXTINF:-1 group-title="", 4
-https://123tv.live/watch/fox-news-hd|webprodig
-
-#EXTINF:-1 group-title="", 5
-https://123tv.live/watch/fox-news-hd|webdeskalldig
-
-#EXTINF:-1 group-title="", 6
-https://123tv.live/watch/fox-news-hd|webdeskdig
-
-#EXTINF:-1 group-title="", 7
-https://123tv.live/watch/fox-news-hd|webdeskproalldig
-
-#EXTINF:-1 group-title="", 8
-https://123tv.live/watch/fox-news-hd|webdeskprodig
-
-
-#EXTINF:-1 group-title="", a
-
-
-#EXTINF:-1 group-title="", no spaces
-https://ustvgo.tv/boomerang|autowebzoom=120scroll=50,100
-#EXTINF:-1 group-title="", with spaces
-https://ustvgo.tv/boomerang|autowebzoom=120scroll-50,100
-
-#EXTINF:-1 group-title="",no spaces
-https://live.house.gov|webviewzoom=100scroll=50,100
-
-#EXTINF:-1 group-title="",with spaces
-https://live.house.gov|webview zoom=100 scroll=50,100
 
 
 
@@ -722,17 +683,6 @@ https://live.house.gov|webview zoom=100 scroll=50,100
 
 
 
-#EXTINF:-1 group-title="", CH 3 News
-https://www.wkyc.com/watch|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="", CH 5 News
-https://www.cleveland19.com/livestream|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="", CH  8 News
-https://fox8.com/on-air/live-streaming|autowebzoom=120scroll=50,100
-
-#EXTINF:-1 group-title="", CH 19 News
-https://www.news5cleveland.com/live|autowebzoom=120scroll=50,100
 
 
 
@@ -835,18 +785,6 @@ h
 
 
 
-
-
-#EXTINF:-1 group-title="" 4444444444444444444
-
-
-#EXTINF:-1 group-title="" ,localnow.com/
-
-
-
-
-
-#EXTINF:-1 group-title="" , /crazzygirll/
 
 
 
